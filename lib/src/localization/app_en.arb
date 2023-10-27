@@ -1,0 +1,6 @@
+{
+  "appTitle": "security_info_project",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
