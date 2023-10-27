@@ -1,0 +1,552 @@
+[
+    {
+        "pregunta": "¿Qué términos relacionados con la ciberseguridad mencionas?",
+        "opciones": [
+            "Ciberseguridad, estafa en línea, hackeo, vulnerabilidad",
+            "Redes sociales, compras en línea, noticias, juegos",
+            "Llaves de casa, dinero, privacidad, antivirus"
+        ],
+        "respuesta_correcta": 0
+    },
+    {
+        "pregunta": "¿Por qué algunas personas subestiman la importancia de la ciberseguridad?",
+        "opciones": [
+            "Creen que no tienen información valiosa.",
+            "Piensan que son inmunes a los ataques.",
+            "Tienen contraseñas fuertes."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante estar preparado en términos de ciberseguridad?",
+        "opciones": [
+            "Para dejar que los ataques sucedan sin resistencia.",
+            "Para protegerse y defenderse contra amenazas.",
+            "Porque estar despreocupado es lo mejor."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Qué similitudes existen entre la ciberdelincuencia actual y los ataques del pasado?",
+        "opciones": [
+            "Ambos son igualmente peligrosos.",
+            "Los métodos actuales se basan en técnicas antiguas.",
+            "Los ataques del pasado eran más avanzados."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Para qué utilizas Internet según el video?",
+        "opciones": [
+            "Para ir de compras y jugar juegos.",
+            "Para mantenerse al día con noticias, comprar, jugar, trabajar y conectarse con otros.",
+            "Para vigilar a extraños."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante utilizar contraseñas complejas y únicas?",
+        "opciones": [
+            "Porque son difíciles de recordar.",
+            "Porque funcionan como cerraduras seguras para cuentas en línea.",
+            "Porque son fáciles de compartir."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué no debes aceptar invitaciones de extraños en redes sociales?",
+        "opciones": [
+            "Porque no te gustan las redes sociales.",
+            "Porque los extraños suelen ser ciberdelincuentes que roban datos.",
+            "Porque no quieres tener más amigos en línea."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Cómo pueden las acciones en línea tener consecuencias fuera de Internet?",
+        "opciones": [
+            "Las acciones en línea son inofensivas y no tienen consecuencias.",
+            "La información en línea puede utilizarse con fines malintencionados fuera de la web.",
+            "Lo que haces en línea se queda en línea."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante proteger la información personal en línea?",
+        "opciones": [
+            "Porque la información personal no tiene valor para los demás.",
+            "Porque lo que publicas en línea es permanente y puede ser utilizado en tu contra.",
+            "Porque proteger la información es aburrido."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué debes tener cuidado con los enlaces y las descargas en línea?",
+        "opciones": [
+            "Los enlaces y descargas en línea son siempre seguros.",
+            "Las estafas en línea a menudo involucran enlaces maliciosos o descargas de malware.",
+            "Los enlaces y descargas en línea son inofensivos."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante mantener actualizadas las configuraciones de privacidad y antivirus?",
+        "opciones": [
+            "Porque no importa si tus sistemas están actualizados o no.",
+            "Las actualizaciones ayudan a proteger contra nuevas amenazas en línea.",
+            "La privacidad en línea no es importante."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante no compartir información confidencial en conexiones públicas?",
+        "opciones": [
+            "Las conexiones públicas son seguras por defecto.",
+            "Las conexiones públicas pueden no ser seguras y la información podría ser interceptada.",
+            "Las conexiones públicas no son útiles."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante buscar consejo de personas de confianza en situaciones en línea sospechosas?",
+        "opciones": [
+            "Porque no necesitas consejos en línea.",
+            "Porque las personas de confianza pueden ayudarte a tomar decisiones seguras en línea.",
+            "Porque la gente en línea siempre dice la verdad."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Qué puede suceder si no utilizas contraseñas complejas y únicas?",
+        "opciones": [
+            "Nada, las contraseñas no importan.",
+            "Tus cuentas en línea pueden ser vulnerables a ataques.",
+            "Tendrás más amigos en línea."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Qué precauciones debes tomar al aceptar invitaciones en redes sociales?",
+        "opciones": [
+            "Ninguna, todos son amigos en línea.",
+            "Debes verificar la autenticidad de la persona y limitar la información compartida.",
+            "Debes aceptar todas las solicitudes de amistad."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué debes considerar las consecuencias de tus acciones en línea?",
+        "opciones": [
+            "Porque las acciones en línea no tienen efectos en la vida real.",
+            "Porque lo que publicas puede ser utilizado en tu contra por personas malintencionadas.",
+            "Porque no importa lo que hagas en línea."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Qué pasa con la información en línea que publicas?",
+        "opciones": [
+            "Puede eliminarse con un clic.",
+            "Permanece en línea para siempre y puede ser compartida por otros.",
+            "La información en línea no importa."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Qué tipo de amenazas se pueden esconder detrás de enlaces y descargas en línea?",
+        "opciones": [
+            "Ninguna, todos los enlaces son seguros.",
+            "Malware y estafas que roban información personal.",
+            "Solo publicidad inofensiva."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante mantener actualizadas las configuraciones de privacidad y antivirus?",
+        "opciones": [
+            "No es importante en absoluto.",
+            "Las actualizaciones protegen contra nuevas amenazas en línea.",
+            "La seguridad en línea es innecesaria."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué no debes compartir información confidencial en conexiones públicas?",
+        "opciones": [
+            "Las conexiones públicas son siempre seguras.",
+            "Las conexiones públicas pueden no ser seguras y la información podría ser interceptada.",
+            "La seguridad en línea no importa."
+        ],
+        "respuesta_correcta": 1
+    },
+    {
+        "pregunta": "¿Qué hacer si te sientes inseguro en línea?",
+        "opciones": [
+            "No hacer nada y esperar a que los problemas desaparezcan.",
+            "Buscar consejo de personas de confianza para tomar decisiones seguras.",
+            "Compartir información personal con extraños en línea."
+        ],
+        "respuesta_correcta": 1
+    },
+        
+    {
+            "pregunta": "¿Qué es la ingeniería social en el contexto de la ciberdelincuencia?",
+            "opciones": [
+                "Un proceso de diseño de software.",
+                "Una técnica para engañar a las personas y obtener información confidencial.",
+                "Una forma de seguridad en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante usar una contraseña diferente para cada cuenta en línea?",
+            "opciones": [
+                "Para olvidar tus contraseñas más fácilmente.",
+                "Para dificultar que los ciberdelincuentes accedan a múltiples cuentas si obtienen una contraseña.",
+                "Porque es más divertido."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es un ejemplo de información personal que no deberías compartir en línea?",
+            "opciones": [
+                "Tu color favorito.",
+                "Tu dirección de casa o tu número de seguro social.",
+                "Tus pasatiempos y aficiones."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la amenaza de hacer clic en enlaces o descargas desconocidas en línea?",
+            "opciones": [
+                "Nada, los enlaces y descargas siempre son seguros.",
+                "Pueden contener malware o estafas para robar información personal.",
+                "Solo conducen a páginas aburridas."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué es un sistema de antivirus?",
+            "opciones": [
+                "Un software para rastrear amigos en línea.",
+                "Un programa que protege tu computadora contra virus y malware.",
+                "Una red social de ciberseguridad."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante utilizar una conexión segura en redes públicas?",
+            "opciones": [
+                "Porque todas las conexiones públicas son seguras.",
+                "Para evitar que otros accedan a tu información confidencial.",
+                "Porque puedes chatear con amigos de forma segura."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué se recomienda hacer si recibes un correo electrónico sospechoso solicitando información personal?",
+            "opciones": [
+                "Responder con tus datos personales para estar seguro.",
+                "Ignorarlo y eliminarlo de inmediato.",
+                "Compartirlo en las redes sociales para alertar a otros."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el propósito de mantener actualizado tu sistema operativo?",
+            "opciones": [
+                "Para que tu computadora funcione más lenta.",
+                "Para proteger tu dispositivo contra vulnerabilidades y amenazas nuevas.",
+                "Para perder tiempo."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué medidas de seguridad pueden ayudarte a proteger tu información en línea?",
+            "opciones": [
+                "No tomar ninguna medida y confiar en la suerte.",
+                "Usar contraseñas fuertes, configuraciones de privacidad y software antivirus.",
+                "Compartir toda tu información en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante verificar la autenticidad de las cuentas en redes sociales?",
+            "opciones": [
+                "Porque todas las cuentas en redes sociales son auténticas.",
+                "Para evitar interactuar con ciberdelincuentes que utilizan perfiles falsos.",
+                "Para conseguir más amigos en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué debes hacer si te das cuenta de que has compartido información personal con un ciberdelincuente?",
+            "opciones": [
+                "No hacer nada, no es un problema.",
+                "Informar de inmediato a las autoridades y cambiar tus contraseñas.",
+                "Esperar a que el ciberdelincuente te llame para disculparse."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante mantener información personal fuera de las redes públicas?",
+            "opciones": [
+                "Porque la información personal solo es importante en la vida real.",
+                "Para evitar que personas no autorizadas accedan a tus datos.",
+                "Porque la información personal no es relevante."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo pueden las personas de confianza ayudarte en línea?",
+            "opciones": [
+                "No pueden ayudarte en línea.",
+                "Pueden brindar consejos y apoyo para tomar decisiones seguras en línea.",
+                "Solo pueden proporcionarte datos adicionales sobre ti."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué precauciones debes tomar al abrir correos electrónicos de remitentes desconocidos?",
+            "opciones": [
+                "Abrir cualquier correo electrónico sin preocuparte.",
+                "No abrir correos electrónicos de remitentes desconocidos y eliminarlos.",
+                "Responder a todos los correos electrónicos sin importar su origen."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante educar a los jóvenes sobre la ciberseguridad?",
+            "opciones": [
+                "Porque los jóvenes no usan Internet.",
+                "Porque los jóvenes son el grupo más vulnerable a los riesgos en línea.",
+                "Porque los jóvenes ya saben todo sobre ciberseguridad."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el riesgo de ignorar las actualizaciones de seguridad en línea?",
+            "opciones": [
+                "Ningún riesgo, las actualizaciones son innecesarias.",
+                "Los ciberdelincuentes pueden aprovechar las vulnerabilidades no corregidas.",
+                "Las actualizaciones ralentizan la computadora."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué se puede lograr a través de la ingeniería social?",
+            "opciones": [
+                "Mejorar la ingeniería de construcción.",
+                "Engañar a las personas para obtener información confidencial o acceso a sistemas.",
+                "Crear nuevas redes sociales."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué debes ser cauteloso al aceptar invitaciones de extraños en redes sociales?",
+            "opciones": [
+                "Porque los desconocidos son siempre confiables en línea.",
+                "Para evitar el riesgo de que ciberdelincuentes roben tus datos.",
+                "Para hacer nuevos amigos rápidamente."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué significa estar ok en el contexto de la ciberseguridad?",
+            "opciones": [
+                "No hacer nada y esperar que no ocurra nada malo.",
+                "Estar preparado, alerta y saber cómo protegerse en línea.",
+                "Dejar que otros tomen todas las decisiones en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la importancia de mantener la información personal protegida en línea?",
+            "opciones": [
+                "No es importante, todos pueden ver tu información.",
+                "Para evitar el robo de identidad y el acceso no autorizado a tus cuentas.",
+                "Porque es divertido compartir toda tu información en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué se puede lograr a través de la ingeniería social?",
+            "opciones": [
+                "Ganar más amigos en línea.",
+                "Engañar a las personas para obtener información confidencial o acceso a sistemas.",
+                "Crear una nueva red social."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué debes hacer si sospechas que un correo electrónico es una estafa?",
+            "opciones": [
+                "Compartirlo con todos tus contactos para advertirles.",
+                "No hacer nada y seguir las instrucciones del correo electrónico.",
+                "Informar a las autoridades y no seguir las instrucciones del correo electrónico."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué los jóvenes son considerados más vulnerables en línea según el estudio de Microsoft?",
+            "opciones": [
+                "Porque los jóvenes son más inteligentes que los adultos.",
+                "Son más propensos a tener comportamientos arriesgados en línea y a perder dinero en estafas.",
+                "Los jóvenes no usan Internet."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la importancia de pensar antes de publicar contenido en línea?",
+            "opciones": [
+                "No es importante, puedes publicar lo que quieras en Internet.",
+                "Para evitar que información sensible caiga en manos equivocadas.",
+                "No es necesario pensar antes de publicar en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué las contraseñas deben ser complejas y únicas para cada cuenta?",
+            "opciones": [
+                "Porque es más fácil recordar una sola contraseña simple.",
+                "Para evitar que si una contraseña se filtra, se comprometan todas tus cuentas.",
+                "No es necesario usar contraseñas."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué deben hacer los jóvenes para aprender a mantenerse seguros en línea según Microsoft?",
+            "opciones": [
+                "Nada, los jóvenes ya saben todo sobre seguridad en línea.",
+                "Utilizar el comecocos de papel y la guía de actividades proporcionados por Microsoft.",
+                "Compartir más información en línea para aprender de la experiencia."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué la ciberdelincuencia no se limita a las computadoras, según el video?",
+            "opciones": [
+                "Porque las computadoras son completamente seguras.",
+                "Porque las mismas técnicas de ciberdelincuencia se han utilizado en ataques de ingeniería social por teléfono y extorsiones.",
+                "Porque las computadoras no tienen nada que ver con la ciberdelincuencia."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué riesgos existen al no tener cuidado en línea, según el video?",
+            "opciones": [
+                "Ningún riesgo, todos en línea son amigables.",
+                "El riesgo de ser atacado, engañado, robado o dañado en línea.",
+                "No hay riesgos en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué significa ciberseguridad",
+            "opciones": [
+                "La seguridad en la vida real.",
+                "La seguridad en línea, protegerse de amenazas en Internet.",
+                "No significa nada."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué se puede lograr a través de la ingeniería social?",
+            "opciones": [
+                "Mejorar las habilidades de construcción.",
+                "Engañar a las personas para obtener información confidencial o acceso a sistemas.",
+                "Construir una fortaleza."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué puede suceder si no tomas medidas para proteger tu información en línea?",
+            "opciones": [
+                "Nada, la información en línea es siempre segura.",
+                "Tu información puede ser robada o utilizada con fines maliciosos.",
+                "Tu información solo puede ser compartida por accidente."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante educar a los jóvenes sobre la ciberseguridad?",
+            "opciones": [
+                "Porque los jóvenes ya son expertos en ciberseguridad.",
+                "Porque son el grupo más vulnerable a riesgos en línea y necesitan orientación.",
+                "Porque los jóvenes no usan Internet."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Qué precauciones debes tomar al interactuar con desconocidos en línea?",
+            "opciones": [
+                "No tomar precauciones, todos son confiables en línea.",
+                "Ser cauteloso y no compartir información personal con extraños.",
+                "Compartir toda tu información en línea para hacer amigos más rápido."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante ser consciente de que tus acciones en línea pueden tener consecuencias fuera de la web?",
+            "opciones": [
+                "Porque las acciones en línea no tienen consecuencias en la vida real.",
+                "Para evitar problemas con tu jefe, cliente o familiares.",
+                "No es importante, las acciones en línea no importan en absoluto."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante configurar adecuadamente la privacidad en línea?",
+            "opciones": [
+                "Porque la privacidad en línea es innecesaria.",
+                "Para limitar quién puede acceder a tu información y publicaciones.",
+                "No es importante configurar la privacidad en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el riesgo de no ser cuidadoso al hacer clic en enlaces en línea?",
+            "opciones": [
+                "No hay riesgo, todos los enlaces son seguros.",
+                "Puedes descargar malware o ser víctima de estafas.",
+                "Solo encontrarás información interesante al hacer clic."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante mantener actualizado tu software de seguridad en línea?",
+            "opciones": [
+                "No es importante, el software de seguridad ralentiza la computadora.",
+                "Para protegerse contra nuevas amenazas y vulnerabilidades.",
+                "Nunca debes actualizar tu software de seguridad en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué es importante evitar compartir información personal en redes públicas?",
+            "opciones": [
+                "Porque la información personal no es relevante en redes públicas.",
+                "Para prevenir que otros accedan a tu información confidencial.",
+                "Compartir información personal en redes públicas es seguro."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Por qué debes pedir consejo a personas de confianza en línea?",
+            "opciones": [
+                "Porque las personas de confianza no pueden ofrecer consejos en línea.",
+                "Para obtener orientación sobre cómo tomar decisiones seguras en línea.",
+                "Es mejor tomar decisiones por tu cuenta en línea."
+            ],
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el riesgo de no prestar atención a las invitaciones de extraños en redes sociales?",
+            "opciones": [
+                "No hay riesgo, todos los extraños son amigables en línea.",
+                "Puedes exponerte a ciberdelincuentes que utilizan perfiles falsos.",
+                "Aumentarás tus amigos rápidamente al aceptar todas las invitaciones."
+            ],
+            "respuesta_correcta": 1
+        }
+]

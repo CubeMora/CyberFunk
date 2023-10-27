@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:security_info_project/src/pages/quiz_screen.dart';
 import 'package:security_info_project/src/widgets/ButtonGeneralAction.dart';
 import 'package:security_info_project/src/widgets/CyberFunkAppBar.dart';
 import 'package:security_info_project/src/widgets/textNormal.dart';
@@ -22,16 +23,20 @@ class _VideoCourseScreenState extends State<VideoCourseScreen> {
   void initState() {
     super.initState();
     _videoPlayerController = VideoPlayerController.network(
-        'https://dl.dropboxusercontent.com/s/8hbimughj1qqms0hpyuhp/Modulo_1_Seguridad_Online_video1.mp4?rlkey=dwmp927xu44v2ro84s7rv6n1g&dl=0'
+        //'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4'
+        'https://dl.dropboxusercontent.com/s/25kt0glpjda6cdyy5y7jt/Tema-4.-La-importancia-de-contrase-as-seguras-video-converter.com.mp4?rlkey=6wew6x113vnz1dr9jylgx7vlq&dl=0'
+        //'https://dl.dropboxusercontent.com/s/8hbimughj1qqms0hpyuhp/Modulo_1_Seguridad_Online_video1.mp4?rlkey=dwmp927xu44v2ro84s7rv6n1g&dl=0'
         //'https://drive.google.com/uc?export=download&id=1f1DDyw1w6al0ewj6EyZ2l_oStikVvj0W',
         //1f1DDyw1w6al0ewj6EyZ2l_oStikVvj0W
         //x1fush3kadnmz3li6nhxc /2023-10-25-21-59-15.mp4
         );
 
     _chewieController = ChewieController(
+
       videoPlayerController: _videoPlayerController,
       aspectRatio: 16 / 9, // Adjust this value to change the aspect ratio
       autoInitialize: false,
+
       looping: false,
       errorBuilder: (context, errorMessage) {
         return Center(
@@ -79,23 +84,39 @@ class _VideoCourseScreenState extends State<VideoCourseScreen> {
           ),
 
           //HERE GOES THE VIDEO PLAYER
-          
-          Container(
-            height: 300.0,
-            child: Chewie(controller: _chewieController),
-            margin: EdgeInsets.all(50.0),
-          ),
 
-          _videoEnded ? Padding(
-            padding: const EdgeInsets.symmetric(vertical: 30.0, horizontal: 20.0),
-            child: buttonGeneralAction("Comenzar Quiz", () { }),
-          ) : SizedBox(),
+          
+            Container(
+              height: 300.0,
+              child: Chewie(controller: _chewieController),
+              margin: EdgeInsets.all(50.0),
+            ),
+          
+
+          _videoEnded
+              ? Padding(
+                  padding: const EdgeInsets.symmetric(
+                      vertical: 30.0, horizontal: 20.0),
+                  child: buttonGeneralAction("Comenzar Quiz", () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => QuizScreen(
+                            
+                            ),
+                      ),
+                    );
+                  }),
+                )
+              : SizedBox(),
 
           ListTile(
             title: Text('Resumen'),
             subtitle: Column(
               children: [
-                SizedBox(height: 10.0,),
+                SizedBox(
+                  height: 10.0,
+                ),
                 Divider(
                   height: 2.0,
                   indent: 10.0,

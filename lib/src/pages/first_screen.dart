@@ -3,12 +3,15 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:security_info_project/src/pages/main_menu.dart';
 import 'package:security_info_project/src/pages/video_screen.dart';
 import 'package:security_info_project/src/sample_feature/sample_item_list_view.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
 
 class FirstScreen extends StatelessWidget {
   FirstScreen({super.key});
 
   static const routeName = '/first';
   final myController = TextEditingController();
+  
 
   @override
   Widget build(BuildContext context) {
@@ -111,13 +114,15 @@ Widget _textUserNameInput(TextEditingController controller) {
   );
 }
 
-void navigateToNextScreen(BuildContext context) {
+void navigateToNextScreen(BuildContext context) async {
   String textToSend = myController.text;
+  SharedPreferences prefs = await SharedPreferences.getInstance();
+  prefs.setString('username', textToSend);
   Navigator.push(
     context,
     MaterialPageRoute(
-      builder: (context) => VideoCourseScreen(
-       // textPassed: textToSend,
+      builder: (context) => MainMenu(
+       
       ),
     ),
   );

@@ -23,7 +23,7 @@ class CyberFunkAppBar extends StatelessWidget implements PreferredSizeWidget {
         )
       ],
       leading: IconButton(
-        onPressed: () {},
+        onPressed: () => Scaffold.of(context).openDrawer(),
         icon: const Icon(Icons.menu),
         color: Colors.black,
       ),

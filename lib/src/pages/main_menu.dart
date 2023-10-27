@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:security_info_project/src/pages/video_screen.dart';
 import 'package:security_info_project/src/widgets/CyberFunkAppBar.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:security_info_project/src/widgets/textNormalDark.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class MainMenu extends StatefulWidget {
   const MainMenu({super.key});
@@ -11,6 +14,16 @@ class MainMenu extends StatefulWidget {
 }
 
 class _MainMenuState extends State<MainMenu> {
+  late SharedPreferences sharedPrefs;
+
+  @override
+  void initState() {
+    super.initState();
+    SharedPreferences.getInstance().then((prefs) {
+      setState(() => sharedPrefs = prefs);
+    });
+  }
+
   List<String> items = [
     'Seguridad en línea',
     'Escenarios de phishing',
@@ -20,15 +33,50 @@ class _MainMenuState extends State<MainMenu> {
     'Actualizaciones periódicas'
   ];
   List<int> percentages = [50, 75, 100, 25, 10, 100];
-  List<bool> completed = [false, false, true, false, false, true];
+  List<bool> completed = [false, false, true, false, true, true];
   @override
   Widget build(BuildContext context) {
+    final username = sharedPrefs.getString("username");
     return WillPopScope(
       onWillPop: () async => false,
       child: Scaffold(
           appBar: CyberFunkAppBar(),
+          drawer: Drawer(
+            child: ListView(
+              children: [
+                const DrawerHeader(
+                  decoration: BoxDecoration(
+                    color: Colors.greenAccent,
+                  ),
+                  child: Text('Drawer Header'),
+                ),
+                ListTile(
+                  title: const Text('item 1'),
+                  onTap: () {
+                    // Update the state of the app
+                    // ...
+                    // Then close the drawer
+                    Navigator.pop(context);
+                  },
+                ),
+                ListTile(
+                  title: const Text('item 2'),
+                  onTap: () {
+                    // Update the state of the app
+                    // ...
+                    // Then close the drawer
+                    Navigator.pop(context);
+                  },
+                ),
+              ],
+            ),
+          ),
           body: Column(
             children: <Widget>[
+              Padding(
+                padding: const EdgeInsets.symmetric(vertical: 10.0),
+                child: textNormalDark(20.0, "Bienvenido $username"),
+              ),
               ListTile(
                 leading: Icon(Icons.home),
                 title: Text('Modulo 1'),
@@ -81,7 +129,7 @@ class _MainMenuState extends State<MainMenu> {
                           trailing: Stack(
                             alignment: Alignment.center,
                             children: <Widget>[
-                              completed[index]
+                              percentages[index] > 99
                                   ? SvgPicture.asset(
                                       'assets/svg/CompletedCircle.svg')
                                   : SvgPicture.asset(
@@ -89,7 +137,16 @@ class _MainMenuState extends State<MainMenu> {
                               SvgPicture.asset('assets/svg/Badge.svg'),
                             ],
                           ),
-                          onTap: () {},
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => VideoCourseScreen(
+                                    // textPassed: textToSend,
+                                    ),
+                              ),
+                            );
+                          },
                         ),
                       ),
                     );
