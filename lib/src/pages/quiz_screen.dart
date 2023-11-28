@@ -2,9 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'dart:math';
 import 'package:security_info_project/src/models/question.dart';
-import 'package:security_info_project/src/models/questions.dart';
 import 'package:security_info_project/src/pages/result_screen.dart';
 import 'package:security_info_project/src/widgets/AnswerCard.dart';
 import 'package:security_info_project/src/widgets/CyberFunkAppBar.dart';
@@ -75,7 +73,7 @@ class _QuizScreenState extends State<QuizScreen> {
     final question = questions[questionIndex];
     bool isLastQuestion = questionIndex == questions.length - 1;
     return Scaffold(
-      appBar: CyberFunkAppBar(),
+      appBar: const CyberFunkAppBar(),
       body:Padding(
           padding: const EdgeInsets.all(24.0),
           child: Column(

@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:security_info_project/src/models/questions.dart';
 import 'package:security_info_project/src/pages/badge_screen.dart';
-import 'package:security_info_project/src/pages/main_menu.dart';
 import 'package:security_info_project/src/pages/video_screen.dart';
 import 'package:security_info_project/src/widgets/ButtonGeneralAction.dart';
-import 'package:security_info_project/src/widgets/textNormal.dart';
 import 'package:security_info_project/src/widgets/textNormalDark.dart';
 
 class ResultScreen extends StatelessWidget {
@@ -55,9 +53,9 @@ class ResultScreen extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (context) => score >= 8 ? BadgeScreen(
+                builder: (context) => score >= 8 ? const BadgeScreen(
                     // textPassed: textToSend,
-                    ) : VideoCourseScreen(
+                    ) : const VideoCourseScreen(
                     // textPassed: textToSend,
                     ) 
               ),

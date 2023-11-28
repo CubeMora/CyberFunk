@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:security_info_project/src/pages/quiz_screen.dart';
 import 'package:security_info_project/src/widgets/ButtonGeneralAction.dart';
 import 'package:security_info_project/src/widgets/CyberFunkAppBar.dart';
-import 'package:security_info_project/src/widgets/textNormal.dart';
 import 'package:chewie/chewie.dart';
 import 'package:video_player/video_player.dart';
-import 'package:http/http.dart' as http;
 
 class VideoCourseScreen extends StatefulWidget {
   const VideoCourseScreen({super.key});
@@ -42,7 +40,7 @@ class _VideoCourseScreenState extends State<VideoCourseScreen> {
         return Center(
           child: Text(
             errorMessage,
-            style: TextStyle(color: Colors.white),
+            style: const TextStyle(color: Colors.white),
           ),
         );
       },
@@ -69,15 +67,15 @@ class _VideoCourseScreenState extends State<VideoCourseScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: CyberFunkAppBar(),
+      appBar: const CyberFunkAppBar(),
       body: ListView(
         children: [
-          ListTile(
+          const ListTile(
             leading: Icon(Icons.menu_book_outlined),
             title: Text('Leccion "Placeholder for course number"'),
             subtitle: Text('Placeholder for course name'),
           ),
-          Divider(
+          const Divider(
             indent: 30.0,
             endIndent: 30.0,
             thickness: 1.5,
@@ -88,8 +86,8 @@ class _VideoCourseScreenState extends State<VideoCourseScreen> {
           
             Container(
               height: 300.0,
+              margin: const EdgeInsets.all(50.0),
               child: Chewie(controller: _chewieController),
-              margin: EdgeInsets.all(50.0),
             ),
           
 
@@ -101,16 +99,16 @@ class _VideoCourseScreenState extends State<VideoCourseScreen> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => QuizScreen(
+                        builder: (context) => const QuizScreen(
                             
                             ),
                       ),
                     );
                   }),
                 )
-              : SizedBox(),
+              : const SizedBox(),
 
-          ListTile(
+          const ListTile(
             title: Text('Resumen'),
             subtitle: Column(
               children: [

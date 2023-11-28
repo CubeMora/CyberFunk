@@ -1,58 +1,70 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:security_info_project/src/pages/main_menu.dart';
-import 'package:security_info_project/src/pages/video_screen.dart';
-import 'package:security_info_project/src/sample_feature/sample_item_list_view.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 
-class FirstScreen extends StatelessWidget {
+class FirstScreen extends StatefulWidget {
   FirstScreen({super.key});
 
-  static const routeName = '/first';
-  final myController = TextEditingController();
+
   
+
+  @override
+  State<FirstScreen> createState() => _FirstScreenState();
+}
+
+class _FirstScreenState extends State<FirstScreen> {
+@override
+void initState() {
+  super.initState();
+  
+}
+
+  final myController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: [
-          Container(
-            margin: const EdgeInsets.only(bottom: 50.0),
-            width: double.infinity,
-            height: MediaQuery.of(context).size.height * 0.53,
-            color: const Color(0xFF3C3C3C),
-            child: Center(
-                child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                appTitleText(40.0),
-                const SizedBox(height: 100.0),
-                SizedBox(
-                  width: 278,
-                  child: Text.rich(
-                    TextSpan(
-                      children: [
-                        textNormal(20, 'Ciberseguridad simplificada: '),
-                        textNormal(20, 'acceso a cursos en cualquier momento, en cualquier lugar')
-                      ],
+      resizeToAvoidBottomInset: false,
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            Container(
+              margin: const EdgeInsets.only(bottom: 50.0),
+              width: double.infinity,
+              height: MediaQuery.of(context).size.height * 0.53,
+              color: const Color(0xFF3C3C3C),
+              child: Center(
+                  child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  appTitleText(40.0),
+                  const SizedBox(height: 100.0),
+                  SizedBox(
+                    width: 278,
+                    child: Text.rich(
+                      TextSpan(
+                        children: [
+                          textNormal(20, 'Ciberseguridad simplificada: '),
+                          textNormal(20, 'acceso a cursos en cualquier momento, en cualquier lugar')
+                        ],
+                      ),
+                      textAlign: TextAlign.center,
                     ),
-                    textAlign: TextAlign.center,
-                  ),
-                )
-              ],
-            )),
-          ),
-          Text('Escribe tu nombre para comenzar',
-              style: GoogleFonts.inter(
-                  textStyle: const TextStyle(
-                color: Colors.black,
-                fontSize: 19,
-              ))),
-          _textUserNameInput(myController),
-          buttonGeneralAction("Continuar", () => navigateToNextScreen(context)),
-        ],
+                  )
+                ],
+              )),
+            ),
+            Text('Escribe tu nombre para comenzar',
+                style: GoogleFonts.inter(
+                    textStyle: const TextStyle(
+                  color: Colors.black,
+                  fontSize: 19,
+                ))),
+            _textUserNameInput(myController),
+            buttonGeneralAction("Continuar", () => navigateToNextScreen(context)),
+          ],
+        ),
       ),
     );
   }
@@ -101,6 +113,7 @@ class FirstScreen extends StatelessWidget {
       )),
     );
   }
+
 Widget _textUserNameInput(TextEditingController controller) {
   return Padding(
     padding: const EdgeInsets.symmetric(horizontal: 90.0, vertical: 65.0),
@@ -117,16 +130,14 @@ Widget _textUserNameInput(TextEditingController controller) {
 void navigateToNextScreen(BuildContext context) async {
   String textToSend = myController.text;
   SharedPreferences prefs = await SharedPreferences.getInstance();
-  prefs.setString('username', textToSend);
-  Navigator.push(
-    context,
-    MaterialPageRoute(
-      builder: (context) => MainMenu(
-       
-      ),
-    ),
-  );
-}
+  if (textToSend != "") {
+    prefs.setString('username', textToSend);
+  }else{
 
+    prefs.setString('username', "Guest");
+  }
+  // ignore: use_build_context_synchronously
+  Navigator.pushNamedAndRemoveUntil(context, '/main', (_) => false);
+}
 }
 

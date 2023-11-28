@@ -1,0 +1,1159 @@
+[
+  {
+    "title": "Two Insurance companies come under the influence of Ransomware Attacks",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Ransomware-2-696x418.jpg"
+    ],
+    "description": [
+      "Sabre Insurance, a London-based company specializing in motor insurance services, fell victim to a ransomware attack that resulted in a breach of information and data theft by hackers. Although the company asserts that the accessed information was non-critical and related to archival data, IT experts have been mobilized to conduct a thorough investigation into the incident. Initial findings indicate that the compromise originated at the IT management company providing technological services to the insurance business.",
+      "The prime suspects behind the attack are believed to be either the LockBit Ransomware group or the BlackCat, also known as the ALPHV gang. However, concrete evidence linking them to the incident is yet to be recovered.",
+      "In a separate incident, Fidelity National Finance (FNF), a Fortune 500 business, reported to the SEC that it had fallen prey to a cyber attack, seemingly involving a variant of ransomware. The company disclosed that certain data systems were compromised, leading to disruptions in applications and downtime.",
+      "Typically, in a ransomware attack, hackers encrypt server data and demand a ransom for its release, mirroring the situation with FNF. The common thread between these incidents is the utilization of file-encrypting malware as the primary means of compromise. Addressing this growing threat may require concerted global efforts against nations and governments supporting these criminal activities. Until such measures are taken, the spread of malware may persist unabated.",
+      "Law enforcement agencies can respond to instances of ransomware, but their ability to preemptively thwart the intentions of cybercriminals remains limited. As these incidents underscore the need for enhanced cybersecurity measures, businesses and governments alike must collaborate on proactive strategies to counter the evolving tactics of malicious actors in the digital realm."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/two-insurance-companies-come-under-the-influence-of-ransomware-attacks/"
+  },
+  {
+    "title": "Trends to watch at Enlit Europe",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/5G-300x146-1.png"
+    ],
+    "description": [
+      "[ This ",
+      " was originally published ",
+      " ]",
+      "The world is in a climate emergency, and it’s never been more important for industries to accelerate solutions that will support the energy transition. ",
+      ", taking place from the 28",
+      " – 30",
+      " November, will bring together 12,000 energy professionals to find new ways to deliver clean, affordable and reliable energy for everyone.",
+      "So, as representatives from utilities, network operators, vendors, consultants, start-ups and system integrators gather in Paris, what innovations should we be looking out for?",
+      " shares insight into the latest technological developments that will drive greater energy efficiency…..",
+      "\n",
+      " A significant change in telecoms network buyers’ priorities is the growing imperative to build sustainability into the technology roadmap. Energy and the climate used to be confined to the realms of CSR, but evidence over the last three years suggests these factors have steadily risen up the agenda. This has culminated in energy efficiency being their top priority, with more than 80% rating it as important or extremely important to their planned upgrades.",
+      "\n",
+      "Nearly two thirds (63%) of enterprises are deploying IoT as part of their wider digital transformation efforts, according to the research. Indeed, IoT will reach 37 billion connections by 2030, with the enterprise sector driving significant growth. This includes connections that will support a more sustainable future including smart cities (0.7 bn), smart utilities (1.8 bn) and smart buildings (6.8 bn).",
+      "\n",
+      "Three quarters (75%) of operators believe 5G is more energy efficient over the long term. This is notable as the network accounts for around 90% of electricity use for an average operator. Lowering energy use overall is the challenge, and that depends on retiring 2G/3G networks, behavioural change and moving to renewables.",
+      "\n",
+      " The rise of open architecture networks, including open RAN, has garnered much attention. Besides reducing the market power of traditional vendors energy implications are also in play. However, it is too early to make firm conclusions on the overall energy efficiency of open RAN compared to traditional mobile network architectures. More proof points are needed.",
+      "\n",
+      " While climate and energy issues have garnered significant attention, the ESG movement is broader, incorporating social and governance reforms in terms of how companies operate. In the telecoms sector, this could, for example, include requirements for suppliers to have sustainable procurement practices, or a certain threshold for gender composition at the executive/board level.",
+      "\n",
+      "With European operators more exposed to the energy crisis, Enlit Europe will be a good opportunity for industry leaders to stay up to date with the latest innovations, and make progress towards decarbonised and digitalised energy systems.",
+      "If you’re attending, we’ll be showcasing our IoT Connectivity & Security solution based on the latest GSMA standards: IoT eSIM (SGP.32) and IoT SAFE. In this demo you’ll see a smart meter that is capable of reporting power consumption to an IoT platform via different cellular networks, dynamically selected.",
+      "After establishing a secure channel using IoT Safe technology, the eSIM monitors events such as power on, network loss, country change to the Thales TAC server that initiates a cellular profile download, swap or delete from any SM-DP+ (Subscription Manager Data Preparation) on the market. This allows a real-time data report and ensures localisation, resilience, mobility and lifecycle management with a high level of security."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/trends-to-watch-at-enlit-europe/"
+  },
+  {
+    "title": "Stream Security Takes on CloudSecOps",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/cloud-storage-background-business-network-design-696x464.jpg"
+    ],
+    "description": [
+      "The cybersecurity industry has been rapidly transforming for well over a decade. With threat actors rapidly finding unique ways to expose vulnerabilities, organizations are constantly seeking the latest technology to protect their proprietary information, such as Intrusion Detection Systems (IDS) or Security Information and Event Management (SIEM). In recent years, the shift to cloud infrastructure has presented a new obstacle for cybersecurity experts’ threat detection and response toolkit.",
+      "In the early aughts, IT pros interested in having a precise log of events across their systems invested in SIEM. SIEM tools offer on-premises monitoring capabilities with real-time insights for these IT teams. This software can log and manage events, provide analyses, and store information, and it still exists today.",
+      "As the technology industry grew, cloud computing became more common. Moving data and tech infrastructure into the cloud became a significant priority for many organizations. Most companies broadened their SIEM reach into the cloud to keep up with technology and monitor the events occurring within, but there was a deep contrast between the on-premises and cloud environments, involving more strategic coordination.",
+      "The cloud is a new space involving careful, research-based adjustments to reduce significant consequences. While SIEM was able to provide real-time insights for IT teams, it simply couldn’t accurately offer predictive results to users, focusing solely on the “what” rather than the “so what.”",
+      "Security teams investigating concerning activities must focus on the “so what” to evaluate the potential impact threat activity can present to an organization. SIEM technology is unclear to many, and assigning specific assets to team members can lead to misunderstandings. Security teams using SIEM require more legwork to identify risk by mapping permissions, putting up safety precautions, and determining motives.",
+      "As a result of the effort required to use SIEM for security, there is a further cost to the organization in the form of time. Investigations have the potential to take hours or days, and inaccuracies can be extremely risky. Attackers gaining access to specific databases and exposing them online present detrimental ramifications to a business. Because of this challenge, security, and operations (SecOps) teams must evaluate the impact of each adjustment made in the cloud. The ability to accurately and promptly investigate events is rare, which leads teams to choose between ignoring suspicious events or spending time and resources on proper investigation.",
+      "The resolution to this predicament is Cloud Detection and Response (CDR), which spans beyond the limitations presented by SIEM solutions used in the cloud. CDR solutions streamline processes to give security teams the necessary information rather than an overwhelming log of events. These systems analyze the impact of events within the cloud, predicting potential effects for teams to save time and remain focused on the most critical parts of the cloud security system.",
+      "In order to address these security issues and the broader shift to CDR, ",
+      " announced a significant expansion into the cloud security space. By analyzing potential threats, considering identifying exposures, unveiling security gaps and assessing the impact of their remediation efforts, Stream Security enables improved collaboration between security and operations teams with precise insights into their cloud environment.",
+      "With this expansion, Stream Security is giving their proprietary Cloud Twin technology a major upgrade that empowers security and operations teams to detect and investigate their exposure and threats. Cloud Twin models evaluate the environmental posture continuously, offering real-time insights into data traffic and correlating this information to each organization’s unique needs and guardrails. Intended for a dynamic cloud environment, Cloud Twin technology provides security and DevOps teams with the tools to detect threats and exposure without inaccuracies, allowing operations teams to react quickly.",
+      "Stream Security’s tech is currently the only known solution of its kind to map cloud dependencies in real-time. The update to their solution comes with significant new features, including Azure Integration, Vulnerability Correlation, and Threat Anomaly Detection.",
+      " on Freepik"
+    ],
+    "url": "https://www.cybersecurity-insiders.com/stream-security-takes-on-cloudsecops/"
+  },
+  {
+    "title": "Latest Buzz in Cybersecurity: Trending Headlines on Google",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/05/Access-Denied-696x418.jpg"
+    ],
+    "description": [
+      " has emerged as the top state with the highest concern for cyber threats, with approximately 655 respondents out of 100,000 residents actively searching for keywords related to cybersecurity, according to data compiled by ",
+      " Following Virginia, Maryland, Massachusetts, Georgia, Florida, and New York secured the 2nd to 6th positions, with Colorado, Kansas, Washington, and Hawaii following suit.",
+      "The primary source of worry among citizens revolves around ransomware, which ranks as the most searched keyword, trailed by malware, elections, and espionage.",
+      "In another development, the cyber community is buzzing with news regarding ",
+      ", a UK-based trucking company. The company’s data was reportedly published on the dark web by the ",
+      " ",
+      " website, indicating a successful cyber attack. The company’s decision to refuse paying a ransom led to the exposure of sensitive information, including budget details, balance sheets, cash flow statements, tax information, bank statements, passport scans, contracts, and the contact details of clients, employees, and contract staff.",
+      "A unique case in the history of cybersecurity involves ",
+      " the Chief Operating Officer (COO) of a US Network Security firm, ",
+      ". Singla admitted to breaching the computer networks of two hospitals associated with ",
+      " in May 2018. His motive was to divert business to his company by stealing information and pressuring the victims. Following numerous hearings and prosecutions, Singla faces 17 counts of intentional criminal damage to digital assets, potentially resulting in a 10-year jail term and significant fines by the year’s end. He has also agreed to pay $817,000 with interest since 2019 to ",
+      "Lastly, the ",
+      " (INL), known for its research in Green Energy, Nuclear Power, and cybersecurity, fell victim to a massive data breach. The attackers targeted the laboratory’s Oracle HCM System, used for Human Resource operations, leading to the exposure of email addresses, dates of birth, contact numbers, social security numbers, physical addresses, and employee information. Further details on this cyber-attack are pending."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/latest-buzz-in-cybersecurity-trending-headlines-on-google/"
+  },
+  {
+    "title": "The Evolution of Security: From Signatures to Deep Learning",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/DALL·E-2023-10-21-16.18.33-Render-of-a-3D-digital-globe-with-a-translucent-layer-showcasing-the-worlds-digital-connections.-On-the-surface-holographic-interfaces-display-real--696x398.jpeg"
+    ],
+    "description": [
+      "In cybersecurity, the arms race between defenders and attackers never ends. New technologies and strategies are constantly being developed, and the struggle between security measures and hacking techniques persists. In this never ending battle, Carl Froggett, the CIO of cybersecurity vendor ",
+      ", provides an insightful glimpse into the changing landscape of cyber threats and innovative ways to tackle them.",
+      "According to Froggett, the fundamental issue that many organizations are still grappling with is the basic hygiene of technology. Whether it’s visibility of inventory, patching, or maintaining the hygiene of the IT environment, many are still struggling.",
+      "But threats are growing beyond these fundamental concerns. Malware, ransomware, and the evolution of threat actors have all increased in complexity. The speed of attacks has changed the game, requiring much faster detection and response times.",
+      "Moreover, the emergence of generative AI technologies like WormGPT has introduced new threats such as sophisticated phishing campaigns utilizing deep fake audio and video, posing additional challenges for organizations and security professionals alike.",
+      "The security industry’s evolution has certainly been a fascinating one. From the reliance on signatures during the ’80s and ’90s to the adoption of machine learning only a few years ago, the journey has been marked by continuous adaptation and an endless cat and mouse game between defenders and attackers. Signature based endpoint security, for example, worked well when threats were fewer and well defined, but the Internet boom and the proliferation and sophistication of threats necessitated a much more sophisticated approach.",
+      "Traditional protection techniques, such as endpoint detection and response (EDR), are increasingly failing to keep pace with these evolving threats. Even machine learning-based technologies that replaced older signature-based detection techniques are falling behind. A significant challenge lies in finding security solutions that evolve as rapidly as the threats they are designed to combat.",
+      "Carl emphasized the overwhelming volume of alerts and false positives that EDR generates, revealing the weaknesses in machine learning, limited endpoint visibility, and the reactive nature of EDR that focuses on blocking post-execution rather than preventing pre-execution.",
+      "Machine learning provided a much-needed leap in security capabilities. By replacing static signature based detection with dynamic models that could be trained and improved over time, it offered a more agile response to the evolving threat landscape. It was further augmented with crowdsourcing and intelligent sharing, and analytics in the cloud, offering significant advancements in threat detection and response.",
+      "However, machine learning on its own isn’t good enough – as evidenced by the rising success of attacks. Protection levels would drop off significantly without continuous Internet connectivity, showing that machine learning based technologies are heavily dependent on threat intelligence sharing and real-time updates. That is why the detect-analyze-respond model, although better than signatures, is starting to crumble under the sheer volume and complexity of modern cyber threats.",
+      "A glaring example of this failing model can be seen in the dramatic increase of ransomware attacks. According to Zscaler, there was a 40% increase in global ransomware attacks last year, with half of those targeting U.S institutions. Machine learning’s inadequacy is now becoming visible, with 25 new ransomware families identified using more sophisticated and faster techniques. The reliance on machine learning alone has created a lag that’s unable to keep pace with the rapid development of threats.",
+      "“We must recognize that blocking attacks post-execution is no longer enough. We need to be ahead of the attackers, not trailing behind them. A prevention-first approach, grounded in deep learning, doesn’t just block threats; it stops them before they can even enter the environment.” added Carl.",
+      "The next evolutionary step, according to Froggett, is deep learning. Unlike machine learning, which discards a significant amount of available data and requires human intervention to assign weights to specific features, deep learning uses 100% of the available data. It learns like humans, allowing for prediction and recognition of malware variants, akin to how we as humans recognize different breeds of dogs as dogs, even if we have never seen the specific breed before.",
+      "Deep learning’s comprehensive approach takes into account all features of a threat, right down to its ‘DNA,’ as Froggett described it. This holistic understanding means that mutations or changes in the surface characteristics of a threat do not confound the model, allowing for a higher success rate in detection and prevention. Deep learning’s ability to learn and predict without needing constant updates sets it apart as the next big leap in cybersecurity.",
+      "Deep Instinct utilizes these deep learning techniques for cybersecurity. Unlike traditional crowd-sourcing methods, their model functions as if it’s encountering a threat for the first time. This leads to an approach where everything is treated as a zero-day event, rendering judgments without relying on external databases.",
+      "One interesting aspect of this deep learning approach is that it isn’t as computationally intensive as one might think. Deep Instinct’s patented model, which operates in isolation without using customer data, is unique in its ability to render verdicts swiftly and efficiently. In contrast to other machine learning-based solutions, Deep Instinct’s solution is more efficient, lowering latency and reducing CPU and disk IOPS. The all-contained agent makes their system quicker to return verdicts, emphasizing speed and efficiency.",
+      "Deep Instinct focuses on preventing breaches before they occur, changing the game from slow detection and response to proactive prevention.",
+      "“The beauty of our solution is that it doesn’t merely detect threats; it anticipates them,” Froggett noted during our interview. Here’s how:",
+      ": Leveraging deep learning algorithms, the product can discern patterns and anomalies far beyond traditional methods.",
+      ": Customized to the unique profile of each organization, it offers adaptable protection that evolves with the threat landscape.",
+      ": By employing state-of-the-art deep learning algorithms, the solution ensures higher accuracy in threat detection, minimizing false positives.",
+      "Froggett’s advice for security professionals is grounded in practical wisdom. He emphasizes the need for basic IT hygiene such as asset management, inventory patching, and threat analysis. Furthermore, the necessity of proactive red teaming, penetration testing, and regular evaluation of all defense layers cannot be overstated.",
+      "The CIO also acknowledges the challenge of the “shift left” phenomenon, where central control in organizations is declining due to rapid innovation and decentralization. The solution lies in balancing business strategies with adjusted risk postures and focusing on closing the increasing vulnerabilities.",
+      "The current trajectory of cybersecurity shows that reliance on machine learning and traditional techniques alone is not enough. With the exponential growth in malware and ransomware, coupled with the increased sophistication of attacks using generative AI, a new approach is needed. Deep learning represents that revolutionary step.",
+      "The future of cybersecurity lies in suspending what we think we know and embracing new and adaptive methodologies such as deep learning, leading into a new era of prevention-first security.",
+      " "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/the-evolution-of-security-from-signatures-to-deep-learning-deep-instinct/"
+  },
+  {
+    "title": "AI In Cybersecurity: Exploring the Opportunities and Dangers",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Virtual-Desktop-Image-696x398.jpeg"
+    ],
+    "description": [
+      "By Dr. Madhu Shashanka, Chief Data Scientist and Co-Founder, ",
+      "If you’ve been keeping with the news surrounding generative artificial intelligence (AI), you’re probably in one of two camps – optimistic or concerned. In the rapidly evolving world of cybersecurity and new technologies, generative AI is no different: It carries great potential along with equal measures of apprehension. When it comes to cybersecurity, while AI offers groundbreaking advantages in automating and enhancing security measures, it also introduces new challenges that could potentially exacerbate existing risks and create new ones.",
+      "Let’s explore the dangers and opportunities AI brings to the cybersecurity table.",
+      "Before we answer this question, let",
+      "s take a step back and first review the types of use cases that are ideally suited for AI. Any task that is hard to summarize or capture in terms of rules but can be fairly easily accomplished by a human is a good candidate. A task is a great candidate for AI when something must be done at scale, repeatedly, and millions of times. For example, reviewing an email to determine if it is spam or analyzing a medical image for a tumor are tasks that AI can handle efficiently. Groups of AI use cases include:",
+      "Within cybersecurity, I see tremendous opportunity for using AI to enable higher productivity and reduce risk due to human errors. Whether it",
+      "s in a SOC environment helping with threat hunting or incident response, or day-to-day operations of the cybersecurity team, AI can add real value by ingesting data and providing professionals with better context and automating routine tasks. The key is to use AI to make experts more productive, especially when the cost of making an error is too high.",
+      "It is important to evaluate if the use case under consideration is precision-driven or recall-driven. Depending on where the use case falls, however, you might have to choose different modeling approaches.",
+      "For example, high recall – finding everything that needs to be found – often comes at the cost of low precision, meaning higher false positives. In threat detection, achieving high recall is crucial to ensuring that no potential threat is overlooked.",
+      "In the scenario of finding unknown unknowns, the approach of utilizing anomaly detection and related techniques can yield real results; but while most of the detected anomalies are valid mathematically, they tend to have benign explanations. It is harder to operationalize such tools because of false positives. When faced with unknown unknowns, it is recommended to prioritize the detection of a handful of patterns or behaviors of interest and modify the problem into one of known unknowns.",
+      "Generative AI has significantly impacted cybersecurity by increasing the sophistication of results and changing cost economics. It can create human-quality samples – audio, video, text – that are hard to discern from human-generated outputs. This opens up opportunities for eliminating the need to learn tool-specific interfaces, thereby lowering the barriers to entry and increasing efficiencies by automating rote work.",
+      "Unfortunately, the same AI technologies that defend can also be weaponized. Generative AI can create legitimate looking deepfakes or generate phishing emails that are increasingly difficult to distinguish from genuine communications. With the sophistication of social engineering attacks is on the rise, users will find it much more of a challenge to differentiate real messages from fake ones. Deepfakes can also render some of the biometrics-based authentication technologies such as voice identification ineffective. This is a ticking time bomb waiting to be exploited.",
+      "AI is not without its flaws. When mistakes occur, especially in a field as critical as cybersecurity, the costs can be monumental. This is why a human-in-the-loop approach is often recommended, a model of interaction in which a machine process and a human operator work in tandem, each contributing to the system’s effective functioning, especially when the cost of errors is so high. For example, while AI-generated code can speed up development, it can also introduce new vulnerabilities that a human expert would need to catch. This cost should be the driving consideration in how you approach and design the solution.",
+      "But even well-intentioned users utilizing AI can lead to increased risk for an organization. The problem with the threat surface increase from AI-generated code vulnerabilities occurs because there are no guardrails for how you can use outputs of AI.",
+      "AI in cybersecurity comes with its own set of ethical and operational challenges, too. Issues like model bias, data privacy, IP ownership, and the high operational costs of implementing AI solutions can be prohibitive for smaller organizations. These challenges must be methodically addressed to effectively harness AI’s full potential.",
+      "Also, we cannot overlook the fact that leveraging the latest and the greatest advances from generative AI is not easy to accomplish. Operational costs, including qualified personnel and compute costs, can become an impediment for many companies that don",
+      "t have significant resources or the ability to invest for the long term.",
+      "There are emerging cybersecurity startups that have effectively applied generative AI technologies to targeted problems such as data security, and there is also an emerging open-source ecosystem for AI models. While the tide is slowly changing, the technology is still mostly controlled and driven by a handful of large enterprises.  ",
+      "AI should not be viewed as a magic bullet for every problem, but as one tool in the cybersecurity toolbox. A balanced approach that combines AI’s computational power with human expertise can yield the most effective security solutions. Cybersecurity is a dynamic field where threat actors are constantly adapting, and defenses have to adapt and improve as well. The focus should be on overall risk mitigation rather than solely relying on AI.",
+      "Ultimately, AI in cybersecurity is a double-edged sword. While it offers incredible opportunities for innovation and efficiency, it also opens the door to new kinds of risks that organizations must carefully manage. By understanding both the dangers and opportunities, we can better prepare for a future where AI plays an increasingly central and productive role."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/ai-in-cybersecurity-exploring-the-opportunities-and-dangers/"
+  },
+  {
+    "title": "Australia runs cybersecurity health check on all gov websites and infrastructure",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/05/cyber-attack-3-696x418.jpg"
+    ],
+    "description": [
+      "The Australian government has initiated rigorous security measures to safeguard its IT infrastructure from state-sponsored cyber-attacks. As part of this initiative, the ",
+      " has conducted two cyber security threat hunts on government networks since December of last year, with plans to continue these efforts in the coming months.",
+      "This action comes in response to an announcement by Defense Minister Richard Marles, indicating a growing interest from state-funded actors in Australian Critical Infrastructure. The motives behind such interest range from intelligence gathering to disrupting operations and creating chaos.",
+      "To address these threats, all small businesses will now receive a free cyber health checkup at least once a month, with a plan to increase the frequency to a fortnight in the coming months. Moreover, the funding allocated in the annual budget to strengthen cybersecurity will be augmented to protect both private and public entities from various malware attacks. Companies will also be mandated to report ransomware attacks within a specified time frame of 4-5 days.",
+      "Given the continuous cyber assaults on the telecom sector, exemplified by the recent Optus cyber-attack, a specialized cybersecurity workforce will be deployed to monitor the infrastructure of such companies. This measure is set to take effect early next year.",
+      "The Anthony Albanese-led nation has been confronting severe cyber threats, particularly since expressing support for Ukraine in its conflict with Russia. Despite facing digital attacks from Russia, the Albanese government has reaffirmed its commitment to justice and support for Kyiv, extending its protective measures to secure companies operating within the nation. This commitment aims to thwart potential efforts by Russia to influence Australia’s stance, whether to deter financial support to Ukraine or coerce support for the Russian Federation. The government has also instilled trust in its populace by enhancing security measures for companies, with plans for continued efforts in the near future."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/australia-runs-cybersecurity-health-check-on-all-gov-websites-and-infrastructure/"
+  },
+  {
+    "title": "An Inside Look at Ransomware’s Record-Breaking Pace in 2023",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Ransomware-Image-696x398.jpeg"
+    ],
+    "description": [
+      "Ryan Bell, Threat Intel Manager, ",
+      "There is still more than one month left in the books for 2023, and it’s safe to say that once we flip the calendar to January, we will have also closed the books on the biggest explosion of ransomware attacks on record for a single year. ",
+      "This declaration is based on our Quarterly Ransomware Reports, which are tracking data collected from ransomware leak sites dating back to 2021. For anyone not familiar with these sites, they are on the dark web and are maintained by ransomware groups that list uncooperative victims and post stolen data.  ",
+      "Our team regularly crawls these dark web leak sites, monitoring for insureds and partners. We also take the aggregated data from these efforts and combine it with insights from partners and others in the industry to gain a comprehensive picture of the ransomware landscape. This is how we’ve been able to track this spike in activity, which started at the beginning of the year. ",
+      "Here’s a quick recap of the activity we have seen this year to date.",
+      "In our initial ransomware ",
+      " from earlier this year, we saw the numbers skyrocket. Specific details include:",
+      "\n",
+      "February was up 60 percent over January.",
+      "\n",
+      "March was up 70 percent over February.",
+      "\n",
+      "From that point forward, this trend continued. In our ",
+      ", ransomware attacks grew by nearly 30 percent over Q1 and then again in ",
+      ", with incidents increasing quarter-over-quarter by 11.2 percent. If we look at Q3 2022, the increase is even more startling— ransomware attacks are up more than 95 percent over 2022. ",
+      "Now, with just a month and a half left in the year, 2023 ransomware victim numbers have already surpassed what was observed for the entirety of either 2021 or 2022. If we look at how Q3 ended and how the year’s final quarter began, it’s very likely that we will eclipse 4,000 ransomware victims posted on leak sites for the first time ever. ",
+      "What’s scary is that these figures could be much higher. That’s because a significant percentage of victims—best estimates being between 27% and 41%—quickly pay threat actors’ demands and thus are never observed on a leak site. If you add these numbers, the total number of ransomware victims could be as high as 5,500 – 7,000 total businesses in 2023.",
+      "Our team has identified two key factors impacting this year’s activity. The first is CL0P. CL0P first appeared in 2020, but before this year, it only accounted for a small number of total ransomware victims. Then, in Q1, CL0P sprung to life by exploiting GoAnywhere file transfer software, which impacted more than 130 victims. CL0P struck again in Q2 with the mass exploitation of a zero-day vulnerability in MOVEit file transfer software. This time, there were a total of 264 victims, a number which continues to grow to this day.  ",
+      "Even without CL0P, which accounted for 9 percent and 13 percent of Q2 and Q3 activity, it’s worth pointing out that the ransomware activity still would be up 5 percent quarter over quarter and 70 percent year over year in Q3. ",
+      "Another driver behind these figures was summer vacation. Yes, you heard me correctly. Like you and me, cybercriminals like to take summer breaks to unplug and spend some of what they’ve extorted from their victims. But this past summer, the pattern diverted from its usual course. Normally, the decline begins in May and remains low until early August. At that point, activity picks back up, where it remains high for the year. But this year was different, with the dip occurring one month later in June and then spiking until the end of July and the first half of August. ",
+      "One last area worth delving into is the industries that experienced the most significant spike in ransomware attacks. The two big winners, or in this case, losers, were law practices and the government, followed by manufacturing, medical practices, and oil and gas. ",
+      "With law practices, the numbers were driven by the ALPHV ransomware group, which accounted for 23.5 percent of all victims in this sector. Law firms were the top exploited industry by this pernicious ransomware group in the U.S., Canada, and the U.K.  ",
+      "As for the government, ransomware attacks were up 95 percent due largely to LockBit, which tripled its government victims from Q2 to Q3, and the Stormous ransomware group, which targeted the Cuban government. ",
+      "Over the upcoming days and weeks, we will be rolling out additional ransomware research and analysis. As I mentioned, I expect we will see a continued rise in ransomware activity that will ensure 2023 secures the dubious honor of having had the most ransomware victims posted on leak sites we’ve ever seen. Keep your eyes open for updates."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/an-inside-look-at-ransomwares-record-breaking-pace-in-2023/"
+  },
+  {
+    "title": "OneSpan Sign: Delivering Digital Trust in a Changing World",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/9_Notary-applies-seal-696x504.jpg"
+    ],
+    "description": [
+      "In the world of digital transactions, electronic signatures have become indispensable. As companies continue to make the shift from paper-based workflows to digital ecosystems, the need for secure, compliant, and user-friendly e-signature solutions is more pressing than ever.",
+      "One company that has carved out a leadership space in this domain is ",
+      ". In this review, we’ll explore OneSpan’s unique take on solving the e-signature challenge, offering robust electronic signature solutions that not only accelerate digital transformation for clients but also pave the way to enable secure, efficient, and trust-based customer relationships.",
+      "E-signatures have evolved from simply being an efficiency tool to becoming crucial for enhancing customer experience and operational productivity, especially amid the shift towards digital-first and mobile-first business strategies. Initially designed to streamline laborious paper-based processes, e-signatures have transformed into vital assets for customer-facing roles and organizations. This shift gained momentum due to the COVID-19 pandemic, making digital signatures not just convenient but essential for conducting business in today’s world.",
+      "OneSpan’s primary differentiator is its commitment to providing a secure and user-friendly experience designed to drive adoption of electronic signatures. OneSpan’s approach is fundamentally different in how it engages with the user. While you often might not see their name explicitly, OneSpan powers the e-signature capabilities of giants like Standard Chartered and RBC, fully integrated and white-labeled within these trusted platforms. This private-labeling strategy allows client brands to stay front and center during the entire e-signing process and aligns with the company’s philosophy that adoption is best achieved when users trust the entity they’re interacting with.",
+      "OneSpan Sign extends far beyond the act of capturing an electronic signature, offering a complete solution suite including secure electronic signature, identity verification, strong authentication, secure collaboration and video conferencing including remote online notarization and immutable storage.. It comes with a rich out-of-the-box user interface, eliminating the need for businesses to develop their own, thereby saving both time and money. In addition, there’s a Sender GUI that enables manual, sender-driven transaction management, offering an alternative to traditional system-generated transactions. Not only does OneSpan offer its product as a subscription service to enterprises, they also cater to SMB customers in a scalable and cost-effective manner.",
+      "OneSpan Sign seamlessly integrates with clients’ current systems, enabling a quick transition to digital workflows no matter the business size. With an open REST API and fully supported SDKs, integration is quick and efficient.",
+      "OneSpan Sign comes with pre-built connectors for popular applications such as Salesforce, Workday, and Microsoft Dynamics 365. This means minimal coding or IT resources are required to integrate digital signing into clients’ daily business applications and allowing users to sign documents through a variety of channels, including mobile devices, online portals, and even call centers.",
+      "One of the standout features of OneSpan Sign is its flexible architecture, which is divided into two main components. The OneSpan Platform serves as the product’s core, handling transactional and business logic. Then there is the OneSpan Sign Application, the user-facing part of the product that can be accessed via a graphical user interface (GUI), APIs, SDKs, or connectors. This two-tiered architecture ensures a streamlined user experience and offers the flexibility needed to adapt to different organizational requirements.",
+      "OneSpan prides itself on being an enterprise-grade solution. In an industry filled with niche vendors and segmented point products, OneSpan’s comprehensive capabilities set it apart.",
+      "A notable feature of OneSpan is its ability to scale applications to meet the varying needs of different transaction types. Whether it’s a mortgage application requiring a 30-year commitment or a simple in-store loan at IKEA, OneSpan’s platform adjusts the level of assurance required. This adaptability makes the platform not just user-friendly but also incredibly versatile. According to Alexander Kiesswetter, CIO at Raiffeisen: “We wanted to innovate and simplify the customer experience. With OneSpan, we were able to do that.”",
+      "Additionally, the global footprint of OneSpan allows the company to serve different markets, accommodating varying legal frameworks for e-signatures. OneSpan serves 60 of the top 100 global banks, which speaks volumes about its capabilities and solutions quality.",
+      "In the wake of the increased remote interactions due to the pandemic, the challenge of establishing identity and trust online became critical. OneSpan addresses this by incorporating identity and trust functionalities directly into its product. This focus on verification ensures that businesses can trust that they are interacting with who they claim to be, providing varied levels of assurance based on the type of transaction. OneSpan Sign employs a plethora of identity , ranging from government ID and biometric verification to SMS one-time passcodes and knowledge-based authentication. This assures that signers are who they claim to be, bolstering the integrity of each transaction.",
+      "Security is a cornerstone of OneSpan Sign’s offering. The platform ensures the integrity of the documents being signed as well as the transactional workflow. Each document is protected by digital signature encryption and a tamper-evident seal, providing robust digital evidence to confirm that a document has not been altered during the signing process. This is in addition to comprehensive audit trails, to ensure that your e-documents are not just secure but also compliant with laws like UETA, ESIGN, and eIDAS. This level of evidence is particularly crucial in highly regulated industries, such as banking, where security and compliance is not an option but a necessity.",
+      "The platform undergoes regular updates to counteract vulnerabilities and supports a wide array of platforms, operating systems, and browsers without compromising on security standards.",
+      "Another critical dimension is compliance. From GDPR in Europe to CCPA in California, each jurisdiction presents its unique set of regulations affecting identity, data, signatures, and much more. A large part of digital signature adoption is driven by industries with high levels of regulatory or compliance requirements, such as banking. Whether it’s a consent form from a customer or maintaining records for legal reasons, OneSpan aims to serve these diverse compliance needs effectively.",
+      "The platform maintains comprehensive audit trails to facilitate easy verification and legal compliance. OneSpan Sign is compliant with various regulations like ESIGN, UETA, and eIDAS, and has also obtained certifications like FedRAMP, SOC 3 Type II, ISO/IEC 27001 and HIPAA.",
+      "The future of digital signatures is poised for transformation, driven by advances in artificial intelligence (AI), blockchain technology, and changing perceptions of what constitutes consent and agreements. OneSpan predicts that AI will be pivotal for fraud detection and user productivity, enhancing security while also making form-filling more contextually relevant. Blockchain will also play an important role, providing immutable, transparent digital storage of not just documents but a range of digital artifacts, like PDFs and smart contracts throughout the lifespan of the agreement",
+      "This evolutionary trajectory indicates that digital signatures are set to become an integral part of a more complex, secure, and user-friendly digital experience.",
+      "The concept of ‘signing’ is expected to extend beyond traditional documents to include various mediums like web pages and voice messages. By investing in these emerging technologies and redefining what constitutes an ‘agreement,’ companies like OneSpan are leading the charge in shaping a future where the e-signature landscape is far more dynamic than it is today.",
+      "OneSpan Sign stands out as a versatile, secure, and highly integrable electronic signature solution. Its emphasis on strong identity verification, advanced security protocols, and a user-friendly experience make it a favored choice for businesses in highly regulated industries.",
+      "In an industry filled with competitors, OneSpan distinguishes itself through a secure, private-labeled, and user-friendly experience designed to drive adoption. Its focus on security, compliance, identity verification, and scalability makes it an enterprise-grade solution capable of serving varied and complex needs. This capability has earned OneSpan the trust of the world’s most demanding financial institutions, solidifying the company’s status as a leader in the e-signature space.",
+      "For more information, visit: "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/onespan-sign-delivering-digital-trust-in-a-changing-world/"
+  },
+  {
+    "title": "Just beware of these 5 Black Friday or thanksgiving Cyber Scams",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Cyber-Scam-696x464.jpg"
+    ],
+    "description": [
+      "In a recent survey conducted by Lookout, it has been found that more than 3 out of 5 individuals are expected to take advantage of Black Friday and Cyber Monday deals through their mobile phones this year. However, security experts are cautioning these eager shoppers about potential malware attacks that could lead to serious consequences, including phishing and other social engineering attacks.",
+      "While most official shopping websites are legitimate, there is a growing concern about scammers peddling counterfeit products on platforms like Facebook Marketplace or Instagram. Engaging with such fraudulent sellers not only puts online shoppers at risk of receiving substandard products but also increases the likelihood of hackers stealing their banking credentials for financial gain.",
+      "Beyond the aforementioned Thanksgiving cyber scams, there are other malicious tactics employed by cyber-criminals to compromise accounts and pilfer sensitive information.",
+      ": During the festive season, individuals may receive calls, messages, or emails claiming that a recent shopping transaction failed, urging victims to provide additional banking details to facilitate the processing of their ordered service or product. However, responding to such communications can be perilous, as criminals may exploit the shared data to drain money from the victims’ accounts.",
+      " Platforms like Instagram and Facebook Marketplace are rife with fake product promotions promising enticing discounts, cashbacks, or free items. Shoppers are advised to exercise caution, verify the authenticity of offers, and double-check before making transactions to avoid falling prey to counterfeit products, particularly in categories such as sunglasses, watches, smartphones, tablets, and TVs.",
+      " Cyber crooks often employ malicious links in scams, enticing individuals to divulge personal details or redirecting them to fake Black Friday deal websites featuring products only in photo format. In reality, the goods will never be delivered to the customer.",
+      " Cyber criminals are increasingly using software to guess passwords on websites. Once they breach the security, they place orders using stolen credit card information and redirect the parcels to temporary addresses, leaving victims with unauthorized charges.",
+      " Searching for free coupon codes on Google yields hundreds of results, but the vast majority are fake and harbor malicious intentions. It is recommended to rely on coupon codes or discounts provided directly by shopping websites and avoid falling for deceptive platforms claiming to offer Black Friday or Thanksgiving deals or free coupon codes."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/just-beware-of-these-5-black-friday-or-thanksgiving-cyber-scams/"
+  },
+  {
+    "title": "To Navigate Cyberattacks Effectively, Start with Empathy",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/AI-Cyber-Threats-696x398.jpeg"
+    ],
+    "description": [
+      "From username, password, and credit card hacking to other forms of authentication attacks, Microsoft blocked, on average, ",
+      " in the past year. While organizations are focused on safeguarding their systems, people, and external stakeholders, the reality is that every organization will experience some form of breach. Your role is to minimize its impact and build long-term resilience.",
+      "Leading through a cyber incident with empathy and collaboration can not only help minimize its impact, but also instill confidence in your team and key stakeholders.",
+      "It’s not uncommon for organizations to feel overly confident and think they are prepared for a breach. While they likely have procedures in place, they may not be well documented, tested, or honed. The cybersecurity technology to help identify and remediate a threat might be there, but it will prove ineffective if it’s not configured properly, or if teams aren’t adequately trained to use it. Without regular testing, your organization can’t respond quickly and effectively when it matters most.",
+      "As a cybersecurity leader, your most important mandate is to respond to any threat with empathy. Teams across your organization will inevitably stress over the situation, and there may be individuals — even members of your leadership team — who feel ill-equipped to implement a technical solution to a cyber incident. Strong leadership requires an empathetic approach to earn the confidence of stakeholders and avoid cascading stress throughout the organization.",
+      "In a crisis, leaders must have empathy with what their team is facing and how it’s potentially impacting the broader organization and its stakeholders. They can then channel this empathy to lead with strength. Leaders have an opportunity to be a voice of calm during an incident and exhibit perseverance throughout the event.",
+      "Preparedness is key to a quick and effective response to a cyber event. In moments of crisis, it is impossible to snap into response mode if there has been no mandate on planning and training.",
+      "All team members — from those involved in direct response to leadership teams and board members — should be aware of and well-versed in the organization’s incident response plan that will be followed during a security event.",
+      "While you may have avoided serious cyber incidents to date, your workplace cannot rest on the same systems and processes it’s had in place for years. Your systems — the combination of training and technology — may have been superseded over time, leaving you vulnerable and with a false sense of safety. As a leader, it’s important to be open to change and permeate that mindset across your team.",
+      "Typically, the weakest link during a breach is your people, not your technology. But as with all areas of a business, investing in your employees can turn them into your greatest strength and a critical line of cybersecurity defense. If your teams are well-practiced, they will be prepared to act reflexively. Following processes will become second nature. In turn, your organization will feel a greater sense of confidence.",
+      "Collaboration across departments, from legal to IT, and up and down the organizational chart, is essential to minimizing the harm of a cyber event and reaching a speedy resolution. Think of this level of collaboration like a surgery: our doctor doesn’t race you straight to the operating table; rather, a whole host of processes must run their course to make sure you receive the appropriate care, from bloodwork to imaging, consultations with specialists, and more. Similarly, an effective cyber incident response requires input beyond the IT department.",
+      "Accurate communication is key to the response of a cyber-attack as it unfolds. As a leader, avoid over-promising solutions, or setting deadlines for responses that are outside your control. Instead, to build stakeholder confidence and peace of mind, set targets for regular updates and always deliver on them.",
+      "In times of both crisis and not, transparency is critical. Be aware of what your team does know and, more importantly, what they don’t, and then connect with those best suited to provide a solution. The reality is that cyber threats are continually evolving in frequency and sophistication. To build resilience, you may need to embrace experts from outside your organization to help you through a cyber-event. These experts will not only be able to provide perspective to your response because they’re not emotionally tied to it, but they may also have access to different tools and experiences to pull from that will help you navigate a cyber incident more effectively.",
+      "When it comes to cyber-attacks, experience matters. It is important to keep in mind that even if your company hasn’t suffered a cyber-attack, it is almost a statistical certainty that another organization in your network has. A strong leader will seek out and learn from their peers on best practices to respond to similar cyber incidents.",
+      "Given the scale and prevalence of cyber-attacks, it is virtually impossible to completely avoid and eliminate them — but that doesn’t mean your business can’t prepare. As a leader, your job is to minimize the impact of a cyber event. You are the driving force of returning your business to a normal operating state, as quickly as possible and evaluating and learning from the event. It’s important to reflect on what happened and why. The inevitable cyber-attack is a teaching moment to shore up your organization’s cybersecurity.",
+      "As the saying goes, “Practice makes perfect,” but I had a coach who liked to say, “Perfect practice makes perfect” — and that’s why you develop an incident response plan and conduct test exercises for everyone in the organization. Then, when you face a breach, it’s game time, not practice."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/to-navigate-cyberattacks-effectively-start-with-empathy/"
+  },
+  {
+    "title": "Addressing Legacy System Patching Neglect",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/joao2-696x701.png"
+    ],
+    "description": [
+      "By Joao Correia",
+      "The persistent neglect of patching legacy systems has long affected critical infrastructure as well as nearly all major industries. At a time when the cyberthreat environment is teeming with new malware variants, cybercriminal groups and data-hungry hackers, the consequences of failing to properly and consistently patch vulnerabilities has often become detrimental to organizations and has forced many to face costly security breaches, increased compliance risks, and experience expansive operational inefficiencies. And unfortunately, the avoidance of proper patch management is deeply rooted in a fear of change and the overwhelming complexities that outdated software brings into the process.",
+      "A legacy system is any outdated computer system, hardware or software that is still in use but no longer supported by the original vendor. These systems remain in operation for a variety of reasons, the biggest being that the cost of replacing a system of that magnitude is a financial burden and stands as an extensive and time consuming migration task. Banks and other financial institutions are a prime example of this – but by no means the only – where old systems are kept running because those systems are resilient and replacing them would incur considerable operational and financial risk. Additionally, most legacy systems still in operation today are single-handedly supporting core company operations – and the benefits of keeping things as is outweigh the risky and time-consuming process of reconfiguration.",
+      "However, it is not a secret to anyone that using outdated systems presents a variety of challenges for cybersecurity professionals. From increased security risks when they fail to no longer receive updates, to roadblocks when trying to pass compliance audits, the use of legacy systems can bring headaches for Sysadmins everywhere.  Because of this, legacy systems become a treasure trove for malicious actors and a prime target for repeated attacks.  Hackers know that outdated technology lacks the necessary threat intelligence tools needed to provide instant detection and prevention capabilities for discovered vulnerabilities. These open-door vulnerabilities then go unpatched for long periods of time and ultimately create the perfect cover for cybercriminals to enter and repeatedly exploit on a large scale.",
+      "Aging technology combined with a failure to patch is a recipe for disaster. so properly addressing the neglect of legacy system patching requires a proactive approach. The first step is to prioritize critical systems. Identify which legacy systems are mission-critical or contain sensitive data and require immediate attention. Next, conduct a thorough risk assessment to understand the potential consequences of a security breach involving your legacy systems. By continuously enforcing vulnerability scanning and threat monitoring IT teams can better understand risk and determine the urgency of patching.",
+      "Newer technologies like automated patching software can help legacy sysadmins seamlessly step up their security posture.  For organizations of any size, manually patching vulnerabilities can appear to be a time-consuming and difficult task, especially if the network contains a mix of different software and applications that need ongoing updates. The downtime and maintenance windows required are even longer than normal and trying to manually squeeze in time for patch management can cost an organization significant time and money. .",
+      "Patch management has always been viewed as a disruptive yet necessary process. But striking the right balance between a labor-intensive task or accepting elevated risk has been a conundrum for many security teams and Managed Security Service Providers (MSSPs). Managing patches effectively is crucial in maintaining the security and integrity of systems, but it often requires substantial time and effort to implement patches across a network, making it a challenging task for organizations to navigate.",
+      "However, with advancements in automation and more streamlined patch deployment methods, finding a solution that minimizes disruption while reducing risk is becoming increasingly attainable. Live patching streamlines the process for overworked security teams significantly. It alters and intercepts code during runtime, without interrupting or modifying the system’s regular operations. As a result, security teams can confidently ensure that patches are automatically applied to running software systems without disrupting their functionality.",
+      "Opting to safeguard legacy systems through a live patching approach is proactive in addressing vulnerabilities as soon as patches become available. This significantly reduces the window of opportunity for attackers, minimizing the risk of successful exploitation. Applying live patches also minimizes the risk of system crashes, network failures and extended downtime that result from ignored vulnerabilities. Not only does this quickly close exploitable gaps, but it also ensures smooth operations and increased customer confidence. Lastly, the process of live patching eliminates the need for scheduled maintenance windows in which a system gets rebooted or serviced. Rolling reboots and restarts can be risky to a business, especially if daily operations are forced to shut down temporarily.",
+      "Legacy systems can be your best ally or biggest security risk. But by properly and proactively maintaining a regular patch management routine, outdated technology can continue to operate as a valuable asset."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/addressing-legacy-system-patching-neglect/"
+  },
+  {
+    "title": "E-commerce Security in the Cloud: Safeguarding Data in the Holiday Season",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Holiday-Ecommerce-696x398.jpeg"
+    ],
+    "description": [
+      "By Dan Benjamin, CEO and Co-Founder, ",
+      "The holiday sales season is the most important time of year for ",
+      ", representing a time of heightened consumer activity and potential revenue growth. Retailers are forced to maintain security while balancing the consumer demand for fast purchases and continually updating content. E-commerce platforms have embraced cloud technologies to handle the high-traffic surges and rapid development necessary to stay competitive and appealing to customers.",
+      "Part of that appeal goes beyond just offering a product to assuring consumers that their data is secure when they shop online. Today’s consumer is more aware of how their data is protected than ever, with ",
+      ". For many consumers, how well a retailer protects their sensitive information directly impacts their willingness to continue business with them. In the US alone, 83% of consumers will stop doing business with a company for several months after a breach. In the competitive holiday market, a failure to adequately protect data can significantly impact sales, pushing customers to competitors.",
+      "The Holiday E-Commerce Landscape is a critical chapter that sheds light on the intricate dynamics of the holiday sales season in online retail. During this festive period, merchants must be at the top of their game to harness the full potential of consumer spending. As Black Friday and other festive occasions approach, there’s a remarkable uptick in online shoppers, with statistics revealing that ",
+      " over traditional brick-and-mortar stores.",
+      "Many e-commerce retailers have embraced cloud technologies as their business’s foundation. This has given them many advantages in rapid development and scalability to meet the surge in demand. However, this reliance on cloud technology also introduces additional security risks, particularly as retailers handle and process increasing volumes of sensitive data like personally identifiable information (PII) during the holiday season. Cybercriminals strongly desire this data, which is a prime target for activities such as identity theft and fraud.",
+      "Cyber attackers are increasingly sophisticated in their methods, targeting retailers’ digital infrastructures to exploit vulnerabilities. They specifically focus on data that is unprotected and which can be ransomed for a high price. The complexity of cloud environments can often result in critical security controls being overlooked, inadvertently facilitating these cyber attacks. For instance, inadequate access controls can leave customer data vulnerable to unauthorized access, as evidenced by incidents involving storage buckets with sensitive data being inadvertently exposed to the public. In the rush for rapid development, many retailers depend on the default security settings provided by their cloud service, which may not be sufficient against advanced cyber threats. This oversight can lead to risks such as insufficient encryption for data both at rest and in transit, increasing the potential for data interception and breaches.",
+      "To mitigate these risks, retailers must modify how they approach cloud security. It is not about a single solution or control but rather about developing a comprehensive security strategy based on best practices and high-value solutions, forming a strong defense to deter cybercriminals.",
+      "Retailers storing customer data face inherent risks; a single system vulnerability can lead to massive data breaches. Inadequately encrypted data, storage buckets without proper authentication, or poorly secured databases can quickly become entry points for hackers. Similarly, failing to comply with data privacy regulations like GDPR or CCPA can lead to hefty fines and legal complications. The consequences of such breaches are not just financial; they severely damage consumer trust and brand reputation, often with long-lasting effects. Protecting consumer data extends beyond mere compliance, requiring a proactive and comprehensive approach to cybersecurity and privacy practices.",
+      "Fortunately, some best practices can be adopted to quickly and efficiently add protection to existing cloud infrastructure.",
+      "\n",
+      ": To enhance e-commerce security, adopting hardened baseline images for cloud infrastructure is recommended. These images ensure a consistent and compliant setup across the network, significantly reducing the risk of vulnerabilities resulting from manual configurations or misconfigurations.",
+      "\n",
+      ": Implementing stringent identity and access management policies, including multi-factor authentication (MFA) and the principle of least privilege (PoLP), ensures that only authorized personnel can access sensitive data. This approach mitigates the risk of unauthorized data access and breaches.",
+      "\n",
+      ": Encrypting data, whether at rest or in transit, is a fundamental practice for safeguarding sensitive information. This encryption makes the data inaccessible and unreadable to unauthorized parties, protecting it from breaches and unauthorized access.",
+      "\n",
+      ": DSPM and DDR provide a holistic approach to data security. DSPM plays a crucial role in identifying, classifying, and assessing data risks while ensuring compliance with security policies. DDR enhances this by offering real-time monitoring and threat detection, quickly identifying and responding to potential security incidents.",
+      "\n",
+      ": Implementing secure and Payment Card Industry Data Security Standard (PCI DSS) compliant payment gateways is a pivotal strategy in e-commerce security. This practice not only safeguards customer payment information during transactions but also significantly reduces the retailer’s risk by offloading the storage of sensitive data to a third party.",
+      "\n",
+      "Data is consistently the primary target in cyber attacks, so prioritizing data protection through robust access control measures and maintaining secure baseline images in cloud infrastructure is crucial.",
+      "Data Security Posture Management (DSPM) helps validate this baseline by assessing existing infrastructure with comprehensive data discovery tactics. These tactics meticulously examine both structured and unstructured data. By conducting thorough data classification and risk assessment, DSPM establishes a security baseline. This process ensures adherence to pertinent regulatory requirements and verifies the implementation of crucial controls, such as encryption. Such proactive measures by DSPM play a pivotal role in safeguarding data and maintaining regulatory compliance.",
+      "While establishing a secure foundation is a critical first step, it’s essential to recognize that it doesn’t guarantee perpetual safety in the cloud environment. The threat landscape in the cloud is dynamic and constantly evolving, making it necessary to regularly review and assess the infrastructure throughout its lifecycle.",
+      "Regular security monitoring is integral to maintaining ongoing vigilance in data security. Data Detection and Response (DDR) enhances this practice by utilizing an advanced threat model for immediate identification of potential threats. It effectively detects anomalies in data usage or access patterns, often indicators of impending security breaches. Through these audits, DDR assists in the early identification of emerging vulnerabilities and ensures that the infrastructure remains aligned with the latest security policies and standards. This proactive approach is critical to upholding a strong and adaptive security posture.",
+      "By integrating the comprehensive baseline assessments provided by DSPM with DDR’s real-time, adaptive risk detection capabilities, retailers operating in cloud environments are equipped with a powerful defense mechanism. This dual approach preserves the integrity and security of sensitive data while navigating the complexities of a perpetually evolving E-Commerce landscape."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/e-commerce-security-in-the-cloud-safeguarding-data-in-the-holiday-season/"
+  },
+  {
+    "title": "Five Cybersecurity Predictions for 2024",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2024-Predictions-696x398.jpeg"
+    ],
+    "description": [
+      "“Over the past year, we’ve witnessed significant developments in cybersecurity, including the emergence of generative AI and its ability to enhance organizations’ threat intelligence efforts, and the rise of Threat Exposure Management, a program of consolidation to identify and mitigate risk and strengthen cyber defense proactively,” said Sharon Wagner, CEO of ",
+      ".",
+      "“With these advancements, curated threat intelligence is gaining prominence and accessibility, delivering relevant, contextual data based on a company’s attack surface and the effectiveness of its security stack. As security teams home their strategies against malicious actors, these trends will play an even bigger role in the coming year and beyond.”",
+      "Sharon’s predictions for the top 2024 cybersecurity trends are as follows:",
+      "\n",
+      "AI’s value is rooted in the breadth and reliability of data, which Cybersixgill predicts will significantly improve in 2024 as AI vendors advance the richness and fidelity of results.",
+      "\n",
+      "AI will become broadly accessible to practitioners, regardless of their skillset or maturity level.",
+      "\n",
+      "As concerns for data privacy with AI grow, companies will form their own policies while waiting for government entities to enact regulatory legislation. The U.S. and other countries may establish some regulations in 2024, although clear policies may not take shape until 2025 or later.",
+      "\n",
+      "\n",
+      "Cybersixgill believes that in 2024, threat actors will use AI to increase the frequency and accuracy of their activities by automating large-scale cyberattacks, creating duplicitous phishing email campaigns, and developing malicious content targeting companies, employees, and customers.",
+      "\n",
+      "Malicious attacks like data poisoning and vulnerability exploitation in AI models will also gain momentum, which cause organizations to provide sensitive information to untrustworthy parties unwittingly. Similarly, AI models can be trained to identify and exploit vulnerabilities in computer networks without detection.",
+      "\n",
+      "Cybersixgill also predicts the rise of shadow generative AI, where employees use AI tools without organizational approval or oversight. Shadow generative AI can lead to data leaks, compromised accounts, and widening vulnerability gaps in a company’s attack surface.",
+      "\n",
+      "\n",
+      "In 2024, as attack surfaces widen and the frequency and scale of attacks grow, regulatory mandates will hold business leaders more accountable for their organization’s cyber hygiene. The C-suite and other executives will need a clearer understanding of their organization’s cybersecurity policies, processes, and tools. Cybersixgill believes companies will increasingly appoint cybersecurity experts on the Board to fulfill progressively stringent reporting requirements and conduct good cyber governance.",
+      "\n",
+      "Changes to the Payment Card Industry’s Data Security Standard (PCI DSS) v. 4.0 will pressure retail, healthcare, and finance companies to follow the new reporting requirement by March 2024. These requirements will drive a more vital need for proactive threat intelligence to help mitigate risk, continuously identify gaps, and strengthen cyber hygiene.",
+      "\n",
+      "\n",
+      "Cybersixgill predicts that in 2024, more companies will adopt Threat Exposure Management (TEM), a holistic, proactive approach to cybersecurity, of which cyber threat intelligence (CTI) is a foundational component. As a result, they will need robust CTI solutions delivering focused insights to mitigate business and operational risk significantly.",
+      "\n",
+      "Cybersixgill also predicts that the consolidation of CTI will gain prominence as it combines with other capabilities, including attack surface management, digital risk protection, and AI. CTI will be viewed as a strategic enabler as organizations assess incumbent vendors’ benefits.",
+      "\n",
+      "\n",
+      "In 2024, 40 national elections will occur worldwide. As threat actors’ motivations stretch beyond financial gain, Cybersixgill predicts an uptick in attacks targeting entities without profit centers, such as schools, hospitals, public utilities, and other essential services, as bad actors aim to gain power and influence and cause general disorder.",
+      "\n",
+      "Cybercriminals will increasingly offer their skills and expertise for hire through ransomware-as-a-service, malware-as-a-service, and DDoS-as-a-service offerings.",
+      "\n",
+      "Affiliate programs will continue to grow as powerful cybercriminal gangs franchise their ransomware technology, scaling operations to a network of lesser-skilled individuals for distribution, making the extortion business accessible and profitable to a larger pool of threat actors."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/2024-cybersecurity-predictions/"
+  },
+  {
+    "title": "SOLUTION REVIEW: Enzoic for Active Directory",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/3.3.135-Screenshot1-696x490.png"
+    ],
+    "description": [
+      "Compromised credentials stand as the predominant cause of data breaches, underscoring the urgency for organizations to bolster their defenses. It’s crucial to acknowledge that, often, the only barrier separating an attacker from an organization’s most precious resources is the strength and security of its passwords. These compromised passwords not only pose a security risk but also jeopardize regulatory compliance, leading to potential operational and reputational damage.",
+      " addresses this pressing issue head-on. It enhances initial and ongoing password security to meet compliance standards like NIST 800-63b, thereby mitigating risks and elevating an organization’s overall security stance. This solution review explores how Enzoic serves as a foundational tool for organizations, focusing on an often-underestimated vector of cyber vulnerability.",
+      "What negative consequences have organization experienced due to unauthorized access to sensitive data, applications, or systems in the past 12 months? In the ",
+      ", cybersecurity professionals reported that the reallocation of IT resources for incident response and remediation was the most immediate negative impact (28%), followed by system or service downtime (26%) and increased helpdesk workload (24%).",
+      "Enzoic for Active Directory goes beyond traditional password filters and security measures by offering a real-time, dynamic solution for maintaining password integrity within an Active Directory (AD) environment. By integrating directly with your existing AD infrastructure, it offers an additional layer of security that is often missing. What sets it apart is the power of an in-house threat intelligence team backed by machine learning, which continuously updates a massive database of compromised credentials.",
+      "Traditional password security solutions, such as Microsoft’s Entra ID, typically focus on enforcing strong password policies at the time of password creation, but they often miss the forest for the trees. The real issue is keeping up with the ever-changing landscape of compromised credentials, and this is where Enzoic shines. Their solutions fills a critical gap by continuously monitoring and validating not just newly set passwords, but also existing ones, thus securing the very foundational layer of your cybersecurity framework. This feature is a prerequisite for meeting leading compliance standards.",
+      "Enzoic offers a cutting-edge solution for safeguarding your credentials with a range of exceptional features. Let’s explore how Enzoic stands out with continuous credential security, broad threat intelligence, and a seamless user experience.",
+      " Enzoic sets itself apart by offering continuous screening against a database containing billions of compromised username and password pairs found on the Dark Web. This not only addresses newly created passwords but also identifies and remediates any existing vulnerable passwords that become compromised over time.",
+      " A dedicated in-house threat research team utilizes proprietary, powerful tools to scour the surface internet and Dark Web. This allows Enzoic to capture the most in-depth data sets, making its threat detection one of the most robust in the market. Moreover, this database is continually updated, ensuring that users can remediate swiftly before breaches occur.",
+      " While some solutions add friction at the user and admin level by incorporating more layers of authentication, Enzoic operates invisibly behind the scenes. This not only enables users to select stronger, more secure passwords but also reduces the workload for help desk support.",
+      "Enzoic’s continuous scanning and automated alerting system ensures that compromised or weak passwords are identified in real time. This contributes to a tangible enhancement in the overall security posture, fulfilling both compliance requirements and internal security benchmarks. The real power of Enzoic for Active Directory is in its simplicity and efficiency.",
+      "Within minutes of deployment, it starts offering:",
+      " Companies striving to meet NIST 800-63b, HITRUST, or other leading industry compliance standards can automatically enforce compliance within their environment using Enzoic.",
+      " By continuously monitoring passwords against a live database, Enzoic actively prevents Account Takeover (ATO) attacks, one of the leading causes of data breaches.",
+      " Real-time reports and alerting make it significantly easier to comply with auditing requirements.",
+      " By automating the most labor-intensive aspects of password security, IT departments find a significant reduction in the time and resources needed for maintenance.",
+      "The Enzoic solution is offered as a software-based plugin that integrates seamlessly into existing AD Domain Controllers. Optional endpoint agents are also available that provide users with specific instructions during password resets. If a user attempts to set a password that doesn’t meet policy requirements, they are guided on what adjustments need to be made for their password to align with policy, thereby enhancing the user experience and ensuring compliance.",
+      "In most cases, Enzoic for Active Directory can be up and running in under an hour, a testament to its userfriendly design. Enzoic for Active Directory operates on a subscription model, including a self-serve option with a free startup plan covering up to 20 users. The subscription cost is directly tied to the number of accounts that need protection. For specific pricing, you can refer to the ",
+      ".",
+      "In a rapidly evolving cybersecurity landscape, ",
+      " offers an agile, robust, and user-friendly solution to the ever-present challenge of compromised credentials. Its standout features like continuous credential security, expansive threat intelligence, and a minimalistic approach to user experience make it a highly recommended choice for any organization looking to fortify its first line of defense—passwords.",
+      "Enzoic is an enterprise-focused cybersecurity company committed to preventing account takeover and fraud through threat intelligence monitoring. Organizations can use Enzoic solutions to screen customer and employee accounts for exposed passwords, credentials, and PII to identify accounts at risk and mitigate",
+      "\nunauthorized access.",
+      "Learn more about Enzoic at: ",
+      " | "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/solution-review-enzoic-for-active-directory/"
+  },
+  {
+    "title": "Top 5 Cloud Security related Data Breaches!",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2017/10/Cloud-security-5-696x418.jpg"
+    ],
+    "description": [
+      "The Year 2017 has so far witnessed some data slip-ups from the worlds top cloud storage providers and the details are as follows-",
+      " World’s first Cyber Resilience startup UpGuard discovered in its Cyber Risk survey that Accenture left at least 4 AWS S3 storage buckets unsecured. And as a result of this flaw, the data on these storage media was available for download. The data exposed in this security goof-up were authentication credentials, secret API data, digital certificates, decryption keys, customer data, and other meta info which could be easily used by cyber crooks to mint money. It was revealed in the security analysis that more than 137GB of data was available for public access and some of the data might have been siphoned by hackers to post on the dark web.",
+      " Nice Systems, which is a 3rd party vendor working for Verizon, committed a configuration blunder on an AWS S3 bucket which exposed names, addresses, account details, and pin numbers of millions of US-based Verizon customers. ‘Nice’ agreed that the mistake was committed by one of its engineers who reportedly created a cloud-based file repository for storing customers call data which is used by Verizon for backend office and call center operations. The info included customer phone numbers, their names, and PIN which was alarming as this info can be used by attackers to gain false access to the accounts and get cloned SIMS. This incident also highlighted the fact that how alarming is the storage of sensitive info on 3rd party vendor.",
+      " In this year, technology consulting firm Booz Allen hired UpGuard to carry out security assessment on both its internal and external computer systems. To our surprise, the assessment discovered that 60,000 files were on a public access on AWS S3 bucket owned by an intelligence and defense contract of Booz Allen. The cache is said to have exposed 28GB of data and this includes credentials of senior engineers, passwords of US Government systems, and over half a dozen of files containing unencrypted passwords of government contractors holding top Secret Facility Clearance. Following the incident, US Senator Claire McCaskill who holds a top rank in Senate Homeland Security and Government Affairs Committee issued a public statement saying the data breach was true and Booz Allen will be held seriously responsible for the leak of sensitive info.",
+      " A 3rd party investigation commissioned by Deep Root Analytics confirmed that personal details of more than 198 million American voters were exposed by a security flaw on AWS S3 bucket owned by Republican National Committee (RNC). The exposed data includes birth dates, phone numbers; self-reported racial background, home & mailing address, and party affiliation. This blunder was committed by an engineer working for Deep Root Analytics which was providing data storage services for RNC. The security report stated that the engineer working for Deep Root Analytics configured the storage platform as public instead of private and as a result of this technical mistake all the content available on the platform was available for public access.",
+      " Virtually every registered voter information from Chicago was available for public access when the engineer working for ES&S left the AWS S3 bucket for public access. The data was in downloadable format and is said to have compromised personal info of more than 1.8 million Chicago voters so far. The data includes names, addresses, phone numbers, driver’s license, and social security numbers. Moreover, the exposed database is reported to have created at the time of US 2016 general elections by the Chicago Board of Election Commissioners."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/top-5-cloud-security-related-data-breaches/"
+  },
+  {
+    "title": "List of Countries which are most vulnerable to Cyber Attacks",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2017/03/Vulnerability_1000x600-4-696x418.jpg"
+    ],
+    "description": [
+      "As soon as Wikileaks revealed to the world that it has valid documents to prove that US law enforcement agency CIA has the potential to hack any Smart Phone, Smart TV or devices related to Internet of Things existing on this globe, it surprised the entire world, along with those connected to the cyber security field.",
+      "Guestimating that people would more be interested in knowing some facts related to this genre, Tech services firm CompariTech has come up with some latest stats which gives info on countries which are most and under-prepared to cyber attacks. Along with those that are most susceptible targets to cybercriminals.",
+      "Sweden-19.88%",
+      "Finland- 20.65%",
+      "Norway-21.63%",
+      "Japan-22.24%",
+      "Belgium-22.78%",
+      "United Kingdom-23.38%",
+      "Switzerland-23.94%",
+      "Germany-24.12%",
+      "Denmark-24.34%",
+      "Netherlands-24.86%",
+      "China-49%",
+      "Taiwan-47.34%",
+      "Turkey-40.99%",
+      "Russia-38.95%",
+      "Gautamela-37.56%",
+      "Mexico-36.89%",
+      "Peru-36.23%",
+      "Ecuador-36.22%",
+      "Brazil-34.68%",
+      "Poland-33.01%",
+      "India-9.6%",
+      "Russian Federation-6.41%",
+      "Kazakhstan-5.75%",
+      "Italy-5.25%",
+      "Germany-4.26%",
+      "Vietnam-3.96%",
+      "Algeria-3.9%",
+      "Brazil-3.72%",
+      "Ukraine-3.72%",
+      "United States-1.41%",
+      " ",
+      "China-29.56%",
+      "United States-21.59%",
+      "United Kingdom-16.17%",
+      "France-8.72%",
+      "Korea-4.06%",
+      "Singapore-3.93%",
+      "Japan-3.81%",
+      "Vietnam-3.76%",
+      "Germany-3.49%",
+      "United States-54%",
+      "South Korea-6%",
+      "Japan-4%",
+      "Russia-3%",
+      "Columbia, Ukraine-2%",
+      "Vietnam, Belarus, Kazakhstan and Phillippnes-1%",
+      "Canada",
+      "United States",
+      "Brazil",
+      "Norway",
+      "Germany",
+      "Estonia",
+      "Oman",
+      "New Zealand",
+      "Malaysia",
+      "South Korea",
+      "Namibia",
+      "Lesotho",
+      "Somalia",
+      "The Central African Republic",
+      " ",
+      "Belgium",
+      "Dominican republic",
+      "Hong Kong",
+      "Samoa",
+      "China",
+      "Afghanistan",
+      "Tajikistan",
+      "South Africa and ",
+      "Australia",
+      "United States-$17.36 million",
+      "Japan-$8.39million",
+      "Germany-$7.84 million",
+      "United Kingdom-$7.21 million",
+      "Brazil-$5.27million",
+      "Australia-$4.3 million",
+      " The stats were prepared by CompariTech based on the resources such as telegraph.co.uk, freedomhouse.org, and statista.com"
+    ],
+    "url": "https://www.cybersecurity-insiders.com/list-of-countries-which-are-most-vulnerable-to-cyber-attacks/"
+  },
+  {
+    "title": "Navigating the Waters of AI: Safeguarding Against Data Security Risks",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/04/Artificial-thinking-696x418.jpg"
+    ],
+    "description": [
+      "In the era of rapid technological advancement, artificial intelligence (AI) has emerged as a powerful tool with transformative potential across various industries. While AI brings unprecedented opportunities, it also introduces new challenges, particularly in the realm of data security. As organizations increasingly leverage AI to enhance their operations, mitigating the risks associated with AI-driven technologies becomes paramount. Here’s a guide on how to avoid data security risks linked to AI.",
+      "One of the foundational steps in securing AI applications is to thoroughly understand and evaluate the data sources feeding into the system. Assess the quality, integrity, and sensitivity of the data, ensuring that it complies with privacy regulations and organizational policies. Implement robust data governance practices to maintain data accuracy and prevent potential security breaches.",
+      "Protecting data at rest and in transit is essential. Implement strong encryption techniques to safeguard sensitive information from unauthorized access. This ensures that even if a breach occurs, the compromised data remains unreadable and unusable without the proper decryption keys.",
+      " Federated learning is a decentralized approach that enables model training across multiple devices or servers without exchanging raw data. This method reduces the risk of data exposure, as only model updates, not the raw data, are shared between devices. By adopting federated learning, organizations can enhance the privacy and security of their AI systems.",
+      "Just like any other software, AI systems require regular updates and patches to address vulnerabilities and enhance security. Stay informed about the latest security patches and updates provided by AI framework developers and vendors. Timely application of these updates helps protect against potential exploits and security breaches.",
+      "Restrict access to AI systems based on the principle of least privilege. Only individuals with a genuine need should have access to sensitive data and AI models. Implement comprehensive monitoring systems to track user activities and detect any suspicious behavior. This proactive approach allows organizations to identify and respond to potential security threats in real time.",
+      " Periodic security audits and assessments are crucial for identifying vulnerabilities in AI systems. Engage in regular penetration testing and security audits to evaluate the effectiveness of existing security measures. By proactively identifying and addressing potential weaknesses, organizations can stay one step ahead of evolving security threats.",
+      " Human error remains a significant factor in data security incidents. Educate and train personnel involved in AI development, deployment, and maintenance on best practices for data security. Foster a culture of cybersecurity awareness to minimize the likelihood of unintentional data exposure or mishandling.",
+      " Given the increasing emphasis on privacy, it is crucial for organizations to stay compliant with relevant privacy regulations such as GDPR, HIPAA, or other regional data protection laws. Aligning AI practices with these regulations helps in building trust with users and avoids legal repercussions.",
+      "In conclusion, while AI presents immense potential for innovation, organizations must prioritize data security to fully realize its benefits. By understanding data sources, implementing encryption, adopting federated learning, updating systems regularly, enforcing access controls, conducting security audits, educating personnel, and staying compliant with regulations, organizations can navigate the waters of AI while safeguarding against potential data security risks. This proactive approach not only protects sensitive information but also contributes to building trust in the increasingly AI-driven landscape."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/navigating-the-waters-of-ai-safeguarding-against-data-security-risks/"
+  },
+  {
+    "title": "Top 5 PCI Compliance Mistakes and How to Avoid Them",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2019/12/John-Shin-RSI-Security-696x691.jpg"
+    ],
+    "description": [
+      "If you’re making mistakes in known territory, then you’re never actually going to push forward.",
+      "Credit card networks process thousands of transactions per second. Even though this very common activity takes place constantly and enables the entire internet economy, it still needs to meet certain security standards in order to be satisfactory for use. But not everyone is an e-commerce or payments whiz who thrives on solving issues related to keeping credit card numbers encrypted.",
+      "Whether you like it or not, any business that handles credit card or debit card transactions needs to meet a certain standard of payment card industry (PCI) compliance. Whether your bespoke internet shop sells specialized computer motherboards or artisanal hand-carved wooden boats, it’s expected to handle customer data in a secure and compliant fashion.",
+      "Whether you sell high tech or low tech, PCI compliance is right for you.",
+      "Getting your operation to a PCI-compliant spot is probably more achievable than you think it is. This process is mostly about establishing and maintaining a strong foundational level of organization-level cybersecurity controls, especially as it pertains to customer data.",
+      "PCI compliance works as a foundational layer of cybersecurity functionality that organizations can deploy to keep its network safe from a certain amount of known attacks. It only becomes more effective as its updated standards are upheld into the future — it’s continually updated and refined to be a strong tool for pushing back against malicious cybercriminals.",
+      "Compliance allows for an environment in which businesses can enjoy steadier and more predictable outcomes — they get to write off a certain amount of expectation of harm and gain a cybersecurity-compliant edge over those businesses making do without. But it’s tough to run a business when its private data goes public against its wishes.",
+      "To that end, companies wanting steady footing on the journey to PCI compliance would do well to steer clear of the following known mistakes. Don’t let these hazards take you down.",
+      "Not only are cybersecurity threats real to any organization collecting data, but successful attacks are occurring more frequently than they used to. Gaining PCI compliance is a mark that you do indeed understand cyberattacks to be a potential threat, and your organization has taken steps at the IT level to prepare for them.",
+      "Writing off known threats is like driving blind. If you can’t see where you’re going, you’re probably not going to like where you end up (or the status of your vehicle).",
+      "Robust organizations engineer springy connective tissue between their cybersecurity teams to all other teams in order to establish some degree of knowledge transfer between them. This kind of holistic approach to employee cybersecurity education can pay dividends in the future.",
+      "Unfortunately you are still beholden to PCI standards here. The specific regulations don’t just apply to businesses storing credit card details, but touches any business that might transmit and process those details. Whatever external system you rely on in order to generate valid credit card transactions, it’s in your interest to ask PCI compliance questions about the process and see what kind of feedback you get.",
+      "Even when you’ve outsourced all your card processing needs, your website performing the technical redirect necessary to finalize a transaction can land within scope for a small number of controls. It’s still possible for hackers to mess with people’s data even if your organization doesn’t store it.",
+      "Companies seeking a comfortable on-ramp to the world of PCI compliance might administer themselves a test per directions from the PCI standards body. High-quality self assessments can be as accurate as paid assessments conducted by a third-party assessor.",
+      "But there are multiple versions of this self-assessment questionnaire, depending on a business’s specific niche and statistics. People may commonly fill the wrong one out in earnest and then depend on the results of this faulty, inapplicable assessment to plan the way forward.",
+      "Choose your service providers wisely, and don’t be afraid to establish the habit of always checking to see if something might be incompliant. Good service providers can provide high-confidence documentation of their compliance. It’s definitely a bad look if they send over other standards like ISO 27001. This standard isn’t compliant and implementation can leave businesses vulnerable.",
+      "Don’t forget that service providers are in business to make money just like any other business. Unethical service providers might say whatever it takes to convince you that their offering is compliant and close a sale. Beware of salespeople and make sure that your satisfied purchase decision only takes place after you’ve pondered issues of compliance.",
+      "In some cases this is about paying attention to literal warning signs that pop up on your computer. Pay attention to any indicators that you might no longer be compliant. Taking notice and spending some money to solve a problem up front can save you major expenses and headaches down the road.",
+      "If your hosting provider doesn’t clearly state that its solution is PCI-compliant, then that should register as a warning sign worth investigating. If you’re not making security updates within a few weeks of a new vendor release coming out. Perhaps your organization makes sloppy use of shared accounts that are cumbersome to access and use, but still gain third parties a potential way in.",
+      "Employees should have a certain base-level cybersecurity sense. They should know the value of long, complicated passwords, and perhaps even go so far as to have a documented incident response plan.",
+      "Companies can demonstrate where they fit within history by avoiding so many previously known historic pitfalls. By sliding gracefully through known challenges, companies can move on to the big work of making new mistakes and pushing forward.",
+      "John Shin is the Managing Director at ",
+      " and has 18 years of leadership, management and Information Technology experience. He is a Certified Information Systems Security Professional, CISM, and Project Management Professional (PMP).",
+      " "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/top-5-pci-compliance-mistakes-and-how-to-avoid-them/"
+  },
+  {
+    "title": "Sweet Security Lands $12 Million in Seed Funding to Shift Cloud Security Right with Runtime Security Suite",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/08/getty-images-ONQeqIIF4nY-unsplash-696x464.jpg"
+    ],
+    "description": [
+      "TEL AVIV, Israel, August 9, 2023: ",
+      " today announced $12 million in seed funding and the launch of its Cloud Runtime Security Suite. The round was led by Glilot Capital Partners with participation from CyberArk Ventures and angel investors including Gerhard Eschelbeck, former CISO at Google and Travis McPeak, who led product security at Databricks. Sweet was founded by retired Brigadier General, Dror Kashti, former CISO of the Israel Defense Forces (IDF), retired Colonel, Eyal Fisher, former head of the Cyber Department at Unit 8200 and Orel Ben-Ishay, former Head of the Cybersecurity R&D center at Unit 81. With a clear vision on how to best raise the bar for cloud defense, they built a cloud-native runtime security suite that enables security teams to stop cloud workload attacks, quickly and with surgical precision.",
+      "While leading the IDF’s digital transformation effort, Sweet CEO and co-founder Dror Kashti found that even though securing development environments is essential, current cloud runtime security solutions are insufficient for preparing a company for a breach. As critical as it is for companies to shift their cloud security left, attacks only unfold in runtime. Companies require technological “boots on the ground” to detect them. Existing detection tools either provide very limited functionality or aren’t optimized for the cloud. Defenders need cloud-native runtime protections that provide a full narrative for understanding and stopping attacks as they unfold.",
+      "Sweet’s Cloud Runtime Security Suite enables CISOs and security teams to level up their cloud security from partial to complete defense. Providing robust defenses across all stages of an attack, its feature set includes Detection & Response, Discovery and Prevention – all in runtime. Sweet’s runtime sensor takes under five minutes to deploy, immediately providing cloud-native cluster visibility. It streams key application data and business logic to its servers, using an innovative framework to profile workload behavior anomalies and contextualize them with traditional TTPs.",
+      "Sweet’s modern attack detection model and patent-pending auto learning technology enable immediate delivery of critical, comprehensive attack findings that allow mitigation before, during and after attacks occur.",
+      "As a result, Sweet provides CISOs with the technical underpinnings needed to be accountable for cloud security. It also enables them to refresh corporate SOC and IR processes for cloud native environments, enabling the organization to  ease into cloud adoption and digital transformation.",
+      "For security teams, Sweet provides a powerhouse set of runtime “must-haves”, providing a fully contextualized, at-a-glance attack narrative, backed up with extensive response capabilities, a detailed runtime topology and the ability to prioritize DevSecOps remediation efforts.",
+      "“As a large, cloud-first company, our business relies on our ability to protect our customers’ digital assets. We needed a runtime security suite that matched our scale, speed, and technology,” said Michael Shaulov, co-founder and CEO, Fireblocks. “Sweet’s technology provides real-time security detection & prevention capabilities to our cloud workloads and, importantly, with minimal business interruption. Its insights on connectivity, visibility to our cloud’s topology, and automatic classification of real-time threats is a force multiplier to our Security Operation Center and our DevSecOps teams.”",
+      "“Sweet’s vision for cloud runtime security is spot on, with a  deep understanding of how cloud attacks unfold, and critically, enables defenders to be much more effective at containing them,” said Srinath Kuruvadi, Managing Director, Head of Cloud Security, JPMorgan Chase & Co. “Attacks against cloud workloads are only going to increase in frequency and sophistication. The industry needs comprehensive security solutions to face them and Sweet is driving this shift with its extraordinary vision and expertise.”",
+      "“Investing in Sweet Security was a no-brainer,” said Kobi Samboursly, Founding Partner, Glilot Capital Partners. “First, it’s addressing an increasingly problematic cloud security gap – cloud runtime defense. Second, Dror, Eyal and Orel bring superpowers to the table: the depth and breadth of their cloud security expertise and their ability to build and mentor talented, high performing teams. Sweet is off to a great start and we look forward to supporting its success.”",
+      "‘Cybersecurity’ and ‘delightful’ are not words that normally go hand in hand, but we want our customers to use them in the same sentence when talking about our solution,” said Dror Kashti, co-founder and CEO, Sweet Security. “We feel our timing is right to make that happen. If SOC and IR teams don’t have to constantly tune their security products or sift through mountains of alerts, they’ll execute at a higher level, and they’ll be happier. Cloud detection and response may be complex, but it doesn’t have to be painful.”",
+      "Sweet’s Cloud Runtime Security Suite delivers first-to-market capabilities for defending cloud workloads, shifting cloud security right. Founded by retired, elite IDF commanders with prodigious expertise in offensive and defensive cloud security, Sweet’s approach elevates the ability of security teams to shut down cloud attacks when they occur, where they occur, with maximum precision and minimal business disruption. Sweet Security is backed by Glilot Capital Partners, CyberArk Ventures and an elite group of angel investors. For more information, please visit ",
+      "\n"
+    ],
+    "url": "https://www.cybersecurity-insiders.com/sweet-security-lands-12-million-in-seed-funding-to-shift-cloud-security-right-with-runtime-security-suite/"
+  },
+  {
+    "title": "2024 Cybersecurity Excellence Awards Now Open",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/09/banner_2024_final_Plain-1-696x206.png"
+    ],
+    "description": [
+      "The ",
+      " are now open for nominations.",
+      "In the complex and dynamic world of cybersecurity, excellence often goes unnoticed. That’s where the Cybersecurity Excellence Awards come in. This isn’t just another awards program – it’s an opportunity for your company, products, and teams to be globally recognized and celebrated for their innovation, leadership, and excellence in cybersecurity.",
+      "The Cybersecurity Excellence Awards are global to extend opportunity and reach to all who contribute to the cybersecurity space. To ensure a level playing field for all participants, all nominations are judged within their peer group defined by market segment, company size, and geography. Plus, our reasonable nomination fees make the Cybersecurity Excellence Awards one of the most accessible awards programs in the industry.",
+      "Gain global, industry-wide acknowledgment and recognition for your achievements in cybersecurity. Showcase your success on the Cybersecurity Excellence Awards nomination page, through social media, featured news articles on the Cybersecurity Insiders news site, press releases, posts on our LinkedIn community of 600,000+ members, and with an award badge proudly displayed on your website or social profiles.",
+      "Whether you’re a small startup or an established company, a cybersecurity professional or SOC team, these awards are for you. We offer categories tailored to your product, team, or organization, ensuring fair competition and recognition for all.",
+      "Make sure to submit your nominations no later than April 6, 2024 (end of day PST). This includes up to three (3) award entries across multiple categories.",
+      "We are committed to making the nomination process as easy and seamless as possible. Whether you’re just starting to think about your nomination or perhaps you already have multiple nominations in mind, our user-friendly dashboard allows you to begin right away, save your draft, and return at your convenience.",
+      "The Cybersecurity Excellence Awards provide a platform for the industry’s best to shine. Don’t miss your chance to participate in this prestigious recognition program. Explore the categories, understand the process (don’t hesitate to contact us with any questions), and start your nomination today.",
+      "Start today: ",
+      " "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/2024-cybersecurity-excellence-awards-now-open/"
+  },
+  {
+    "title": "Cynomi Study Reveals Number of MSPs Providing Virtual CISO Services Will Grow Fivefold By Next Year",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/08/ux-indonesia-8mikJ83LmSQ-unsplash-696x461.jpg"
+    ],
+    "description": [],
+    "url": "https://www.cybersecurity-insiders.com/cynomi-study-reveals-number-of-msps-providing-virtual-ciso-services-will-grow-fivefold-by-next-year/"
+  },
+  {
+    "title": "Enea Unveils Qosmos Threat Detection SDK to Boost Network Security",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/09/nasa-Q1p7bh3SHj8-unsplash-1-696x463.jpg"
+    ],
+    "description": [" "],
+    "url": "https://www.cybersecurity-insiders.com/enea-unveils-qosmos-threat-detection-sdk-to-boost-network-security/"
+  },
+  {
+    "title": "Eight 8 WhatsApp message links that you should never click on",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/whatsapp-3-696x526.jpg"
+    ],
+    "description": [
+      "Staying active on social media is a popular trend, and WhatsApp is one of the prominent platforms facilitating connections with both businesses and loved ones. However, security experts warn that, like any online service, this Facebook-owned subsidiary is susceptible to nefarious activities that can compromise users’ bank accounts and reputation. To safeguard WhatsApp users from scams and online fraud, here are eight tips to follow:",
+      " Avoid clicking on links promising prizes or lottery winnings, as these could be traps designed to extract sensitive information such as birthdates, online banking passwords, and email credentials.",
+      " Be cautious about job offers that seem too good to be true. Scammers often exploit the allure of enticing job titles and salaries to target educated users. Stay vigilant and refrain from clicking on links that prompt the entry of critical details.",
+      " Hackers frequently pose as attractive individuals to entice victims. They may initiate calls, request explicit content, and later use it for blackmail. Never engage in conversations or accept calls from unknown senders, regardless of their claimed identity or appearance.",
+      " Exercise caution with messages claiming to be bank alerts, urging users to complete KYC procedures to unlock their accounts. These links often lead to scams aimed at draining funds from unsuspecting users.",
+      " During holiday seasons, scammers exploit the festive atmosphere by sending messages prompting users to make payments for nonexistent purchases. Be wary of such messages, as they are designed to compromise your device’s security.",
+      " Companies like Amazon and Netflix do not send subscription messages via WhatsApp. If you encounter such messages, be skeptical, as they could be attempts to trick you into falling for an over-the-top subscription scam.",
+      " Messages about missed parcel deliveries or delivery problems might be deceptive. Before clicking on embedded links, verify the information with family or friends to avoid falling prey to malicious schemes.",
+      " Messages from social media platforms about their latest services and products usually come from registered senders. If a message lacks sender information, refrain from clicking on any links and instead inquire further to prevent potential regret.",
+      "By staying vigilant and following these tips, WhatsApp users can minimize the risk of falling victim to scams and protect themselves from online fraud."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/eight-8-whatsapp-message-links-that-you-should-never-click-on/"
+  },
+  {
+    "title": "Employment Scams On The Rise: What Can HR Do To Mitigate Them?",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/woman-selecting-pictures-people-696x464.jpg"
+    ],
+    "description": [
+      "Ani Banerjee, Chief Human Resources Officer, ",
+      "Bad news. Your organization just announced a major restructuring, making your role “redundant”. You update your LinkedIn profile, using the #OpenToWork hashtag, and announce to prospective recruiters that you’re on the market, actively searching for a new gig.",
+      "A scammer posing as a Recruiter (from a profile appearing legitimate), contacts you and immediately requests your phone number. This alleged Recruiter sends you text messages about the open position. After asking a series of interview questions, the Recruiter congratulates you for having been selected. To accept their offer, you’re compelled to do some “necessary paperwork.”",
+      "Victims are then requested to send their PII (personally identifiable information) data like DOB, home address, driver’s license ID, and lastly, social security number, ostensibly “to run a CORI and background check.” If this “recruiter” is bold, they will ask for bank account statements and tax returns. With private information in hand, the recruiter-scammer is locked and loaded, ready to commit all kinds of fraud, identity theft, even access to your laptop.",
+      "This is unfortunately, just one of many recruitment scams currently running wild on LinkedIn and other recruitment platforms. The Better Business Bureau considers employment scams the ",
+      " online scheme in the US, second only to online shopping scams.",
+      "There are two main reasons that explain the sudden surge in employment scams. Firstly, the nature of work and the workplace itself have changed. Businesses are embracing work-from-home models and employees are getting more opportunities to work with companies that are not local. Job seekers use technology to apply for jobs, attend interviews and onboard organizations virtually. This situation creates the perfect environment for opportunistic threat actors on the lookout for innovative ways to social engineer people.",
+      "Secondly, rising inflation, layoffs and unemployment are making job seekers ",
+      " and desperate. Scammers thrive on adversity; they advertise bogus job listings that offer generous pay packages, flexible working hours, fantastic benefits, etc. Next, they ask the job seeker to transfer money to cover agency, training, and recruitment fees, application costs, background and credit checks; even in some cases, charges for ",
+      ".",
+      "In the first quarter of 2023, losses from job scams grew ",
+      " compared to the same period last year.",
+      "Employment ",
+      " can negatively impact businesses in a variety of ways. The biggest one of course is market reputation. Successful schemes make organizations less desirable and less trusted by job applicants. Threat actors can leverage stolen information and intellectual property to cause financial losses, launch social engineering attacks, disrupt operations, and cause physical damage. In certain situations, organizations can be held liable and financially accountable for financial damage and theft of private information, resulting in costly  lawsuits and negative publicity.",
+      " is already being extensively used by bad actors to write sophisticated emails, create fake profiles and mimic voices. In employment scams, fraudsters can weaponize AI to create fake job listings and impersonate recruiters, conduct target selection, pull specific information about job seekers from social media accounts and deploy bots to conduct fake interviews.",
+      "As custodians of people, HR teams have a fiduciary duty and moral responsibility in ensuring that the organization adopts secure recruitment practices, keeping in mind the organization’s security posture as well as safeguarding the privacy of job seekers.",
+      "Best practices that can help mitigate the risk of employment scams include:",
+      "If employees themselves are unaware that such scams exist, they can easily become victimized, putting the organization’s data and security at great risk. It is therefore highly recommended that organizations run simulated training and teach employees to identify phishing and social engineering attempts, the many ",
+      " behind employment scams. It’s all about ",
+      ".",
+      "Post jobs on reputable websites and/or the company website alone. Deploy a verification process that helps job seekers verify or confirm the authenticity of a listing.",
+      "Scammers typically rely on misinformation and confusion. Have an open and transparent recruitment and communication process to prevent scammers from taking advantage.",
+      "Monitor leading job portals continuously for any listings that impersonate or misrepresent your organization. Audit recruitment practices at regular intervals to evaluate your defenses against evolving employment scams.",
+      "While it is impossible to eliminate employment scams entirely, if HR teams build security instincts among staff, adopt open and transparent recruitment practices, and deploy fraud reporting and monitoring mechanisms, they can not only reduce the occurrence of such scams, but also boost their market reputation by demonstrating a solid commitment to ethical recruitment practices.",
+      "Ani Banerjee is Chief Human Resources Officer for ",
+      ", provider of the world’s largest security awareness training and simulated phishing platform used by over 65,000 organizations. Banerjee oversees HR operations across 11 countries, and is responsible for developing new initiatives to enhance the company’s organizational culture, recruitment channels, and diversity, equity, and inclusion (DEI) strategies. He has 30 years’ experience in global HR leadership roles working for VMware, Dell, Yahoo, and AOL.",
+      " on Freepik"
+    ],
+    "url": "https://www.cybersecurity-insiders.com/employment-scams-on-the-rise-what-can-hr-do-to-mitigate-them/"
+  },
+  {
+    "title": "Winning Budget and Trust as a CISO",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/07/Secure-Code-Warrior-Matias-Madou-696x464.jpg"
+    ],
+    "description": [
+      "Nearly thirty years after the ",
+      ", the role finds itself in a difficult position. The demands have never been higher—more assets to protect, a larger attack surface, more incidents than ever before.",
+      "Every company today is a technology business, digital-first in its approach and embracing new ways of working. But this means that every modern business has a far bigger attack surface that needs the best possible protection. Cybersecurity is viewed as a cost center, and even though it is vital in shielding businesses from digital disaster, security leaders are having to do more to show that their department is worth its budget spends. How can CISOs best advocate their value?",
+      "Every department is currently fighting for funds and facing scrutiny for the products they buy, the hires they make, and their strategic impact on business objectives.",
+      "There’s a need to communicate the outcomes of cybersecurity initiatives in terms that make sense outside of numbers in a spreadsheet. Stakeholders have different levels of technical expertise and understanding, so the case needs to be compelling and understandable. They will likely want to know: what in the business needs to be protected, how is it done, and by whom? And how does the business’s cybersecurity budget compare with the scale of attacks?",
+      "A business that suffers a successful attack will undoubtedly lose trust. That makes security leaders custodians of customer trust—keeping it is just as vital as prioritizing sales and marketing goals and should take part in any high level discussion on the value of cybersecurity. Taking the discussion in this direction will be more productive in the long term than scare tactics.",
+      "Sometimes big numbers just sound like big numbers. The statistics around cybersecurity attacks may seem like they’re guaranteed to win any argument around budgets, but sometimes scaremongering just isn’t enough. Sure, cybersecurity is a priority, but it’s not the only one. When advocating, CISOs need to prepare to answer: is this budget increase going to be used for anything new or different?",
+      "Only 50% of companies feel they have an adequate budget to tackle their known cybersecurity issues. And with global cyberattacks ",
+      " between 2021 and 2022, stagnant or decreasing budgets are going to prove painful for many CISOs. Innovating through adversity and proving the value of the cybersecurity team could be the answer many senior security leaders are searching for.",
+      "‘Prevention is better than cure’ is a cliche for a reason—it’s mostly true. A holistic cybersecurity program must extend well beyond reactive measures, including getting developers on board. It should include education to tackle common security bugs, eliminating these issues at the source. By making developers essential members of the security team, and upskilling the development cohort, CISOs can improve security practices and demonstrate its worth beyond reactive protection.",
+      "If CISOs wanted to do marketing, they wouldn’t have become CISOs. But it’s an area where most CISOs can improve, particularly when selling their case to management.",
+      "The impact of a cybersecurity program on customer trust and brand loyalty is more important than ever, and a large-scale breach can be disastrous. How should this be communicated? Not necessarily through big scary numbers and the tools that can prevent it. Instead, security should be sold as a part of a company’s brand. Aligning the company’s stringent security practices with core brand values means a clear message that customers can rely on the organization for data privacy and protection. It’s critical that the modern CISO takes the time to highlight the competitive advantages of security strategy and policy as it relates to ongoing positive customer sentiment and trust."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/winning-budget-and-trust-as-a-ciso/"
+  },
+  {
+    "title": "The Cyber Resilient CEO: Navigating the Digital Landscape with Vigilance",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/04/Cyber-Attack_2_1000x600-696x418.jpg"
+    ],
+    "description": [
+      "In an era dominated by rapid technological advancements and an ever-evolving digital landscape, the role of a CEO has transcended beyond traditional business acumen. Today, a new breed of leaders is emerging – the cyber resilient CEO. But what exactly does it mean to be a cyber resilient CEO, and why is this trait increasingly crucial in the contemporary business environment?",
+      "A cyber resilient CEO is an executive who not only understands the importance of cybersecurity but also actively integrates it into the fabric of their organization. This leader is not merely focused on profit margins and market share but possesses a keen awareness of the digital risks and threats that can compromise the integrity of their business.",
+      " A cyber resilient CEO is proactive in identifying and mitigating potential risks. This involves staying informed about the latest cybersecurity threats, understanding the vulnerabilities within the organization, and implementing preemptive measures to safeguard against attacks.",
+      " Rather than viewing cybersecurity as a cost, the cyber resilient CEO sees it as a strategic investment. They allocate resources to robust cybersecurity infrastructure, employee training programs, and cutting-edge technologies that enhance the organization’s overall security posture.",
+      " Understanding that no system is entirely invulnerable, the cyber resilient CEO has a well-defined crisis response plan. This includes clear communication strategies, collaboration with cybersecurity experts, and a commitment to transparency in the event of a cyber incident.",
+      " A cyber resilient CEO fosters a culture of cybersecurity awareness throughout the organization. Employees are educated on best practices, trained to recognize potential threats, and encouraged to prioritize security in their day-to-day activities.",
+      " The digital landscape is dynamic, with new threats emerging regularly. A cyber resilient CEO is adaptable and views learning as a continuous process. They stay abreast of industry trends, emerging technologies, and evolving cyber threats to ensure that their organization remains ahead of the curve.",
+      " A cyber breach can have severe repercussions on a company’s reputation. A cyber resilient CEO recognizes the importance of trust in the digital age and takes measures to protect the organization’s image.",
+      " Customers, investors, and partners all entrust a CEO with their data and resources. Cyber resilience ensures that these stakeholders’ interests are protected, fostering long-term relationships built on trust and reliability.",
+      " With the increasing focus on data protection regulations, a cyber resilient CEO ensures that their organization complies with legal requirements. This not only avoids legal consequences but also demonstrates a commitment to ethical business practices.",
+      " Cyber resilience goes beyond defense; it includes strategies for quick recovery in the face of an attack. This proactive approach minimizes downtime, ensuring that the business can continue to operate even in the aftermath of a cyber incident.",
+      "As technology continues to redefine the business landscape, the importance of a cyber resilient CEO cannot be overstated. These leaders not only protect their organizations from cyber threats but also foster a culture of vigilance and adaptability. In an age where digital resilience is synonymous with business resilience, the cyber resilient CEO stands at the forefront, steering their organization through the challenges of the modern digital era."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/the-cyber-resilient-ceo-navigating-the-digital-landscape-with-vigilance/"
+  },
+  {
+    "title": "Top 10 Programming Languages that are required in Cybersecurity Field",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/05/Careers_1000x600-696x418.jpg"
+    ],
+    "description": [
+      "In the realm of cybersecurity, knowledge of programming languages empowers security professionals to decipher how hackers employ programming to breach systems. While not all cybersecurity roles require proficiency in programming, it is undeniably valuable. Mastery of programming languages equips these professionals to safeguard their organization’s technical infrastructure, data, and digital applications from malicious threats, effectively adapting to evolving situations.",
+      "To assist professionals in the fields of ",
+      "and ",
+      " here are the top 10 programming languages that can bolster their cybersecurity careers:",
+      " Python’s popularity stems from its readability and extensive library support. It finds applications in automation, penetration testing, scripting, and security toolkit development. However, its readily available modules also make it attractive to novice cybercriminals seeking to infiltrate networks.",
+      " Java is pivotal for securing network applications and Android apps. Understanding Java enables professionals to discern how hackers might exploit operating systems and mobile vulnerabilities. It is also employed by threat actors for creating botnets and perpetrating identity theft.",
+      " These decades-old languages, while less favored by enthusiasts, remain essential for system development and malware analysis, making them indispensable for experienced hackers.",
+      " JavaScript aids in security testing applications within sandboxes and identifying flaws and vulnerabilities. Its role in enhancing web pages with animated content makes it a staple in online web development bootcamps.",
+      " As a server-side language used in website development, PHP becomes a vector of attack for threat actors seeking to compromise websites.",
+      " Widely used for configuration management and task automation, PowerShell is essential for users of Windows Operating System-based devices.",
+      " Ruby finds prominence in automated application scenarios, particularly in detecting anomalies within tools such as the Metasploit Framework offered by Rapid7.",
+      " Given that many cyberattacks revolve around HTML code, a foundational understanding of Hyper Text Markup Language (HTML) is imperative for cybersecurity professionals.",
+      " Go is employed in crafting network security tools and anti-malware programs, enhancing cybersecurity defenses.",
+      " Structured Query Language (SQL) is pivotal for identifying and rectifying database flaws, playing a critical role in security audits and assessments.",
+      "In addition to the above, proficiency in ",
+      " aids in log analysis, network scans, and the development of security scripts. ",
+      " is crucial for building performance-oriented applications and systems due to its robust memory safety features. ",
+      " is invaluable for creating automated scripts to streamline daily computing tasks in terminal sessions. Lastly, ",
+      " is used in security frameworks like ",
+      "It’s important to note that learning Python is particularly advantageous in the field of cybersecurity, as it proves useful for scanning, penetration testing, and malware analysis.",
+      "By mastering these programming languages, cybersecurity professionals can significantly enhance their ability to protect critical systems and data, staying one step ahead of cyber threats in an increasingly complex digital landscape."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/top-14-programming-languages-that-are-required-in-cybersecurity-field/"
+  },
+  {
+    "title": "CISOs witness meagre salary rise and bonuses in 2023",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/CISO-Officer-696x464.jpg"
+    ],
+    "description": [
+      "As 2023 draws to a close, many Chief Information Security Officers (CISOs) find themselves at the crossroads of salary negotiations or have already secured their updated compensation packages. However, research conducted by IANS Research in collaboration with Artico Search suggests that the salary increments for these technology leaders were often modest, and bonus expectations fell short of initial projections.",
+      "Several factors contribute to these relatively subdued pay raises and bonuses. These considerations largely hinge on a company’s annual budget for the year and the firm’s profit margins in both the preceding and current years.",
+      " Are CISOs content with their current or impending salary hikes and bonuses for the year? The issue of salary remains a complex and sensitive matter for individuals across various demographics, regardless of gender, educational background, experience, or industry.",
+      "The research report reveals that a substantial 75% or more of CISOs are contemplating a job change within the next 6-8 months, with some already in the process of transitioning to new opportunities, commencing as early as January 2024. Some are even willing to relinquish their current roles to explore new sectors or embark on entrepreneurial ventures.",
+      "In today’s landscape, evolving regulations governing data collection, processing, and analysis have significantly increased the liability borne by Chief Information Security Officers (CISOs). This heightened responsibility has instilled a sense of apprehension regarding potential cybersecurity incidents.",
+      "In order to evade potential legal complications and liabilities, many individuals may be inclined to distance themselves from these positions, despite some commanding annual salaries ranging from $300,000 to $600,000.",
+      "Furthermore, concerns surrounding the possibility of an economic slowdown have prompted business leaders to curtail operational expenses, including salary hikes and bonuses, in an effort to bolster profit margins.",
+      "So, is now an opportune moment for CISOs to seek new career opportunities? With the right qualifications and relevant experience, companies, particularly startups and emerging ventures, are actively seeking top talent who can navigate technological challenges from day one. In data-driven enterprises where information is the lifeblood, roles such as "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/cisos-witness-meagre-salary-rise-and-bonuses-in-2023/"
+  },
+  {
+    "title": "Training the Next Generation of Cybersecurity Professionals: 4 Keys to a Successful Internship Program",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/08/brooke-cagle-Uduc5hJX2Ew-unsplash-696x464.jpg"
+    ],
+    "description": [
+      "More than three million cybersecurity professionals are needed across the globe to meet threat demands, according to the ",
+      ", and equipping the next generation with the skills to successfully navigate the cybersecurity landscape begins with focusing on early talent. For some forward-thinking organizations, summer internships are a fundamental element of growing a robust cybersecurity team to ensure that personal and company data remain protected from threat actors and hacks. But simply having an internship program is not enough to solve the workforce shortage. A successful cybersecurity internship program must address four key pillars: diversity, mentorship, exposure, and feedback.",
+      "MassMutual’s enterprise cybersecurity group has a 75% conversion rate to full-time employee roles or extended internships. We believe the success of a cybersecurity internship program stems not only from providing interns with extensive insight into an organization’s structure, but also from emphasizing diversity when choosing an intern class, providing mentorship and networking opportunities, exposing interns to other cybersecurity teams, and assigning meaningful work.",
+      "Diversity is critical to a thriving workforce and culture, promoting more creative ideas and more informed decision-making. With many definitions of diversity, one of the most basic steps to achieving it in an internship class is to review candidates with non-traditional educational backgrounds. Why disqualify a candidate with an unrelated educational history or unconventional work background if they are intellectually curious and passionate about the security field?",
+      "Our enterprise cybersecurity program thrives in part because our intern class is filled with students who love to learn, are always asking questions, and are willing to work through learning curves. We’ve had incredible cybersecurity interns who are studying economics and psychology. Removing rigid degree requirements for internships and job descriptions helps us open our candidate pool to qualified applicants who would otherwise be overlooked.",
+      "MassMutual also promotes diversity hiring through maintaining partnerships with organizations that provide us with access to diverse and early-in-career talent, such as One In Tech, STEMatch and MiC (Minorities in Cybersecurity). We make sure to keep an open line of communication informing these partners of our internship opportunities and long-term talent goals. After all, goals are more effectively accomplished through collaboration, whether between organizations or mentors and mentees.",
+      "Once we’ve established our intern class, mentorship plays a key role in fostering the development of interns. It’s also the most rewarding aspect of the program for our employees. Our team ensures that interns are partnered with subject matter experts who can speak to and provide guidance on day-to-day work. We also provide every intern with an Intern Success Leader – someone from outside their daily team. The Success Leader’s relationship with an intern is intentionally less formal, providing a resource for candid questions and answers and information on business resource groups. This also ensures they have exposure to insights, experts, and exploratory learning opportunities outside of their daily team.",
+      "Today’s cyber professionals need to be skilled in a variety of areas, which is why MassMutual’s enterprise cybersecurity program exposes interns to different teams within the cybersecurity program to help them along their career journeys. For example, we offer a rotational program designed to allow exploration into different career paths. Our Cybersecurity Career Pathfinder Program provides an opportunity for those starting their careers in cybersecurity to explore a wide breadth of jobs across the industry, accelerating their skills and knowledge base. Exposure also comes in the form of networking. Interns are encouraged to attend events like presentations hosted by teams within the broader technology organization or even town halls where interns specifically can pose questions to our CEO.",
+      "Asking questions is key for both leaders and interns. For companies looking to build their own cybersecurity internship programs, and through it their future workforce, it’s important to keep in mind that a quality internship requires time and resources; leaders from the top-down need to be invested in the program and listen critically, acting on relevant learnings and ideas. Adequate investment in an internship program not only serves the next generation but paves the way for some fantastic future employees for your organization, building loyalty in both directions from the onset of their experience with your company. While interns are at MassMutual, we want to ensure they have meaningful opportunities that genuinely contribute to our business. By nontraditionally seeking and training future cyber leaders, our industry as a whole becomes more secure.",
+      "+++",
+      "Ariel Weintraub (she/her) is Head of Enterprise Cyber Security at MassMutual, serving as the first woman Head of Enterprise Security (CISO equivalent) in the company’s 172-year history. She first joined MassMutual in 2019 as Head of Security Operations & Engineering, responsible for overseeing the Global Security Operations Center, Security Engineering, Security Intelligence and Identity & Access Management (IAM). Prior to joining the Fortune 500 life insurance company, Ariel served as Senior Director of Data & Access Security within Cybersecurity Operations at TIAA where she led a three-year business transformation program to position IAM as a digital business enabler. Before working at TIAA, Ariel was Global Head of Vulnerability Management at BNY Mellon and was part of the Threat & Vulnerability Management practice at PricewaterhouseCoopers. Ariel earned a Master of Science in Cybersecurity from New York University Tandon School of Engineering and a Bachelor of Science in Business Administration from the University of Southern California Marshall School of Business.",
+      "Ariel’s passions include maximizing the value of threat intelligence sharing across the financial services sector, empowering women in the technology field, and tackling the cybersecurity workforce shortage while increasing its diversity. In addition to her CISO responsibilities, Ariel serves on the Board for the Executive Women’s Forum, the ISACA One in Tech Foundation, and the FS-ISAC Board of Directors. Her expertise and passions have been featured in various speaking engagements and news outlets including CSO Online, Women in Security Magazine, the CISO Series, InformationWeek, and many more. Most recently, she was recognized as one of Security Magazine’s Top Cybersecurity Leaders of 2023."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/training-the-next-generation-of-cybersecurity-professionals-4-keys-to-a-successful-internship-program-massmutual/"
+  },
+  {
+    "title": "PlexTrac Establishes UK and European Operations",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/images.png"
+    ],
+    "description": [
+      " PlexTrac, a pioneer in streamlining offensive security and pentest planning, reporting, and findings delivery, today announced that the company has established operations to support go-to-market activities in the UK and Europe. Based in London under the direction of recently appointed Chief Revenue Officer (CRO) Alex Thomson, the team will provide sales, engineering, and customer success resources to current customers, managed service providers, enterprises, and the channel partners who serve them in the region.",
+      "“PlexTrac has firmly established a significant foothold in the United Kingdom and Europe, with both markets representing a significant portion of our customer base, and we are thrilled to see the growing demand for our solutions,” said Alex Thomson, CRO, PlexTrac. “Our team in the region is comprised of exceptional professionals who are not only deeply knowledgeable in cybersecurity but also well-versed in the specific needs of this market. Their caliber, readiness, and commitment to our customers’ success will play a pivotal role in ensuring our customers receive the best support and service possible.”",
+      "PlexTrac is a reporting and workflow management platform that improves and centralizes a cybersecurity team’s processes across the life cycle. Whether staging offensive engagements and conducting assessments, analyzing data and reporting, prioritizing the most critical issues to resolve, collaborating between teams or communicating with stakeholders, PlexTrac simplifies and automates the process so enterprise and managed security service provider (MSSP) teams are more efficient and can focus on the security work that really matters.",
+      "“The market demand for companies seeking to realize value from their offensive security and pentest efforts as part of a continuous validation strategy continues to accelerate globally as evidenced by the considerable investment in exposure management services and tools,” said Andy Langsam, CEO, PlexTrac. “We believe that we can scale our growth predictably by enabling enterprises throughout the UK and Europe and the service providers who support them to demonstrate the value of their proactive security efforts.”"
+    ],
+    "url": "https://www.cybersecurity-insiders.com/plextrac-establishes-uk-and-european-operations/"
+  },
+  {
+    "title": "What to do if the phone is hacked or becomes espionage target",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/05/Mobile-Security-696x418.jpg"
+    ],
+    "description": [
+      "When you discover that your device has been compromised, it’s important not to panic. Such incidents can happen to anyone, and taking swift action within a couple of hours can help mitigate potential risks to your personal information.",
+      "The first step is to search for a reliable anti-malware solution capable of scanning your device for anomalies. Immediately disconnect the compromised device from the internet, and scrutinize recently downloaded applications for any signs of suspicious activity.",
+      "Upon identifying a questionable application, promptly uninstall it. Ensure that all your essential data, including contacts, photos, videos, documents, and messages, are regularly backed up to the cloud and synced every day or two.",
+      "Perform a factory reset on your device, keeping in mind that this process will delete all stored data. Consider using reputable anti-malware solutions such as ESET Mobile Security, Malwarebytes, Norton, TotalAV, McAfee, or AVG.",
+      "Implementing two-factor authentication (2FA) adds an extra layer of security when accessing sensitive data on applications or messaging platforms.",
+      "Diversify your reliance on different solutions instead of depending on a single company. For example, use Google Photos for storing videos and photos, One Drive for documents, and WhatsApp for messaging. This approach ensures that if one platform experiences issues, you can seamlessly continue your day-to-day activities with alternative solutions.",
+      "Exercise caution when encountering links in messages, emails, or PDF formats. Clicking on these links may lead to malicious intent, potentially compromising your information or funds in e-wallet platforms or crypto wallets.",
+      "By following these steps and staying vigilant, you can better protect your device and personal information from potential security threats."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/what-to-do-if-the-phone-is-hacked-or-becomes-espionage-target/"
+  },
+  {
+    "title": "All Gmail Personal Accounts to get passkey login security as default",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Gmail-696x522.jpg"
+    ],
+    "description": [
+      "Starting early next year, specifically from January 16, 2024, Google is set to revolutionize its online services by making passkey login security the default mode. This transition marks a significant departure from traditional password-based login procedures.",
+      "While the precise rollout date remains pending, it is confirmed that this change will take effect in the early part of the upcoming year. Google account users will notice a pop-up message in the top-right corner of their screens, prompting them to opt for fingerprint or face scan logins.",
+      "Initially, this option will be selective for a few weeks, but eventually, it will become the default login method for online Google users. This means that users will be encouraged to employ fingerprint recognition, facial scanning, or a personal identification number (PIN) for accessing their accounts.",
+      "The introduction of passkey login security initially took place in January of the same year, with many users opting for it as their preferred method starting from February 2023. However, this secure login alternative was not mandatory during that time.",
+      "This move towards passwordless login procedures is significant as they are highly resilient against phishing attacks. Collaborating with industry giants such as Apple and Microsoft, Google is leading the way in providing a password-free login approach, a strategy that is strongly endorsed by the FIDO Alliance, supported by the World Wide Web Consortium, aiming to standardize secure internet sign-ins.",
+      "The rise of smartphones and advanced technology has already made users comfortable with passwordless logins. Many online services offer options like one-time passwords (OTPs) sent via SMS or email. Google will adopt a similar strategy across all its services in the coming months, encouraging passwordless login methods.",
+      "Notably, in a survey conducted by Google in May of the current year, over 64% of its users affirmed that passkeys have simplified their digital lives compared to conventional methods like passwords and two-step verifications.",
+      "Additionally, it’s worth mentioning that starting from February 2024, Gmail will enforce stricter rules for bulk mail senders, particularly those using SendGrid. These rules are designed to enhance the user experience on Gmail by reducing spam, a persistent issue that has plagued the digital realm since 2003."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/all-gmail-personal-accounts-to-get-passkey-login-security-as-default/"
+  },
+  {
+    "title": "New Report Reveals Fears, Hopes and Plans for Artificial Intelligence in Cybersecurity",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/ai.png"
+    ],
+    "description": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      "\n",
+      "\n",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/artificial-intelligence-in-cybersecurity-2023-report/"
+  },
+  {
+    "title": "Cyber Security news headlines trending on Google",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/05/Cyber-Crime-696x418.jpg"
+    ],
+    "description": [
+      "Global financial services giant Morgan Stanley has reached a settlement of $6.5 million with six North American states for its failure to safeguard customer data, resulting in a compromising data leak. Residents of New York, Connecticut, Florida, Indiana, Vermont, and New Jersey will receive compensation in the form of benefits due to the company’s inability to prevent a data breach, which could have been averted with enhanced security measures.",
+      "In 2016, Morgan Stanley outsourced some of its work environment systems to a third-party vendor, which subsequently subcontracted the auction process to others. These subcontractors sold the systems without deleting customer data loaded onto them. In the following year, during the decommissioning process, the company overlooked an encryption flaw on 42 servers containing customer information, potentially allowing unauthorized access by third parties.",
+      "In both instances, the company’s failure to implement adequate data security measures resulted in information security breaches, leading to the leakage of customer information.",
+      "Samsung Electronics is alerting its customers to a data breach that may have exposed personal data to unauthorized parties. The breach encompasses individuals who purchased electronics from various UK stores between July 2019 and June 2020. Samsung identified the breach in November, attributing it to a hacker infiltrating a computer network through a software vulnerability. The leaked information includes email addresses, postal codes, phone numbers, and names, with no financial details compromised.",
+      "Samsung clarified that this recent breach is unrelated to the March 2022 security incident, where the Lapsus$ Ransomware gang hacked into the Samsung network to steal sensitive information, including the source code of Samsung Galaxy smartphones.",
+      "Amsterdam-based company Booking.com has fallen victim to a phishing attack, with cybercriminals breaching its servers. While specific details are still under investigation, the company has assured the public that no financial details were accessed by hackers. Booking.com leased out such services to a third party, and evidence suggests that the servers of the third party remained unaffected.",
+      "Russia’s GRU Intelligence-funded threat actors orchestrated the largest cyber-attack in Denmark’s history, targeting critical infrastructure. The Sandwork hacking group is suspected of taking down the infrastructure of approximately 22 Danish energy companies by exploiting a software flaw in the firewalls designed to defend against cyber threats. SektorCERT has released a statement on its website, affirming that the government is actively working to mitigate such risks from adversaries."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/cyber-security-news-headlines-trending-on-google/"
+  },
+  {
+    "title": "Blacksuit Ransomware linked to Royal Ransomware",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Ransomware-2-696x418.jpg"
+    ],
+    "description": [
+      "As per an advisory from the FBI and US-CISA, a forthcoming ransomware variant is set to enter the cybersecurity landscape, marking itself as a rebrand or offshoot of the Royal Ransomware gang, notorious for purportedly amassing around $275 million in 2022.",
+      "This marks the fourth malware iteration linked to the Royal Ransomware lineage, joining the ranks of Blackmatter (a derivative of Darkside ransomware), Hunters International (formerly known as Hive), and NoEscape (previously identified as Avaddon).",
+      "Evidently, law enforcement agencies have intensified their efforts against the Royal Ransomware variant, prompting the criminal group to opt for a rebranding strategy to sustain its operations within the dark web.",
+      "Over the past few months, US law enforcement, in collaboration with Interpol and global police agencies, has been diligently working to thwart the activities of cybercriminal organizations. Their endeavors involve tracing operational hubs, seizing assets, conducting investigations, and scrutinizing the motivations of these groups and the governments potentially backing them. Notably, many of these criminal entities have been linked to Russia or North Korea, while others have ties to countries such as Iran and China.",
+      "Despite concerted governmental efforts to eradicate these online threats, cybercriminal groups continue to proliferate, showcasing increased levels of sophistication.",
+      "A common strategy to combat such threats is to refrain from paying ransoms and instead recover data from secure backups. However, challenges arise with double extortion tactics, where hackers not only steal data but also threaten to release or sell it on the dark web.",
+      "Encrypting stored data serves as a preventive measure, making it inaccessible to data thieves even if the information is compromised. Reporting such incidents to law enforcement is crucial, as these agencies possess the expertise to track and promptly prosecute cybercriminals, effectively dismantling their infrastructure.",
+      "Alternatively, succumbing to hackers’ demands and paying a ransom becomes an option, albeit a risky one. There’s no guarantee that hackers will provide a decryption key or delete stolen data from their servers after receiving payment. Vigilance, preventive measures, and collaboration with law enforcement remain essential components of a robust defense against the evolving landscape of cyber threats."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/blacksuit-ransomware-linked-to-royal-ransomware/"
+  },
+  {
+    "title": "List of victimized companies of MOVEit Cyber Attack",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/04/Cyber-Attack_2_1000x600-696x418.jpg"
+    ],
+    "description": [
+      "At the end of May 2023, a Zero Day vulnerability was discovered by risk analysing firm Kroll and on June 7th of this year, Clop ransomware gang published on its blog that they have gained access to the servers of MOVEit software via Zellis Payroll software and urged the victims to contact via the blog post, as their email response could go at snail pace as the number of victims related to the incident was large.",
+      "Going forward, let us list out the victims who have been impacted by the attack after the hack-ers gained control of Moveit file transfer software worldwide, a business unit of Progress Software. And more to be added to the list after confirmation.",
+      "The US Department of Energy,",
+      "Shell company,",
+      "First National Bankers Bank",
+      "Putnam Investments",
+      "Datasite",
+      "Swizz Insurance company ‘OKK’",
+      "Leggett & Platt",
+      "Multinational firm PricewaterhouseCoppers(Pwc)",
+      "Ernst & Young",
+      "Health Services Ireland",
+      "BBC",
+      "British Airways",
+      "Boots Retail",
+      "Medibank",
+      "Rochester Hospital",
+      "GreenShield Canada",
+      "Datasite",
+      "National Student Clearinghouse",
+      "United Healthcare Student Resources",
+      "University System of Georgia",
+      "German brand Heidelberg",
+      "Aer Lingus",
+      "Government of Nova Scatia",
+      "Johns Hopkins University",
+      "Ofcom Britain",
+      "Transport for London (TfL)",
+      "Ernst and Young",
+      "Gen Digital, the parent company of Avast, Norton, AVG, Avira and LifeLock",
+      "New York City Department of Education attack impacted about 45k students",
+      "Siemens Energy",
+      "Schneider Electric",
+      "Shutterfly.com",
+      "Dublin Airport staff info leak,",
+      "Allegiant Air",
+      "American Airlines",
+      "Irelands commission of Communications Regulation",
+      "Estee Lauder",
+      "Sierra Wireless",
+      "Bluefin Payment System",
+      "TJX Companies",
+      "Ventiv Technology",
+      "Vitality Group International",
+      "University of Alaska",
+      "University of Colorado",
+      "University of Dayton",
+      "University of Delaware",
+      "University of Idaho",
+      "University of Illinois",
+      "University of Loyola",
+      "University of Missouri",
+      "University of Oklahoma",
+      "University of Rochester",
+      "University of Southern Illinois",
+      "University of Utah",
+      "University of Wake Forest",
+      "University of Washington State",
+      "Webster University",
+      "PBI Research Service",
+      "Teachers Insurance and Annuity Association",
+      "Honeywell",
+      "American Multi Cinema Inc aka AMC Theatres",
+      "Warner Bros",
+      "Discovery",
+      "Raddison Americas",
+      "Crowe",
+      "ING Bank",
+      "Deutsche Bank",
+      "Postbank",
+      "Maximus",
+      "Serco Inc",
+      "Aristocrat",
+      "Data Media Associates aka DMA",
+      "Clorox ( yet to be confirmed officially),",
+      "Colorado Department of Health Care Policy & Financing(HCPF).",
+      "UMass Chan Medical School of Massachusetts health.",
+      "Government of Nova Scotia, Canada",
+      "Pole Emploi, France",
+      "FlagStar Bank via Fiserv",
+      "State of Maine",
+      " Microsoft has confirmed the presence of Clop ransomware suspects, linked to Russian intelligence behind the incident and reaffirmed that health organizations and financial institutions could be the next target of the notorious file encrypting malware spreading gang that is into double extortion. And in the latest MoveIt software attack, the gang is suspected to have raked around $100m as ransom from its long list of victims."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/list-of-victimized-companies-of-moveit-cyber-attack/"
+  },
+  {
+    "title": "Bringing Authentication Security Out of the Dark Ages",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/christin-hume-mfB1B1s4sMc-unsplash-696x464.jpg"
+    ],
+    "description": [
+      "Cyber threats have grown increasingly sophisticated in recent years, with an expanding attack surface, today’s hybrid work environment and new vulnerabilities introduced by the IoT are a few of the challenges. Despite this evolving landscape, most organizations have yet to modernize their authentication security to effectively prevent password-based attacks and related vulnerabilities. With the most recent ",
+      " finding that compromised credentials are behind more than 50% of breaches, it’s imperative that companies act now to bolster authentication security.",
+      "To understand more about this issue, ",
+      " recently commissioned a ",
+      " of over 480 cybersecurity professionals. The State of Authentication Security Report underscores that—despite the passwordless hype—username and password combinations remain the primary authentication mechanism, with nearly 70% of companies utilizing this method. By contrast, only 12% of organizations are deploying passwordless strategies.",
+      "Unfortunately, many companies are failing to evolve password management to reflect the current threat landscape. What’s more, the majority of those surveyed continue to follow legacy practices that have actually been found to weaken credential security.",
+      "For example, 74% of companies require forced resets every 90 days or less. Not only does this generate more work for employees and IT alike, it also fails to align with ",
+      " updated password policy recommendations. The latter, along with Microsoft and other leading organizations, have found that employees typically select easy-to-remember credentials or swap out one letter or character when faced with frequent resets—resulting in a weak credential that threat actors can easily exploit.",
+      "Password reuse is another problem contributing to authentication security challenges, with ",
+      " that employees reuse a single password an average of 13 different times. The volume of breaches means that the Dark Web has become a treasure trove of this information; hackers can easily find and obtain lists of compromised credentials to fuel ongoing password-based attacks.",
+      "Our research highlights that most companies are aware of this vulnerability, with 84% of respondents concerned about weak and compromised passwords. However, many fail to grasp the extent of the threat—46% estimate that less than 1/5 of their passwords could be found on the Dark Web, while another 26% are unsure what percentage might be available there.",
+      "This underscores the importance of modernizing authentication security to incorporate screening for compromised credentials—something that less than half of the respondents in our survey are currently doing. Enzoic helps companies protect against this threat by screening password and username combinations against its proprietary database of billions of exposed credentials. We maintain the latter using a combination of proprietary automated processes, submitted contributions, and research from our threat intelligence team. Because our database is automatically updated multiple times per day, organizations can be assured that their password security reflects the latest breach intelligence.",
+      "Another key benefit of our credential screening solution is that it eliminates the IT helpdesk burden of frequent resets and other legacy approaches while offering a more frictionless user experience. Because the screening happens automatically in the background, non-compromised users gain efficient access to their accounts and services. Should a compromise be detected, organizations can automate their response with a range of actions, including the immediate disabling of the account in question.",
+      "While there are many unknowns in cybersecurity, there is one universal truth: hackers will continually hunt for new ways to exploit companies for financial gain and other nefarious purposes. With the DBIR and other studies repeatedly pointing to compromised credentials as a common threat vector, it’s imperative that organizations act today and shore up authentication security.",
+      "You can read more about this issue and other findings from the State of Authentication Security Report ",
+      "."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/bringing-authentication-security-out-of-the-dark-ages-enzoic/"
+  },
+  {
+    "title": "Seventh-annual Hacker-Powered Security Report Reveals Hackers’ Plans for GenAI, Bounty Milestones and More",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Photo-realistic-widescreen-image-of-a-dimly-lit-room-filled-with-the-glow-of-multiple-computer-screens.-Each-screen-displays-complex-code-hacking-to-696x398.jpeg"
+    ],
+    "description": [
+      "HackerOne has just released its seventh-annual ",
+      ", based on data from its vulnerability database, views from HackerOne customers and more than 2,000 hackers on the platform. The goal in benchmarking hackers is to gain insight into their perspective on the cybersecurity landscape, the evolution of risk, and what motivates them to help.",
+      "Notably, HackerOne’s ethical hacker community has surpassed $300 million in total all-time rewards on the HackerOne platform. Crypto and blockchain organizations continue to see strong program engagement — offering the highest average overall rewards for hackers and awarding the year’s top payout of $100,050. Customers also expanded how they use hackers outside of traditional bug bounty, as pentesting engagements increased by 54% on the platform in 2023.",
+      "The latest data reveals that hackers are finding new ways to up their income by diversifying their skill sets to keep up with emerging technology.",
+      "At the heart of every hacker is intellectual curiosity, and we witnessed it again in their plans for GenAI. More than half (55%) of hackers plan for Generative AI (GenAI) to become a top target in the coming years, and 61% of hackers said they will use and develop hacking tools from GenAI to find more vulnerabilities. Another 62% plan to specialize in the OWASP Top 10 for Large Language Models. Hackers also said they plan to use GenAI to write better reports (66%) or code (53%) and reduce language barriers (33%).",
+      "This aligns with enterprise progress in GenAI adoption. Organizations are under pressure to adopt GenAI to stay ahead of competitors, which, in turn, is transforming the threat landscape. If you want to remain proactive about new threats, you need to learn from the experts in the trenches: hackers. The versatility of hackers and the impact of the vulnerabilities they surface make them instrumental to how HackerOne customers anticipate and address risk.",
+      "In the report, hackers reported insufficient in-house talent and expertise as the top challenge for organizations, and hackers are filling this gap: 70% of customers stated hacker efforts have helped them avoid a significant cyber incident.",
+      "Hackers provide an array of other benefits, backed up by this year’s data:",
+      "\n",
+      "Fifty-seven percent of HackerOne customers believe exploited vulnerabilities are the greatest threat to their organizations, over phishing (22%), insider threats (12%), and nation-state actors (10%).",
+      "\n",
+      "\n",
+      "Customers are getting faster at fixing vulnerabilities, as the average platform-wide remediation time dropped 10 days in 2023. Automotive, media and entertainment, and government verticals saw the biggest decrease in time to remediation with an over 50% improvement.",
+      "\n",
+      "\n",
+      "Organizations are reducing costs by embracing human-centered security testing earlier in their software development lifecycles, with customers saving an estimated $18,000 from security experts reviewing their code before release.",
+      "\n",
+      "The 7th annual Hacker-Powered Security Report makes it clear that the use cases for ethical hacking will continue to expand and diversify – from securing GenAI applications to finding bugs even earlier in the SDLC. Organizations that partner with this innovative community benefit from the cutting-edge research and techniques that hackers with their outsider mindset add to the organization’s talent pool. To read the report, visit ",
+      "."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/seventh-annual-hacker-powered-security-report-reveals-hackers-plans-for-genai-bounty-milestones-and-more/"
+  },
+  {
+    "title": "FBI and CISA warn against Scattered Spider triggered cyber attacks",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/2023/05/Cyber-Crime-696x418.jpg"
+    ],
+    "description": [
+      "Law enforcement agencies in North America have issued a warning regarding the Scattered Spider cyber-attacks, citing their adoption of aggressive tactics, including the targeting of victims with violence. Notably, this English-speaking group has aligned itself with ALPHV and BlackCat, leading to speculation that they are now operating as affiliates, potentially receiving compensation akin to corporate structures.",
+      "Identified by various aliases such as 0Ktapus, Scatter Swine, UNC3944, and Octo Tempest, these cybercriminals have shifted their focus to large corporations in the western regions. Their modus operandi involves persuading employees to divulge critical details, such as login credentials, and subsequently siphoning sensitive data, including activities from platforms like Microsoft Teams, Exchange, and Slack. The stolen data is then used as leverage to demand ransom payments from the victims.",
+      "A comprehensive study by FBI experts reveals that Scattered Spider has also resorted to violence, threatening employees with severe consequences if they fail to comply with their directives. However, no concrete evidence has been presented against the group regarding these alleged acts of violence.",
+      "In the event of a Scattered Spider attack on a network, the advised course of action is to promptly inform law enforcement and hope for a positive outcome. Alternatively, implementing threat monitoring solutions on corporate networks is recommended as a proactive measure, though success is not guaranteed. The landscape of cybercrime continues to evolve, with these criminals becoming increasingly sophisticated and bolstered by government support.",
+      "Another approach to combat such threats involves instilling fear in the criminals, making them aware that engaging in illegal activities will lead to significant consequences. This deterrent strategy aims to discourage cyber-attacks by creating a sense of apprehension among potential perpetrators."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/fbi-and-cisa-warn-against-scattered-spider-triggered-cyber-attacks/"
+  },
+  {
+    "title": "How Financial Services Firms Can Use Application Security Posture Management (ASPM) to Save Costs and Fill CSPM Coverage Gaps",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/CSPM-696x398.jpeg"
+    ],
+    "description": [
+      "By Anna Tang, Information Security Officer, ",
+      "In recent years, financial services organizations have increasingly moved their applications and infrastructure to the cloud to take advantage of its scalability, flexibility, and cost-effectiveness. However, this shift to the cloud has also introduced new security challenges, particularly in the realm of application security. Attackers are constantly looking for ways to exploit vulnerabilities in financial applications to gain access to sensitive data or disrupt business operations. To mitigate these risks, financial firms need to adopt a comprehensive security posture management approach that covers both cloud security posture management (CSPM) and application security posture management (ASPM).",
+      "While CSPM solutions focus on monitoring and securing the cloud infrastructure itself, it’s the ASPM solutions that secure the financial applications running on that infrastructure. ASPM is a holistic approach to application security that involves continuous discovery and monitoring, assessment, business logic exploitation, and remediation of applications and their vulnerabilities across the entire software development lifecycle. It helps organizations identify and prioritize security issues, and provides guidance and tools to help them mitigate and remediate vulnerabilities, protecting firms from unauthorized data access, interception, manipulation, regulatory violations, fraud, and disruption of services.",
+      "By integrating ASPM into their security posture management strategy, financial organizations can discover APIs in use they may not have known about, identify vulnerabilities in their applications, prioritize remediation efforts, and ultimately reduce their overall security risk. Furthermore, by filling coverage gaps in CSPM, ASPM can help financial firms save money by avoiding costly security breaches, financial losses, compliance issues, reputation damage, and downtime.",
+      "To leverage ASPM to save costs and fill coverage gaps found in CSPM, follow these best practices:",
+      "\n",
+      " – One of the biggest challenges for CSPM is discovering and determining which applications and services are most critical to the organization. ASPM can help by discovering all APIs in use, mapping those APIs to specific web and mobile applications, providing visibility into the security posture of all applications, and identifying which ones have the most sensitive data. This information can help financial organizations prioritize their security efforts and allocate resources more effectively.By focusing on the most critical APIs and applications first, organizations can save costs and reduce their overall risk exposure, particularly since they deal with so much sensitive customer information, including financial transactions and account details. They can also ensure that their security efforts are aligned with their business goals and objectives.",
+      "\n",
+      "\n",
+      " – Another way that ASPM can save costs and fill coverage gaps is by automating security testing and compliance checks. With the increasing complexity of cloud environments, manual testing and compliance checks can be time-consuming and error-prone. Automating these processes can help financial firms identify vulnerabilities and non-compliant configurations more quickly and accurately, helping to protect their reputation and clients’ private data, and build trust with customers.By automating security testing and compliance checks, organizations can save costs on manual testing and reduce the risk of human error. They can also ensure that their security efforts eliminate regressions as new features are added to cloud-native applications in today’s dynamic environments.",
+      "\n",
+      "\n",
+      " – ASPM can also help financial organizations fill coverage gaps by integrating security into the software development process. By incorporating security scans into this process, firms can ensure that security is built into the application from the ground up. This can help reduce the number of vulnerabilities that need to be remediated later.",
+      "\n",
+      " – Another key aspect of ASPM is monitoring application behavior in real-time. This involves using runtime tools that can detect and alert on suspicious activity, such as unauthorized access attempts or data exfiltration. By monitoring application behavior in real-time, financial firms can quickly detect and respond to security incidents, minimizing the potential impact on the business. Machine-learning (ML) based anomaly detection has become more mainstream with addressing these types of API and application-centric attacks in recent years.",
+      "\n",
+      " – Remediating vulnerabilities can be a time-consuming and resource-intensive process. However, by using automation tools to streamline the process, financial organizations can reduce the time and effort required to fix vulnerabilities in application code, infrastructure-as-code (IaC), and cloud services. For example, some ASPM solutions can automatically provide Terraform and CloudFormation scripts to auto-remediate application- and API-layer exploits by hardening runtime production configurations. By using these tools to automate the remediation process, organizations can save time and reduce their overall security risk.",
+      "\n",
+      "To get the most out of their security posture management efforts, financial firms should integrate ASPM with CSPM. By doing so, they can fill coverage gaps in CSPM – including API discovery and vulnerability checks – to identify and address vulnerabilities in their applications that cannot be detected by CSPM alone. This integration can also help organizations save costs by avoiding security breaches, compliance issues and fines, and downtime caused by application vulnerabilities. Unlike CSPM, ASPM enables organizations to continuously monitor the security posture of applications and services so they can identify areas for improvement and take action to remediate vulnerabilities and reduce risks.",
+      "Overall, ASPM is a powerful tool. By discovering all APIs, identifying and prioritizing critical applications, prioritizing remediation efforts, automating security testing and compliance checks, integrating security into the development process, using risk-based prioritization, and monitoring for continuous improvement and auto-remediation, financial organizations can reduce their overall risk exposure and ensure that their applications and data are secure."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/how-financial-services-firms-can-use-application-security-posture-management-aspm-to-save-costs-and-fill-cloud-security-posture-management-cspm-coverage-gaps/"
+  },
+  {
+    "title": "Rhysida Ransomware demands 20 BTC from British Library",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/Ransomware-2-696x418.jpg"
+    ],
+    "description": [
+      "Last month, the British Library Computer Network fell victim to a ransomware attack, purportedly carried out by the ",
+      ", a newly identified malware variant. The perpetrators are now demanding a ransom of 20 bitcoins to decrypt the compromised database and return the stolen data.",
+      "Despite the ransom demand, the British Library staff has opted not to comply and has enlisted the assistance of law enforcement and forensic experts to navigate the situation. The decision is rooted in the cautionary advice provided by the US-CERT, in collaboration with the FBI, which highlights the uncertainty surrounding the hackers’ commitment to returning the data even if the ransom is paid. Additionally, there is a significant risk that the stolen information might be released on the dark web in the future.",
+      "While the London research library has not issued an official statement on the matter, a credible source from the National Library of the United Kingdom suggests that the HR database may have been compromised. This could potentially expose details related to salaries, pay raises, and certain staff information.",
+      "The cyber attack occurred on October 28, 2023, and the assailants have given the library management a 7-day grace period to meet their ransom demands, following a 15-day window since the initial breach. Failure to comply within this timeframe may result in serious consequences for the library staff.",
+      "It’s worth noting that a recent incident involving the ransomware group ALPHV, also known as BlackCat, saw the group filing a complaint with the SEC against Meridian Link. The complaint alleges that Meridian Link failed to promptly inform its customers about a cyber attack within a prescribed 4-day timeframe."
+    ],
+    "url": "https://www.cybersecurity-insiders.com/rhysida-ransomware-demands-20-btc-from-british-library/"
+  },
+  {
+    "title": "Generative AI: Bringing Cybersecurity Readiness to the Broader Market",
+    "image_url": [
+      "https://www.cybersecurity-insiders.com/wp-content/uploads/AI-Helps-Human-696x398.jpeg"
+    ],
+    "description": [
+      "By Benjamin Preminger, Senior Product Manager, ",
+      "“You can’t get good help nowadays.” The adage is true for many professions, but exceedingly so for cybersecurity. While cyber-attacks continue to grow in quantity and sophistication each year, most organizations are ill-prepared to defend themselves. That’s primarily because they lack the skilled professionals needed to handle the consistent rush of expanding threats.",
+      "Many approaches to closing the skills gap focus on hiring, educating, and training more people – all sound ideas, but the number of open cybersecurity positions waiting to be filled is in the millions worldwide. It will take many years of training and on-the-job experience for humans alone to shore up defenses adequately. In the meantime, generative AI can serve as a highly valuable asset – now and soon- as its power and potential are better understood and applied.",
+      "We’ll look at how generative AI – abbreviated to AI for convenience here yet distinct from other forms of artificial intelligence – can help organizations in the short, medium, and long term.",
+      "A few statistics quickly paint the picture:",
+      "\n",
+      " — the estimated total damage inflicted by cybercriminals in 2023, up from US$3 trillion in 2015",
+      "\n",
+      " – the number of unfilled cybersecurity jobs globally in 2023",
+      "\n",
+      " – the average cybersecurity maturity level of organizations globally on a 1-5 scale. Translation: Most organizations are reactive and panic when attacked rather than being proactive and preemptive.",
+      "\n",
+      " — the number of IT and cybersecurity professionals who say they use spreadsheets to track and manage security hygiene efforts",
+      "\n",
+      "Additionally, publicly traded companies now face increased scrutiny by the U.S. Securities and Exchange Commission on how they manage and implement cybersecurity protections. Boards of directors are now legally responsible for ensuring adequate efforts are being made to safeguard the corporations they oversee and, in turn, all of a company’s customers and other stakeholders",
+      ".",
+      "One other interesting statistic before moving on to solutions: ",
+      " That’s the unemployment rate for mid- and senior-level cybersecurity professionals, a figure that’s stayed constant since 2016.",
+      " Those who know what to do in the face of attacks are already gainfully employed. Those taking unfilled positions are relatively new to their jobs and need guidance that their seasoned peers typically don’t have the time to provide.",
+      "Enter AI.",
+      "As anyone who has played around with ChatGPT knows, just a few simple prompts can quickly return information that would take skilled and extensive research otherwise. Using large language models, generative AI tools can cull through diverse sources and provide answers that significantly elevate a user’s understanding of a subject almost immediately. If the first response isn’t sufficient, subsequent queries can explain the topic more thoroughly or suggest other directions to head.",
+      "While ChatGPT is excellent for answering questions regarding general interest issues, it’s not prepared to be a full-blown cybersecurity aid. Its data sources do not include the particular ones that contain both the relevant and up-to-date information pertinent to keeping an organization protected from attacks.",
+      "Properly implemented, cybersecurity-specific AI tools can be a godsend for an inexperienced junior cybersecurity person. Rather than taking up their senior colleagues’ time and potentially asking questions they’re embarrassed to pose, junior staff members can use AI as a non-judging helpmate and, in turn, become more valuable to their organization’s cybersecurity efforts (and in the process, also look better in the eyes of their peers and managers).",
+      "For more advanced cybersecurity pros, asking questions or giving commands in natural language expedites the analysis process. For example, “Tell me about this CVE” can result in a simple and concise answer that gets to the heart of the issue without having to weed through numerous sources manually. From there, the senior person can take the next step to protect the organization.",
+      "While a handful of solutions are on the marketplace, there’s room for further refinement. If you want the AI application to answer intelligence questions about activity in ransomware sites, it needs access to data from ransomware sites. If you want the latest on initial access broker (IAB) markets, the AI must have access to IAB market intelligence. And if you want the AI to answer intel questions about threat actors sharing exploit codes in the underground, you need it to have access to that vulnerability intelligence.",
+      "This also becomes a matter of efficiency and relevance. Cybersecurity teams only need to know about threats that could affect their organizations. Accordingly, AI tools work best when they provide organizational context. Due to the sensitive nature of customer assets, these tools need to be constructed to provide the highest levels of security along with their top-tier AI power.",
+      "The promise of open-source AI solutions is that a company can go even further in zeroing in on the data it needs and use its own accumulated history of cybersecurity threats and responses, as well as the types of data relevant to the types of issues it faces. In this way, the AI tool carries the “institutional knowledge” traditionally assumed to be in the heads of people who had worked in an organization for their entire careers. The AI learns about external threats, internal best practices, and priority intelligence requirements (PIRs).",
+      "Furthermore, many enterprises will prefer creating homegrown solutions for ",
+      " reasons. It’s hard to trust AI when its creators are sitting somewhere in Silicon Valley, with no alliance with your organization and potentially using your data to train the next version of their own AI solution.",
+      "We should emphasize that using open-source models is far from a simple task. You need highly specialized (and highly paid) employees – data scientists, data engineers, and the like – to set up, monitor, and continually feed and support an AI tool worthy of the role.",
+      "But such a tool can be even more valuable if those experts include predictive functions. Just as Amazon and other advanced online marketing companies can make buying suggestions to people ordering an item by looking at what other buyers of that item have done, an AI tool could recommend how to respond to a specific threat based on previous experience.",
+      "We expect that the tools that fulfill the requirements of this mid-term stage will be neither generic, off-the-shelf models like ChatGPT nor completely DIY open-source packages. Rather the tool will be designed for cybersecurity-specific use as soon as it’s installed while allowing the security team to fine-tune it for the organization’s unique contextual challenges.",
+      "Artificial intelligence, in general, has been widely implemented to do the tasks that humans would rather not do. The same is likely to apply to AI use for cybersecurity matters.",
+      "In the cybersecurity sphere, AI-powered autonomous agents will be valuable in removing both the drudgery and overload that security teams sometimes face. This might include an initial triage of alerts, responses to particular events, and any other function in which an autonomous response is appropriate.",
+      "Such implementations are not likely to take jobs away from humans. As the threat environment becomes more complex and challenging, more work will need to be done. No system is completely hands-off, given the nature of threats and the data sensitivity to be protected, such as personal information. Consequently, security professionals will always be at the critical intersection of threat and response, making decisions beyond what AI can be expected to do.",
+      "There’s no way to accurately predict how quickly we’ll reach the middle-term level of AI tools geared specifically to one organization or the long-term level of autonomous agents. But this field is accelerating at breakneck speed as investors and savvy technical people see the opportunities inherent in generative AI. Don’t be shocked if the long-term level arrives within the next 18 to 24 months.",
+      "In the meantime, CISOs would be wise to cast about AI tools that can boost their team’s readiness by making their junior-level people more capable and their senior-level people even more efficient. At Cybersixgill, we’re already seeing organizations adopt our AI-driven ",
+      " at all levels: accelerating their processes, improving workflows, and making their teams up to 10 times more effective as they do so.",
+      "It’s also not too early to learn more about how generative AI works and how organizations could benefit from cyber-specific AI that responds specifically to their organizational context and unique attack surface. Even better, cybersecurity leaders would be advised to invest the time and effort to go well beyond a surface-level understanding of AI to take advantage of the defensive asset that it is.",
+      "As American AI researcher Eliezer Yudkowsky says, “By far, the greatest danger of artificial intelligence is that people conclude too early that they understand it.”",
+      "Sources:",
+      " Cybersecurity Ventures report, released December 2022",
+      " Cybersecurity Ventures report, released April 2023",
+      " CYE Cybersecurity Maturity Report",
+      " Noetic Cyber survey, as reported by Secureframe, June 2023",
+      " ",
+      " "
+    ],
+    "url": "https://www.cybersecurity-insiders.com/generative-ai-bringing-cybersecurity-readiness-to-the-broader-market/"
+  }
+]

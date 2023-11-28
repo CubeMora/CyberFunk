@@ -4,7 +4,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:security_info_project/src/pages/main_menu.dart';
 import 'package:security_info_project/src/widgets/ButtonGeneralAction.dart';
 import 'package:security_info_project/src/widgets/CyberFunkAppBar.dart';
-import 'package:security_info_project/src/widgets/textNormalDark.dart';
 
 class BadgeScreen extends StatelessWidget {
   const BadgeScreen({super.key});
@@ -12,7 +11,7 @@ class BadgeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: CyberFunkAppBar(),
+      appBar: const CyberFunkAppBar(),
       body: Center(
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
           SvgPicture.asset('assets/svg/badgeScreen.svg'),
@@ -24,7 +23,7 @@ class BadgeScreen extends StatelessWidget {
               textAlign: TextAlign.center,
               style: GoogleFonts.inter(
                 
-                  textStyle: TextStyle(
+                  textStyle: const TextStyle(
                 color: Colors.black,
                 fontSize: 30.0,
                 fontWeight: FontWeight.w500,
@@ -34,14 +33,14 @@ class BadgeScreen extends StatelessWidget {
               )),
             ),
           ),
-          SizedBox(
+          const SizedBox(
             height: 20.0,
           ),
           buttonGeneralAction("Terminar", () {
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (context) => MainMenu(
+                builder: (context) => const MainMenu(
                     // textPassed: textToSend,
                     ),
               ),
