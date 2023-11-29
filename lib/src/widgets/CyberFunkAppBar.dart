@@ -1,8 +1,12 @@
-import 'package:flutter/material.dart';
+// ignore: file_names
+// ignore_for_file: use_build_context_synchronously, file_names
+
 import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class CyberFunkAppBar extends StatelessWidget implements PreferredSizeWidget {
-  const CyberFunkAppBar({super.key});
+  const CyberFunkAppBar({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -16,9 +20,45 @@ class CyberFunkAppBar extends StatelessWidget implements PreferredSizeWidget {
       actions: [
         Container(
           padding: const EdgeInsetsDirectional.only(end: 15.0),
-          child: CircleAvatar(
-            backgroundColor: Colors.grey[400],
-            child: const Icon(Icons.person_outline_sharp, color: Colors.black),
+          child: InkWell(
+            onTap: () async {
+              SharedPreferences prefs = await SharedPreferences.getInstance();
+              String? username = prefs.getString('username');
+              showDialog(
+                context: context,
+                builder: (BuildContext context) {
+                  return AlertDialog(
+                    title: Row(
+                      children: [
+                        Padding(
+                          padding: const EdgeInsets.all(12.0),
+                          child: CircleAvatar(
+                            backgroundColor: Colors.grey[400],
+                            child: const Icon(Icons.person_outline_sharp,
+                                color: Colors.black),
+                          ),
+                        ),
+                        Expanded(
+                          child: ListTile(
+                            title: const Text("Usuario:"),
+                            subtitle: Text(
+                              username ?? 'Username',
+                              // ignore: deprecated_member_use
+                              style: Theme.of(context).textTheme.headline6,
+                            ),
+                          ),
+                        ),
+                      ],
+                    ),
+                  );
+                },
+              );
+            },
+            child: CircleAvatar(
+              backgroundColor: Colors.grey[400],
+              child:
+                  const Icon(Icons.person_outline_sharp, color: Colors.black),
+            ),
           ),
         )
       ],
@@ -31,7 +71,7 @@ class CyberFunkAppBar extends StatelessWidget implements PreferredSizeWidget {
   }
 
   @override
-  Size get preferredSize => Size.fromHeight(kToolbarHeight);
+  Size get preferredSize => const Size.fromHeight(kToolbarHeight);
 
   Text appTitleText(double size) {
     return Text(

@@ -46,50 +46,61 @@ class _BlogListScreenState extends State<BlogListScreen> {
           } else {
             final dataList = snapshot.data!;
 
-            return AnimatedListView(
-              duration: 300,
-              addAutomaticKeepAlives: true,
-              spaceBetween: 40,
-              children: List.generate(
-                dataList.length,
-                (index) => Card(
-                  clipBehavior: Clip.antiAliasWithSaveLayer,
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(10.0),
-                  ),
-                  elevation: 5.0,
-                  margin: const EdgeInsets.symmetric(horizontal: 10.0),
-                  child: Column(
-                    children: [
-                      AspectRatio(
-                        aspectRatio: 16 / 9,
-                        child: FadeInImage.assetNetwork(
-                          placeholder: "assets/images/spin_preloader.gif",
-                          image: dataList[index].imageUrl[0],
-                          fit: BoxFit.cover,
+            return Padding(
+              padding: const EdgeInsets.symmetric(vertical: 15.0),
+              child: AnimatedListView(
+                duration: 300,
+                addAutomaticKeepAlives: true,
+                spaceBetween: 40,
+                children: List.generate(
+                  dataList.length,
+                  (index) => InkWell(
+                    onTap: () {Navigator.pushNamed(context, '/blogDetail', arguments: dataList[index]);},
+                    child: Hero(
+                      
+                      tag: 'blogCard${dataList[index].title}',
+                      child: Card(
+                        
+                        clipBehavior: Clip.antiAliasWithSaveLayer,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(10.0),
                         ),
-                      ),
-                      Padding(
-                        padding: const EdgeInsets.all(15.0),
+                        elevation: 5.0,
+                        margin: const EdgeInsets.symmetric(horizontal: 10.0),
                         child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text(
-                              dataList[index].title,
-                              style: Theme.of(context).textTheme.titleLarge,
+                            AspectRatio(
+                              aspectRatio: 16 / 9,
+                              child: FadeInImage.assetNetwork(
+                                placeholder: "assets/images/spin_preloader.gif",
+                                image: dataList[index].imageUrl[0],
+                                fit: BoxFit.cover,
+                              ),
                             ),
-                            const SizedBox(
-                              height: 10.0,
-                            ),
-                            Text(
-                              truncateWithEllipsis(
-                                  50, dataList[index].description.join(' ')),
-                              style: Theme.of(context).textTheme.bodyMedium,
+                            Padding(
+                              padding: const EdgeInsets.all(15.0),
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    dataList[index].title,
+                                    style: Theme.of(context).textTheme.titleLarge,
+                                  ),
+                                  const SizedBox(
+                                    height: 10.0,
+                                  ),
+                                  Text(
+                                    truncateWithEllipsis(
+                                        50, dataList[index].description.join(' ')),
+                                    style: Theme.of(context).textTheme.bodyMedium,
+                                  ),
+                                ],
+                              ),
                             ),
                           ],
                         ),
                       ),
-                    ],
+                    ),
                   ),
                 ),
               ),

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:security_info_project/src/models/blog_entry.dart';
 import 'package:security_info_project/src/services/warn_up.dart';
 import 'screen_reference.dart';
 
@@ -17,7 +18,17 @@ class RouteGenerator {
       case '/warm':
         return createRoute(const WarmUp());
       case '/blog':
-        return createRoute(BlogListScreen());
+        return createRoute(const BlogListScreen());
+      case '/blogDetail':
+      if(args is BlogEntry){
+
+        return MaterialPageRoute(builder: (_) => BlogDetailScreen(blogEntry: args,));
+      }
+
+      return _errorRoute();
+      case '/actions':
+        return createRoute(const ActionsListScreen());
+
       default:
         return _errorRoute();
     }
@@ -25,11 +36,9 @@ class RouteGenerator {
 
   static Route<dynamic> _errorRoute() {
     return MaterialPageRoute(builder: (context) {
-      return BottomSheet(
-          onClosing: () {
-            Navigator.pop(context);
-          },
-          builder: (context) => const Text("Page or action not found."));
+      return const Scaffold(
+        body: Center(child: Text("The screen or action could not be found."),),
+      );
     });
   }
 

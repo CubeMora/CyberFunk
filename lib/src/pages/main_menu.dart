@@ -39,6 +39,8 @@ class _MainMenuState extends State<MainMenu> {
      final SettingsService _settingsService = SettingsService();
     final SettingsController controller = SettingsController(_settingsService);
     Future.microtask(() => controller.updateThemeMode(ThemeMode.light));
+    print(controller.themeMode);
+    
    
   }
 
@@ -61,10 +63,10 @@ class _MainMenuState extends State<MainMenu> {
               drawer: const AppDrawer(),
               body: Column(
                 children: <Widget>[
-                  Padding(
-                    padding: const EdgeInsets.symmetric(vertical: 10.0),
-                    child: textNormalDark(20.0, "Bienvenido $username"),
-                  ),
+                  // Padding(
+                  //   padding: const EdgeInsets.symmetric(vertical: 10.0),
+                  //   child: textNormalDark(20.0, "Bienvenido $username"),
+                  // ),
                   const ListTile(
                     leading: Icon(Icons.home),
                     title: Text('Modulo 1'),
