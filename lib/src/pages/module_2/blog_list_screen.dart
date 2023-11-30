@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_animate/flutter_animate.dart';
 import 'package:security_info_project/src/models/blog_entry.dart';
 import 'package:security_info_project/src/services/blog_fetch.dart';
 import 'package:security_info_project/src/settings/settings_controller.dart';
@@ -99,11 +100,11 @@ class _BlogListScreenState extends State<BlogListScreen> {
                             ),
                           ],
                         ),
-                      ),
+                      ),//.animate().fadeIn(duration: const Duration(milliseconds: 300),/* delay: Duration(milliseconds: 20 * index)).moveY(begin: 50, curve: Curves.easeOutBack)*/
                     ),
                   ),
                 ),
-              ),
+              ).animate().fadeIn(duration: const Duration(milliseconds: 300)).moveY(begin: 50, curve: Curves.easeOutBack),
             );
           }
         },

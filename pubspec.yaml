@@ -14,12 +14,15 @@ dependencies:
   dio: ^5.3.4
   flutter:
     sdk: flutter
+  flutter_animate: ^4.3.0
   flutter_dotenv: ^5.1.0
   flutter_localizations:
     sdk: flutter
+  flutter_native_splash: ^2.3.6
   flutter_svg: ^2.0.8
   google_fonts: ^6.1.0
   http: ^1.1.0
+  icons_launcher: ^2.1.5
   loading_animation_widget: ^1.2.0+4
   shaky_animated_listview: ^0.0.5
   shared_preferences: ^2.2.2
@@ -42,4 +45,5 @@ flutter:
     - assets/images/
     - assets/svg/
     - assets/json/
+    - assets/images/infography/
     - .env

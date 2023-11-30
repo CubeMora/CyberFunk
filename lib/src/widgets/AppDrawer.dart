@@ -39,9 +39,10 @@ class AppDrawer extends StatelessWidget {
             leading: const Icon(Icons.newspaper_rounded),
             onTap: () {
               Navigator.pop(context);
-              Navigator.pushNamed(
+              Navigator.pushNamedAndRemoveUntil(
                 context,
                 '/blog',
+                (_) => false
               );
             },
           ),
@@ -51,7 +52,7 @@ class AppDrawer extends StatelessWidget {
             leading: const Icon(Icons.shield_outlined),
             onTap: () {
               Navigator.pop(context);
-              Navigator.pushNamed(context, '/actions');
+              Navigator.pushNamedAndRemoveUntil(context, '/actions', (_) => false);
             },
           ),
           // const Divider(
