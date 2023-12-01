@@ -1,0 +1,192 @@
+[
+  {
+      "pregunta": "¿Qué es el Internet de las Cosas (IoT) y cómo afecta nuestras vidas?",
+      "opciones": [
+          "Una red de computadoras en la nube.",
+          "Un concepto que se refiere a la conexión de objetos cotidianos a Internet.",
+          "Un sistema operativo para dispositivos móviles.",
+          "Un método de comunicación por satélite."
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Cuántos dispositivos IoT activos existen actualmente?",
+      "opciones": [
+          "Más de 24 billones.",
+          "Menos de 1 millón.",
+          "10.000.",
+          "100 billones."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué es la Tecnología Operativa (TO) en el contexto del IoT?",
+      "opciones": [
+          "Una serie de películas de ciencia ficción.",
+          "Un tipo de lenguaje de programación.",
+          "Un enfoque de ciberseguridad.",
+          "La tecnología utilizada para controlar procesos físicos en industrias."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué son los Sistemas de Control Industrial (ICS)?",
+      "opciones": [
+          "Un software de edición de imágenes.",
+          "Un término en física.",
+          "Dispositivos IoT utilizados en el hogar.",
+          "Sistemas que permiten la operación eficiente de robots y procesos industriales."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Por qué los ciberdelincuentes están interesados en los dispositivos IoT y TO?",
+      "opciones": [
+          "Porque estos dispositivos son solo juguetes y no tienen valor.",
+          "Debido a la información valiosa que pueden obtener o al daño que pueden causar.",
+          "Porque les gustan los dispositivos electrónicos.",
+          "No están interesados en los dispositivos IoT."
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Cuál es el principal riesgo que presentan los dispositivos IoT y TO?",
+      "opciones": [
+          "Caídas de red.",
+          "Pérdida de batería.",
+          "Ampliación de la superficie de ataque.",
+          "Ningún riesgo."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cómo se amplía la superficie de ataque debido al IoT?",
+      "opciones": [
+          "No se amplía, se reduce.",
+          "Los dispositivos IoT son inmunes a ataques.",
+          "Los ciberdelincuentes pueden explotar más vulnerabilidades.",
+          "La superficie de ataque se mantiene igual."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuáles son los componentes clave de un dispositivo IoT?",
+      "opciones": [
+          "Una batería y un cable de carga.",
+          "Un procesador y una tarjeta SIM.",
+          "Firmware, sensores de movimiento y conectividad.",
+          "Un teclado y una pantalla táctil."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cómo se crea un ecosistema de IoT y quiénes participan en él?",
+      "opciones": [
+          "Se crea mediante magia.",
+          "Lo crea un único individuo.",
+          "Se forma a través de la colaboración de desarrolladores de software, ingenieros de hardware y otros.",
+          "No existe un ecosistema de IoT."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuáles son las amenazas comunes de seguridad para los dispositivos IoT?",
+      "opciones": [
+          "Daño físico a los dispositivos.",
+          "Inundaciones en el hogar.",
+          "Configuraciones predeterminadas inadecuadas, falta de actualización y tecnología inapropiada.",
+          "Cambios de clima extremos."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué se entiende por configuraciones predeterminadas inadecuadas?",
+      "opciones": [
+          "Configuraciones que no se pueden cambiar.",
+          "Ajustes preestablecidos que pueden ser inseguros y no deben utilizarse.",
+          "Configuraciones que son ideales para todos los dispositivos.",
+          "Ajustes que solo son adecuados para dispositivos IoT."
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Por qué es importante tener rutas de actualización en los dispositivos IoT?",
+      "opciones": [
+          "No es importante, las actualizaciones no son necesarias.",
+          "Para garantizar que los dispositivos puedan recibir correcciones de seguridad y mejoras.",
+          "Para aumentar el costo de los dispositivos.",
+          "Para limitar la funcionalidad de los dispositivos."
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Qué son las tecnologías inapropiadas en el contexto del IoT?",
+      "opciones": [
+          "Tecnologías que son siempre seguras y eficientes.",
+          "Tecnologías que son necesarias en todos los dispositivos IoT.",
+          "Tecnologías que a menudo son demasiado potentes o innecesarias en ciertos dispositivos.",
+          "Tecnologías que solo se utilizan en la industria de la moda."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué tipos de información se almacenan en la memoria de un dispositivo IoT?",
+      "opciones": [
+          "No se almacena información en la memoria de estos dispositivos.",
+          "Solo se almacenan datos de ubicación.",
+          "Datos de trabajo, código de máquina e información que el procesador utiliza.",
+          "Solo se almacenan mensajes de error."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuál es el papel de la inteligencia artificial (IA) en la seguridad de IoT?",
+      "opciones": [
+          "La IA no tiene ningún papel en la seguridad de IoT.",
+          "La IA es útil solo para entretenimiento en dispositivos IoT.",
+          "La IA se utiliza para automatizar la operación de dispositivos IoT y procesar datos en información.",
+          "La IA solo se utiliza en la medicina."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cómo puede la criptografía contribuir a la seguridad de IoT?",
+      "opciones": [
+          "La criptografía no tiene aplicaciones en la seguridad de IoT.",
+          "La criptografía se utiliza para hacer que los dispositivos IoT sean más lentos.",
+          "La criptografía ayuda a proteger la confidencialidad e integridad de los datos transmitidos y almacenados.",
+          "La criptografía solo se utiliza en la banca."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué es el 'phishing' y cómo puede afectar a los dispositivos IoT?",
+      "opciones": [
+          "Una técnica de pesca.",
+          "Un tipo de ataque cibernético que no afecta a los dispositivos IoT.",
+          "Un intento de engañar a las personas para obtener información confidencial.",
+          "Una forma de mejorar la conectividad de los dispositivos IoT."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuáles son algunas prácticas recomendadas para garantizar la seguridad de IoT?",
+      "opciones": [
+          "No hay prácticas recomendadas, la seguridad no es importante.",
+          "Actualizar dispositivos rara vez.",
+          "Cambiar las contraseñas con frecuencia y asegurarse de que las configuraciones predeterminadas sean seguras.",
+          "Utilizar la misma contraseña para todos los dispositivos."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuál es el papel de los fabricantes en la seguridad de IoT?",
+      "opciones": [
+          "Los fabricantes no tienen responsabilidad en la seguridad de IoT.",
+          "Los fabricantes solo deben centrarse en la funcionalidad, no en la seguridad.",
+          "Los fabricantes son responsables de garantizar que los dispositivos sean seguros desde el principio.",
+          "La seguridad de IoT es responsabilidad exclusiva de los usuarios finales."
+      ],
+      "respuesta_correcta": 2
+  }
+]

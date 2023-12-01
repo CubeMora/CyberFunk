@@ -1,0 +1,202 @@
+[
+   {
+       "pregunta": "¿Por qué es importante tener contraseñas fuertes y seguras?",
+       "opciones": [
+           "Para evitar que las computadoras se ralenticen",
+           "Para proteger tus datos y tu identidad en línea",
+           "Para hacer que las contraseñas sean fáciles de recordar",
+           "Para compartir contraseñas con amigos"
+       ],
+       "respuesta_correcta": 1
+   },
+   {
+       "pregunta": "¿Cuáles son las posibles consecuencias de un acceso no autorizado a dispositivos digitales?",
+       "opciones": [
+           "Ganar dinero",
+           "Pérdida de datos y robo de identidad",
+           "Mejorar la velocidad del dispositivo",
+           "Nada, no hay consecuencias"
+       ],
+       "respuesta_correcta": 1
+   },
+   {
+       "pregunta": "¿Cómo pueden los intrusos aprovecharse de un acceso no autorizado?",
+       "opciones": [
+           "Para compartir archivos",
+           "Para realizar compras en línea",
+           "Para cometer actividades ilegales o robar información",
+           "Para ayudarte a mejorar la seguridad"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Qué papel desempeñan las contraseñas fuertes en la protección contra el fraude financiero y el robo de identidad?",
+       "opciones": [
+           "Ninguno",
+           "Son útiles solo para cuentas de correo electrónico",
+           "Son esenciales para proteger tus cuentas y datos personales",
+           "Solo son importantes para juegos en línea"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Una de las formas más comunes en que los piratas informáticos acceden a las computadoras es?",
+       "opciones": [
+           "Correo electrónico",
+           "Adivinando contraseñas",
+           "Redes sociales",
+           "Descargar aplicaciones"
+       ],
+       "respuesta_correcta": 1
+   },
+   {
+       "pregunta": "¿Por qué es peligroso utilizar contraseñas simples y comunes?",
+       "opciones": [
+           "Porque son fáciles de recordar",
+           "Porque los piratas informáticos las utilizan para enviar correos electrónicos",
+           "Porque hacen que su computadora funcione más rápido",
+           "Porque son fáciles de adivinar"
+       ],
+       "respuesta_correcta": 3
+   },
+   {
+       "pregunta": "¿Cuál de las siguientes afirmaciones es cierta acerca de las contraseñas difíciles de adivinar?",
+       "opciones": [
+           "Aumentan la velocidad de tu computadora",
+           "Facilitan el acceso a tus cuentas",
+           "Hacen que los piratas informáticos busquen otros objetivos",
+           "Son difíciles de recordar"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Cuántos caracteres se recomiendan como mínimo para una contraseña segura?",
+       "opciones": [
+           "Cuatro",
+           "Seis",
+           "Diez",
+           "Doce"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Por qué no debes anotar tus contraseñas en papel?",
+       "opciones": [
+           "Porque los piratas informáticos pueden encontrarlas",
+           "Para compartirlas con amigos",
+           "Para recordarlas fácilmente",
+           "Porque es una buena práctica de seguridad"
+       ],
+       "respuesta_correcta": 0
+   },
+   {
+       "pregunta": "¿Cuál es una técnica recomendada para crear una contraseña a partir de una frase?",
+       "opciones": [
+           "Utilizar una sola palabra",
+           "Usar la misma frase completa como contraseña",
+           "Abreviar la frase y reemplazar palabras con números y símbolos",
+           "No utilizar frases en contraseñas"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Por qué no debes reutilizar contraseñas en múltiples cuentas?",
+       "opciones": [
+           "Porque es más conveniente",
+           "Porque todos los sitios web permiten la misma contraseña",
+           "Porque aumenta el riesgo de que una violación afecte a múltiples cuentas",
+           "Porque reutilizar contraseñas es seguro"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Qué es la autenticación de dos factores (2FA)?",
+       "opciones": [
+           "Utilizar dos contraseñas para cada cuenta",
+           "Utilizar un solo factor de autenticación",
+           "Utilizar dos factores diferentes para verificar la identidad",
+           "No se utiliza en seguridad en línea"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Cuál es el riesgo de utilizar contraseñas basadas en palabras comunes o frases conocidas?",
+       "opciones": [
+           "Aumenta la probabilidad de que las contraseñas sean recordadas",
+           "Facilita la adivinanza de contraseñas por parte de los atacantes",
+           "Hace que las contraseñas sean más seguras",
+           "No hay riesgo en utilizar contraseñas basadas en palabras comunes"
+       ],
+       "respuesta_correcta": 1
+   },
+   {
+       "pregunta": "¿Qué se logra mediante el uso de contraseñas fuertes y seguras?",
+       "opciones": [
+           "Mayor velocidad de navegación",
+           "Mayor visibilidad en línea",
+           "Protección de datos e identidad",
+           "Facilitar la compartición de contraseñas"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Cuál es el propósito principal de las contraseñas en línea?",
+       "opciones": [
+           "Hacer que las contraseñas sean fáciles de recordar",
+           "Proporcionar una capa adicional de seguridad",
+           "Mejorar la velocidad de la computadora",
+           "Compartir información con amigos"
+       ],
+       "respuesta_correcta": 1
+   },
+   {
+       "pregunta": "¿Qué tipo de contraseñas hacen que las computadoras sean vulnerables a los piratas informáticos?",
+       "opciones": [
+           "Contraseñas cortas y simples",
+           "Contraseñas largas y complicadas",
+           "Contraseñas con emoticonos",
+           "Contraseñas con nombres de celebridades"
+       ],
+       "respuesta_correcta": 0
+   },
+   {
+       "pregunta": "¿Qué es la autenticación de dos factores (2FA)?",
+       "opciones": [
+           "Un solo factor para verificar la identidad",
+           "Dos factores diferentes para verificar la identidad",
+           "No es necesario en línea",
+           "Un proceso complicado que debe evitarse"
+       ],
+       "respuesta_correcta": 1
+   },
+   {
+       "pregunta": "¿Cómo pueden los usuarios proteger sus contraseñas?",
+       "opciones": [
+           "Compartiéndolas con amigos cercanos",
+           "Mantenimiento de contraseñas simples para facilitar la recordación",
+           "No revelando contraseñas a nadie",
+           "Utilizando la misma contraseña en todas las cuentas"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Cuál es un ejemplo de información que no debería utilizarse al crear contr JAYYQeñas?",
+       "opciones": [
+           "Nombre de mascotas",
+           "Nombre de un amigo cercano",
+           "Información personal fácilmente disponible",
+           "Fecha de nacimiento"
+       ],
+       "respuesta_correcta": 2
+   },
+   {
+       "pregunta": "¿Por qué es importante cambiar las contraseñas periódicamente?",
+       "opciones": [
+           "Para olvidar la contraseña anterior",
+           "Para evitar que las contraseñas caduquen",
+           "Para mantener la seguridad de la cuenta",
+           "No es necesario cambiar las contraseñas"
+       ],
+       "respuesta_correcta": 2
+   }
+]

@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:security_info_project/src/models/questions.dart';
-import 'package:security_info_project/src/pages/badge_screen.dart';
-import 'package:security_info_project/src/pages/video_screen.dart';
+
 import 'package:security_info_project/src/widgets/ButtonGeneralAction.dart';
 import 'package:security_info_project/src/widgets/textNormalDark.dart';
 
@@ -42,7 +40,7 @@ class ResultScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 10),
                   Text(
-                    '${(score / questions.length * 100).round()}%',
+                    '${(score / 10 * 100).round()}%',
                     style: const TextStyle(fontSize: 25),
                   )
                 ],
@@ -50,16 +48,17 @@ class ResultScreen extends StatelessWidget {
             ],
           ),
           buttonGeneralAction("Continuar", () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder: (context) => score >= 8 ? const BadgeScreen(
-                    // textPassed: textToSend,
-                    ) : const VideoCourseScreen(
-                    // textPassed: textToSend,
-                    ) 
-              ),
-            );
+            Navigator.pushNamedAndRemoveUntil(context, score >= 8 ?  '/badge': '/main', (route) => false);
+            // Navigator.push(
+            //   context,
+            //   MaterialPageRoute(
+            //     builder: (context) => score >= 8 ? const BadgeScreen(
+            //         // textPassed: textToSend,
+            //         ) : const VideoCourseScreen(
+            //         // textPassed: textToSend,
+            //         ) 
+            //   ),
+            // );
           })
         ],
       ),

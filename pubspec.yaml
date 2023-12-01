@@ -46,4 +46,5 @@ flutter:
     - assets/svg/
     - assets/json/
     - assets/images/infography/
+    - assets/svg/screen_res/
     - .env

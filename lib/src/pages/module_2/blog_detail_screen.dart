@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:security_info_project/src/models/blog_entry.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -67,7 +69,7 @@ class _BlogDetailScreenState extends State<BlogDetailScreen> {
                 const SizedBox(
                   height: 30.0,
                 ),
-                Text(truncateWithEllipsis(200, widget.blogEntry.description.join(' ')), style: TextStyle(height: 1.6), ),
+                Text(truncateWithEllipsis(200, widget.blogEntry.description.join(' ')), style: const TextStyle(height: 1.6), ),
                 const SizedBox(
                   height: 20.0,
                 ),

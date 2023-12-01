@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:security_info_project/src/models/blog_entry.dart';
-import 'package:security_info_project/src/services/warn_up.dart';
+import 'package:security_info_project/src/models/video_class.dart';
+
 import 'screen_reference.dart';
 
 class RouteGenerator {
@@ -13,21 +14,33 @@ class RouteGenerator {
         return createRoute(FirstScreen());
       case '/main':
         return createRoute(const MainMenu());
-      case '/test':
-        return createRoute(const LoadScreen());
-      case '/warm':
-        return createRoute(const WarmUp());
+
       case '/blog':
         return createRoute(const BlogListScreen());
       case '/blogDetail':
-      if(args is BlogEntry){
+        if (args is BlogEntry) {
+          return MaterialPageRoute(
+              builder: (_) => BlogDetailScreen(
+                    blogEntry: args,
+                  ));
+        }
 
-        return MaterialPageRoute(builder: (_) => BlogDetailScreen(blogEntry: args,));
-      }
+        return _errorRoute();
+      case '/video':
+        if (args is VideoClass) {
+          return MaterialPageRoute(
+              builder: (_) => VideoCourseScreen(
+                    classInfo: args,
+                  ));
+        }
 
-      return _errorRoute();
+        return _errorRoute();
+
       case '/actions':
         return createRoute(const ActionsListScreen());
+
+      case '/badge':
+        return createRoute(const BadgeScreen());
 
       default:
         return _errorRoute();
@@ -37,7 +50,9 @@ class RouteGenerator {
   static Route<dynamic> _errorRoute() {
     return MaterialPageRoute(builder: (context) {
       return const Scaffold(
-        body: Center(child: Text("The screen or action could not be found."),),
+        body: Center(
+          child: Text("The screen or action could not be found."),
+        ),
       );
     });
   }

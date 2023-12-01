@@ -4,7 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 
 class FirstScreen extends StatefulWidget {
-  FirstScreen({super.key});
+  const FirstScreen({super.key});
 
 
   

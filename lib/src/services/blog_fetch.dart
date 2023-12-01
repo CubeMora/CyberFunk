@@ -10,10 +10,9 @@ class BlogFetch {
 
   Future<List<BlogEntry>> fetchData() async {
     try {
-      print('URL: $baseUrl');
-      print('Authorization Header: $authHeader');
+  
       final encodedAuthHeader =
-          'Basic ' + base64Encode(utf8.encode('$authHeader:'));
+          'Basic ${base64Encode(utf8.encode('$authHeader:'))}';
       final response = await Dio().get(
         baseUrl,
         options: Options(
@@ -23,7 +22,7 @@ class BlogFetch {
           },
         ),
       );
-      print(response.data);
+      
 
       if (response.statusCode == 200) {
         final lines = response.data.split('\n');

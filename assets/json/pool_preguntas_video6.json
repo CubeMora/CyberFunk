@@ -1,0 +1,282 @@
+[
+  {
+      "pregunta": "¿Cuál es uno de los beneficios más notables de mantener el software y el hardware actualizado?",
+      "opciones": [
+          "Mayor eficiencia energética",
+          "Mayor vida útil de la batería",
+          "Mejor rendimiento general de la PC",
+          "Mayor capacidad de almacenamiento"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Por qué es importante mantener actualizado el software y el hardware?",
+      "opciones": [
+          "Para mantener el sistema más lento",
+          "Para ahorrar dinero en actualizaciones",
+          "Para garantizar la seguridad de tu dispositivo",
+          "Para reducir la eficiencia del dispositivo"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué beneficio obtienen los empleados de una empresa al mantener actualizado el software y el hardware?",
+      "opciones": [
+          "Mayor tiempo de inactividad",
+          "Mayor concentración en sus tareas",
+          "Menos eficiencia en el trabajo",
+          "Más problemas de seguridad"
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Por qué es importante mantener la compatibilidad con otros dispositivos y software?",
+      "opciones": [
+          "Para evitar tener que comprar nuevos dispositivos",
+          "Para aumentar los costos de mantenimiento",
+          "Para reducir el rendimiento del dispositivo",
+          "Para prevenir problemas de seguridad"
+      ],
+      "respuesta_correcta": 0
+  },
+  {
+      "pregunta": "¿Qué tipo de actualizaciones pueden proporcionar nuevas funciones y características para mejorar la experiencia del usuario?",
+      "opciones": [
+          "Actualizaciones de seguridad",
+          "Actualizaciones de hardware",
+          "Actualizaciones de software",
+          "Actualizaciones de compatibilidad"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cómo beneficia la actualización regular a las empresas que dependen de la confiabilidad de sus sistemas?",
+      "opciones": [
+          "Causa más interrupciones en el trabajo",
+          "Aumenta la incertidumbre entre los empleados",
+          "Proporciona una capa adicional de confianza",
+          "Reduce la productividad de los empleados"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué hacen las actualizaciones para extender la vida útil del hardware?",
+      "opciones": [
+          "Acortar la vida útil del hardware",
+          "Aumentar el consumo de energía",
+          "Minimizar la exposición a problemas",
+          "Aumentar los costos de mantenimiento"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cómo contribuyen las actualizaciones a la reducción de los costos de energía?",
+      "opciones": [
+          "Aumentan el consumo de energía",
+          "Reducen el rendimiento del dispositivo",
+          "Mejoran la eficiencia energética",
+          "Aumentan la huella ambiental"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Por qué es importante realizar actualizaciones para resolver problemas menores en el dispositivo?",
+      "opciones": [
+          "Porque las actualizaciones siempre causan problemas",
+          "Porque los problemas menores no afectan el rendimiento",
+          "Porque las actualizaciones pueden ser una solución rápida",
+          "Porque los problemas menores no existen"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuál es la ventaja principal de mantener el software y el hardware actualizado según el video?",
+      "opciones": [
+          "Reducción de la eficiencia del dispositivo",
+          "Aumento del tiempo de inactividad",
+          "Mejora del rendimiento general de la PC",
+          "Mayor costo de las actualizaciones"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuál es el propósito principal de las actualizaciones de software?",
+      "opciones": [
+          "Añadir nuevas características",
+          "Mantener el software desactualizado",
+          "Corregir errores y mejorar la funcionalidad",
+          "Ralentizar la computadora"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué beneficio proporcionan las actualizaciones de seguridad?",
+      "opciones": [
+          "Mejora la velocidad de la computadora",
+          "Aumenta el tiempo de inactividad",
+          "Protege contra nuevas amenazas y malware",
+          "Disminuye la confiabilidad del dispositivo"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cómo se benefician los empleados de una empresa de las actualizaciones regulares?",
+      "opciones": [
+          "Experimentan más problemas de seguridad",
+          "Tienen menos tiempo para realizar tareas",
+          "Disminuye la concentración en el trabajo",
+          "Pueden mantenerse enfocados en sus tareas sin interrupciones"
+      ],
+      "respuesta_correcta": 3
+  },
+  {
+      "pregunta": "¿Qué problema puede surgir si no se actualiza el software para garantizar la compatibilidad?",
+      "opciones": [
+          "No hay problema; la compatibilidad no es importante.",
+          "Los dispositivos y software no funcionarán correctamente juntos.",
+          "La computadora funcionará más rápido.",
+          "La seguridad del dispositivo mejorará."
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Qué tipo de actualizaciones pueden proporcionar nuevas funciones y características?",
+      "opciones": [
+          "Actualizaciones de hardware",
+          "Actualizaciones de seguridad",
+          "Actualizaciones de rendimiento",
+          "Actualizaciones de software"
+      ],
+      "respuesta_correcta": 3
+  },
+  {
+      "pregunta": "¿Cómo pueden las actualizaciones ayudar a construir la confianza en los clientes de una empresa?",
+      "opciones": [
+          "Causando más interrupciones y problemas",
+          "Asegurando que los datos de los clientes no estén seguros",
+          "Minimizando la interrupción en los servicios",
+          "Disminuyendo la eficiencia en el trabajo"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué beneficio se menciona en el video relacionado con la vida útil del hardware?",
+      "opciones": [
+          "Aumento de la exposición a problemas",
+          "Reducción de los costos de mantenimiento",
+          "Mayor consumo de energía",
+          "Aumento de los costos de actualización"
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Cómo reducen las actualizaciones los costos de energía?",
+      "opciones": [
+          "Aumentando el consumo de energía",
+          "Reduciendo el rendimiento del dispositivo",
+          "Disminuyendo la eficiencia energética",
+          "Mejorando la eficiencia energética"
+      ],
+      "respuesta_correcta": 3
+  },
+  {
+      "pregunta": "¿Por qué es importante realizar actualizaciones para resolver problemas menores en el dispositivo?",
+      "opciones": [
+          "Porque los problemas menores nunca afectan el rendimiento.",
+          "Porque las actualizaciones siempre causan problemas mayores.",
+          "Porque las actualizaciones pueden ser una solución rápida.",
+          "Porque los problemas menores son inexistentes."
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuál es la ventaja principal de mantener el software y el hardware actualizado según el video?",
+      "opciones": [
+          "Aumento de los costos de mantenimiento",
+          "Disminución de la eficiencia energética",
+          "Mayor rendimiento general de la PC",
+          "Mayor tiempo de inactividad"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué es lo que las actualizaciones de software hacen principalmente?",
+      "opciones": [
+          "Mantienen el software igual que antes",
+          "Introducen nuevos errores en el sistema",
+          "Mejoran la funcionalidad y corrigen errores",
+          "Disminuyen la velocidad de la computadora"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Por qué las actualizaciones de seguridad son esenciales?",
+      "opciones": [
+          "Para ralentizar el sistema y ahorrar energía",
+          "Para proteger el dispositivo contra amenazas y malware nuevos",
+          "Para aumentar el tiempo de inactividad",
+          "Para mejorar la compatibilidad del software"
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Cómo benefician las actualizaciones regulares a los empleados de una empresa?",
+      "opciones": [
+          "Aumentan la concentración en el trabajo",
+          "Causan más problemas de seguridad",
+          "Generan más tiempo de inactividad",
+          "Reducen la eficiencia en el trabajo"
+      ],
+      "respuesta_correcta": 0
+  },
+  {
+      "pregunta": "¿Por qué es importante mantener actualizado el software para garantizar la compatibilidad?",
+      "opciones": [
+          "Para aumentar el costo de las actualizaciones",
+          "Para mejorar el rendimiento del dispositivo",
+          "Para asegurar que los dispositivos y software funcionen juntos",
+          "Para disminuir la seguridad del dispositivo"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Qué tipo de actualizaciones pueden proporcionar nuevas funciones y características?",
+      "opciones": [
+          "Actualizaciones de rendimiento",
+          "Actualizaciones de hardware",
+          "Actualizaciones de seguridad",
+          "Actualizaciones de software"
+      ],
+      "respuesta_correcta": 3
+  },
+  {
+      "pregunta": "¿Cómo beneficia la actualización regular a las empresas que dependen de la confiabilidad de sus sistemas?",
+      "opciones": [
+          "Aumentando el tiempo de inactividad",
+          "Causando más problemas de seguridad",
+          "Minimizando la interrupción en los servicios",
+          "Disminuyendo la eficiencia en el trabajo"
+      ],
+      "respuesta_correcta": 2
+  },
+  {
+      "pregunta": "¿Cuál es uno de los beneficios mencionados en el video relacionado con la vida útil del hardware?",
+      "opciones": [
+          "Aumento de la exposición a problemas",
+          "Reducción de los costos de mantenimiento",
+          "Mayor consumo de energía",
+          "Aumento de los costos de actualización"
+      ],
+      "respuesta_correcta": 1
+  },
+  {
+      "pregunta": "¿Cómo contribuyen las actualizaciones a la reducción de los costos de energía?",
+      "opciones": [
+          "Aumentando el consumo de energía",
+          "Reduciendo el rendimiento del dispositivo",
+          "Disminuyendo la eficiencia energética",
+          "Mejorando la eficiencia energética"
+      ],
+      "respuesta_correcta": 3
+  }
+]

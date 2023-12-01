@@ -1,18 +1,8 @@
+// ignore_for_file: file_names
+
 import 'package:flutter/material.dart';
 import 'package:security_info_project/src/widgets/textNormal.dart';
 
-/*
-  If (no options is chosen)
-    all answer cards should have default style
-    all buttons should be enabled
-  else
-    all button should be disabled
-    if (correct option is chosen)
-      answer should be highlighted as green
-    else
-      answer should be highlighted as red
-      correct answer should be highlighted as green
-*/
 
 class AnswerCard extends StatelessWidget {
   const AnswerCard({
@@ -44,7 +34,7 @@ class AnswerCard extends StatelessWidget {
               height: 70,
               padding: const EdgeInsets.all(16.0),
               decoration: BoxDecoration(
-                color: Color(0xFF3C3C3C),
+                color: const Color(0xFF3C3C3C),
                 borderRadius: BorderRadius.circular(10),
                 border: Border.all(
                   color: isCorrectAnswer
@@ -73,10 +63,10 @@ class AnswerCard extends StatelessWidget {
               height: 70,
               padding: const EdgeInsets.all(16.0),
               decoration: BoxDecoration(
-                color: Color(0xFF3C3C3C),
+                color: const Color(0xFF3C3C3C),
                 borderRadius: BorderRadius.circular(10),
                 border: Border.all(
-                  color: Color(0xFF3C3C3C),
+                  color: const Color(0xFF3C3C3C),
                 ),
               ),
               child: Row(

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
+import 'package:security_info_project/src/models/drawer_sections.dart';
 import 'package:security_info_project/src/models/infography.dart';
+import 'package:security_info_project/src/services/local_Data.dart';
 import 'package:security_info_project/src/widgets/AppDrawer.dart';
 import 'package:security_info_project/src/widgets/CyberFunkAppBar.dart';
 import 'package:shaky_animated_listview/animators/grid_animator.dart';
@@ -13,61 +15,45 @@ class ActionsListScreen extends StatefulWidget {
 }
 
 class _ActionsListScreenState extends State<ActionsListScreen> {
-  List<Infography> infography = [
-    Infography(
-        title: "Seguridad en línea",
-        image: "assets/images/infography/infography_online_security.jpg",
-        description: "A ta perrotototototototototototototototototote"),
-    Infography(
-        title: "Ataques de phishing",
-        image: "assets/images/infography/infography_phishing.jpg",
-        description: "A ta perrotototototototototototototototototote"),
-    Infography(
-        title: "Fraudes en línea",
-        image: "assets/images/infography/infografy_iot_security.jpg",
-        description: "A ta perrotototototototototototototototototote"),
-    Infography(
-        title: "Identidad personal",
-        image: "assets/images/infography/infography_personal_identity.jpg",
-        description: "A ta perrotototototototototototototototototote"),
-    Infography(
-        title: "Contraseñas",
-        image: "assets/images/infography/infography_secure_passwords.jpg",
-        description: "A ta perrotototototototototototototototototote"),
-    Infography(
-        title: "Actualizaciones",
-        image: "assets/images/infography/infography_updates_importance.jpg",
-        description: "A ta perrotototototototototototototototototote"),
-  ];
+  List<Infography> infography = LocalData().infographies;
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: const CyberFunkAppBar(),
-      drawer: const AppDrawer(),
-      body: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          const ListTile(
-            title: Text("Módulo 3"),
-            subtitle: Text("Actos de prevención y respuesta"),
-            leading: Icon(Icons.shield_outlined),
-          ),
-          const Divider(
-            indent: 30.0,
-            endIndent: 30.0,
-            thickness: 1.5,
-          ),
-          Flexible(
-            fit: FlexFit.loose,
-            child: Center(
-              child: Padding(
-                padding: const EdgeInsets.all(15.0),
-                child: actionsGridView(),
+    return WillPopScope(
+      onWillPop: () async {
+        Navigator.pushNamedAndRemoveUntil(context, '/main', (_) => false);
+        return false;
+      },
+      child: Scaffold(
+        appBar: const CyberFunkAppBar(),
+        drawer: const AppDrawer(currentScreen: DrawerSections.actions,),
+        body: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            const ListTile(
+              title: Text("Módulo 3"),
+              subtitle: Text("Actos de prevención y respuesta"),
+              leading: Icon(Icons.shield_outlined),
+            ),
+            const Divider(
+              indent: 30.0,
+              endIndent: 30.0,
+              thickness: 1.5,
+            ),
+            Flexible(
+              fit: FlexFit.loose,
+              child: Center(
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(
+                      horizontal: 15.0,
+                      vertical:
+                          0.0), //only(left: 15.0, right: 15.0, top: 0.0, bottom: 30.0),
+                  child: actionsGridView(),
+                ),
               ),
             ),
-          )
-        ],
+          ],
+        ),
       ),
     );
   }
@@ -86,13 +72,13 @@ class _ActionsListScreenState extends State<ActionsListScreen> {
             child: InkWell(
               onTap: () {
                 Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => InfographyScreen(
-                    img: infography[index].image,
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => InfographyScreen(
+                      img: infography[index].image,
+                    ),
                   ),
-                ),
-              );
+                );
               },
               child: Card(
                 elevation: 5,
@@ -109,8 +95,7 @@ class _ActionsListScreenState extends State<ActionsListScreen> {
                         fit: BoxFit.cover,
 
                         //height: 30.0,
-                      )
-                          ,
+                      ),
                     ),
                     Padding(
                       padding: const EdgeInsets.all(10.0),
